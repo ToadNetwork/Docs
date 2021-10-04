@@ -11,3 +11,6 @@
 
 ## Sub topic 2 of example 2
 * Sed euismod, nisl at convallis mattis, urna felis congue dolor, vitae sodales erat arcu ut mi. Proin eu dui eget sapien accumsan pharetra sagittis et mi. Curabitur vitae mollis ex, venenatis mollis libero. Proin condimentum vehicula enim. Nunc ac volutpat orci. Donec vitae consequat elit. Aliquam a nulla odio.
+
+## Example editing the docs directly on git
+* Sed euismod, nisl at convallis mattis, urna felis congue dolor, vitae sodales erat arcu ut mi. Proin eu dui eget sapien accumsan pharetra sagittis et mi. Curabitur vitae mollis ex, venenatis mollis libero. Proin condimentum vehicula enim. Nunc ac volutpat orci. Donec vitae consequat elit. Aliquam a nulla odio.
