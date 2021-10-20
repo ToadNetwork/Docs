@@ -84,7 +84,7 @@ In case you find any issues with the pancakeswap interface, TOAD DEVS cloned the
 
 ![check liquidity details](https://github.com/ToadNetwork/Docs/blob/main/docs/_media/howtos/AddingLiquidity12_expandLiquidityAvailable.png?raw=true)
 
-Congrats!!! You have created your liquidity Pool tokens. Now it is time to head to toad.network and place the liquidity on a farm to earn some toads!
+Congrats!!! You have created your liquidity Pool tokens. Now it is time to head to [toad.network](https://toad.network/) and place the [liquidity](liquidity.md) on a [farm](farms.md) to earn some toads!
 
 ##**Adding the LP tokens to a farm**
 - Head to [toadnetwork](https://toad.network/) site, expand the products menu option and click on Farms.
@@ -111,8 +111,8 @@ Congrats!!! You have created your liquidity Pool tokens. Now it is time to head 
 
 ![Confirm deposit on wallet](https://github.com/ToadNetwork/Docs/blob/main/docs/_media/howtos/AddingLiquidity16_ApprovedepositOnWallet.png?raw=true)
 
-- After approvind the deposit on your wallet, and once the transaction has been confirmed on the BSC, you'll see hoy your deposited LP tokens are updated on the farm.
+- After approving the deposit on your wallet, and once the transaction has been confirmed on the BSC, you'll see hoy your deposited LP tokens are updated on the farm.
 
 ![Check deposited LP tokens](https://github.com/ToadNetwork/Docs/blob/main/docs/_media/howtos/AddingLiquidity17_confirmDepositedTokens.png?raw=true)
 
-Congrats, now you have deposited your LP tokens into a TOAD farm and you'll be earning new TOADS by the second!
+Congrats, now you have deposited your LP tokens into a [TOAD farm](toadfarms.md) and you'll be earning new TOADS by the second!
