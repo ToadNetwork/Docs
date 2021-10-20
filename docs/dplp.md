@@ -1,8 +1,10 @@
-**LPF, what is lp farm?**
+#**LPF, what is lp farm?**
 
 LP tokens farming is a new and experimental concept that we came up with, the goal of which is to decentralize the liquidity. In most projects, the team holds a large amount of liquidity and promise to lock it for a certain period. At Toad we are going to give back all of our LP tokens to the community, allowing people to farm them. This also makes the project rug pull proof, as all of the LP tokens from the team are going to a farming pool that is going to drip slowly for those who are staking their tokens.
 
-**Why is LPF better than a dev lock?**
+There is an amazing video that explains the full concept [here](https://www.youtube.com/watch?v=IAMNJRaDaLk)
+
+##**Why is LPF better than a dev lock?**
 
 First we need to understand what is a DEV Lock, which is a mechanism by which projects tend to compensate the developers of a project. In essence, when a project is created, most of the times what happens is that part of the liquidity captured during the funding process (IFOs, ICOs, Launchpads…) is locked in an specific contract that is only accessible to the developers wallets, and that can be claimed by them only after a specified amount of time has been reached, hence the lock.
 
