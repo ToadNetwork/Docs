@@ -29,4 +29,4 @@ In case you find any issues with the pancakeswap interface, TOAD DEVS cloned the
 ##Providing liquidity for TOAD on the PCS clone
 Navigate to toad.network site and expand the "trade" menu.
 Click on PancakeSwap
-![link to PCS clone](https://github.com/ToadNetwork/Docs/tree/main/docs/_media/howtos/AddingLiquidity00_linkToPCSclone.png?raw=true)
+![link to PCS clone](https://github.com/bbrujas/Docs/blob/main/docs/_media/howtos/AddingLiquidity00_linkToPCSclone.png?raw=true)
