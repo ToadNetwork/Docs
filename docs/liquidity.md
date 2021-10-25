@@ -1,17 +1,17 @@
 ## What is liquidity?
-In order for a swap service like PadSwap to function, the system must have some funds to operate with. After all, when you swap one token for another, where are the tokens coming from?
+In order for a swap service like PADSwap to function, the system must have some funds to operate with. After all, when you swap one token for another, where are the tokens coming from?
 
 These funds are added by ordinary users in exchange for **earning transaction fees** and **staking** their liquidity in a [wide variety of farms](farms.md).
 The funds added to the swap are usually referred to as **liquidity**, which is a measure of how easily you can buy or sell an asset - or **how much** of it you can buy/sell.
 
-Liquidity is always stored in **pairs**, such as TOAD-BNB or PAD-BTC, each pair being a separate **liquidity pool**.
+Liquidity is always stored in **pairs**, such as TOAD-BNB or PAD-BTC, with each pair being held in a separate **liquidity pool**.
 For example, when someone swaps BNB for TOAD, the user's BNB is added to the TOAD-BNB pool, and the equivalent amount of TOAD is taken from the pool and given to the user.
 
-As a rule of thumb, more liquidity is better, as it allows users to easily buy and sell large amounts of tokens without causing large price impacts.
+Generally, more liquidity is better, as it allows users to easily buy and sell large amounts of tokens without causing equally large price impacts.
 
 ## The benefits of providing liquidity
 There are two main reasons to provide liquidity:
-1. **0.25%** of every transaction on PadSwap goes to the liquidity pool as a way to reward liquidity providers. Since the supply of LP tokens stays the same, the value of your LP tokens increases with every transaction on that liquidity pair.
+1. **0.25%** of every transaction on PADSwap goes to the liquidity pool rewards drip as a way to reward liquidity providers. Since the supply of LP tokens stays the same, the value of your LP tokens increases with every transaction on that liquidity pair.
 
 2. While some tokens can be staked separately, most of our [farms](https://dapps.padswap.exchange/)  are using **LP tokens** and are much more lucrative. Keep in mind that while your LP tokens are staked, you are **also earning LP fees** mentioned above!
 
