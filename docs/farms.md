@@ -7,4 +7,4 @@ At this moment we can distinguish between two types of farms:
 
 You can gain more detail about LP Farms heading to [DPLP page](dplp.md)
 
-There is more information about TOAD farms [here](toadfarms.md) and more about padswap farms [here](padfarms.md).
+There is more information about TOAD farms [here](toadfarms.md) and more about PADSwap farms [here](padfarms.md).
