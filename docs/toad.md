@@ -1,4 +1,4 @@
-**Toad token**
+**TOAD Token**
 
 Toad token was released on the BSC on Friday, 26th of February with a fixed amount of 200.000 TOAD tokens.
 
