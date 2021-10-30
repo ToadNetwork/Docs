@@ -1,7 +1,7 @@
 **Toad Farms**
 
-TOAD Farms (BNB and BUSD), distribute liquid in a similar fashion over drips as the LPF of developer donated liquidity.
-These drip 1% remaining donated TOAD per day. There is no tax on these farms.
+TOAD Farms (BNB and BUSD), distribute liquid through daily drips, similar to the LPF's drip of developer donated liquidity.
+These rewards drip 1%  of the remaining donated or fee-accrued TOAD per day. There is no tax on these farms.
 
-We believe these systems to be the fairest and most user incentivizing way to distribute a projects liquidity.
-Incentivization to hold, and stake liquidity are paired with free market choices to seek higher yields and refresh the DPLP.
+We believe these systems to be the fairest and most user-incentivizing way to distribute a project's liquidity.
+Incentivization to hold and stake liquidity are paired with free market incentives to seek higher yields and refresh the DPLP.

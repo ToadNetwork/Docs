@@ -1,44 +1,53 @@
 #**LPF, what is lp farm?**
 
-LP tokens farming is a new and experimental concept that we came up with, the goal of which is to decentralize the [liquidity](liquidity.md). In most projects, the team holds a large amount of [liquidity](liquidity.md) and promise to lock it for a certain period. At Toad we are going to give back all of our LP tokens to the community, allowing people to farm them. This also makes the project rug pull proof, as all of the LP tokens from the team are going to a farming pool that is going to drip slowly for those who are staking their tokens.
+LP Token Farming is a new and experimental concept only on the TOAD.Network ecosystem. The goal of LP Token Farming is to decentralize the [liquidity](liquidity.md). In most projects, the team holds a large amount of [liquidity](liquidity.md) and promise to lock it for a certain period of time. At TOAD.Network, we give all of our Team LP tokens to the community, allowing people to farm them. Besides providing more liquidity for users, this makes the project "rug-pull-proof." All of the LP tokens from the team go to farming pools that drip slowly over time to those who are stake their tokens in those farms.
 
-There is an amazing video that explains the full concept [here](https://www.youtube.com/watch?v=IAMNJRaDaLk)
+Here is a video that explains this concept: [video](https://www.youtube.com/watch?v=IAMNJRaDaLk)
 
-##**Why is LPF better than a dev lock?**
+##**Why is LPF better than a DEV Lock?**
 
-First we need to understand what is a DEV Lock, which is a mechanism by which projects tend to compensate the developers of a project. In essence, when a project is created, most of the times what happens is that part of the liquidity captured during the funding process (IFOs, ICOs, Launchpads…) is locked in an specific contract that is only accessible to the developers wallets, and that can be claimed by them only after a specified amount of time has been reached, hence the lock.
+First, we need to understand what a DEV Lock is. A DEV Lock is a mechanism by which projects compensate the developers of a project. In essence, when a project is created, usually part of the liquidity captured during the funding process (IFOs, ICOs, Launchpads…) is locked in an specific contract that is _only_ accessible to the developers' wallets and that can be claimed by them only after a specified amount of time has elapsed.
 
-Most of the times, what this Dev Lock causes is that, developers, once they are able to claim their tokens, start to dump them when price has high values, draining the liquidity from the pool, diminishing the token value and damaging the standard users portfolio.
+How this usually plays out: Developers, after the time has elapsed and they are able to claim their tokens, start to dump them when price has high values. This drains the liquidity from the pool, diminishing the token value and damaging standard users' portfolios.
 
-With LPF, what happens is that developers donate the [liquidity](liquidity.md) collected and have it stored in a special contract that allows any user to connect to. This contract behaves exactly as any other standard pool contract, with an interesting difference: the return of the investment is the same LP token that is provided to the farm, instead of the native token for the project.
+With TOAD.Network's LPF, developers donate the [liquidity](liquidity.md) collected and store it in a special smart contract that allows any user to connect to it. This contract behaves exactly as any other standard pool contract, with one interesting difference: the return of the investment is the same LP token that is provided to the farm, instead of the native token for the project.
 
 This LP Farming is the basis of the **Decentralised Perpetual Liquidity Protocol** that TOAD has brought to the cryptoverse.
 
-It allows any user to keep increasing their position on the project just by reinvesting their recently earned LP tokens, saving time and transactions to the customer.
+DPLP allows any user to constantly strengthen their position in the project simply by reinvesting their newly earned LP tokens- saving users time and transactions.
 
-The **DPLP** protocol aims to make DeFi ecosystem safer by enabling a new mechanism to provide and maintain [liquidity](liquidity.md).
+The **DPLP** protocol aims to make DeFi ecosystem safer for all users by enabling a new mechanism to provide and maintain [liquidity](liquidity.md).
 
-Designed for long term investors, **DPLP** requires a higher percent fee on entrance and exit, avoiding standard whale behavior of entering, earning quick gains and leaving the farm with all the liquidity drained.
+Designed to benefit long-term investors, **DPLP** requires a higher percent fee on both entrance and exit. This prevents the standard "whale behavior" of entering, earning quick gains, and leaving the farm with all liquidity drained.
 
-In few words, LP farming contract will charge a 10% fee on deposits, reinvests and withdraws.
+In short, the LP farming contract will charge a 10% fee on deposits, reinvests and withdraws.
 
+<<<<<<< HEAD
 By charging a high fee to get in and out (that goes right back to the div pool), we ensure that the div pool never will run out of dividends.
 
 Users who keep their liquidity locked in the contract the longest are the ones who are going to get the most rewards.
+=======
+By charging a higher fee to get in and out (that goes right back to the rewards pool), DPLP ensures that the rewards pool will never run out of dividends.
+The users who keep their liquidity locked in the contract the longest are the users who will earn the most rewards.
+>>>>>>> upstream/main
 
-On the basis, this works as follows:
-Let’s say that users start to remove their tokens from the contract as they have reached the expected gains or the pool isn’t attractive for them anymore, then the div pool will receive the exit fee from the users leaving, becoming, again bigger on dividends amount and making it more attractive for people to stake LP tokens and therefore, having again more users into providing [liquidity](liquidity.md).
+In long, this works as follows:
+Let’s say that some users want to remove their tokens from the contract as they have reached their expected gains or the pool is not as attractive for them anymore. Once these users withdraw, the rewards pool will grow from the exit fees these users paid to withdraw. This means that the rewards for users who remain in the contract will be larger, making it more attractive to other people looking to provide [liquidity](liquidity.md).
 
-These LP Mechanism will ensure TOAD and PAD will always have enough [liquidity](liquidity.md).
+This LP Mechanism will ensure TOAD and PAD will always have [liquidity](liquidity.md).
 
-The TOAD LPF liquidity is hosted on PCS V1 liquidity contracts, while PAD’s has had its own personalised and audited contract specifically setup to correct PCS V1 liquidity limits and is fully managed by the [padswap](padswap.md) ecosystem.
+The TOAD LPF liquidity is hosted on PancakeSwap V1 liquidity contracts, while PAD’s has its own personalised and audited contract specifically setup to correct PancakeSwap V1 liquidity limits and is fully managed by the [PADSwap](padswap.md) ecosystem.
 
+<<<<<<< HEAD
 Both of them have a 10% fee deposit, 10% Fee Withdraw, but it is distributed differently on each project:
 - In TOAD, the 10% fee taken when entering into the LP Farm is redirected back to the pool, while when exiting, 9% of the fee goes back to the Liquidity Pool while the other 1% is burnt.
 - In PAD, when entering and exiting, the 8% is redirected back to the pool, while the other 2% is redirected to [The Vault](vault.md).
+=======
+Both LPFs have a 10% fee deposit, 10% Fee Withdraw (1% of which is burned, the other 9% returning to the rewards pool).
+>>>>>>> upstream/main
 
-TOAD developers donated their initially reserved LP tokens to the TOAD pool, and there is no way it can be removed but by farming it when providing [liquidity](liquidity.md) and joining to the LP Farm.
+TOAD developers donated their initially reserved LP tokens to the TOAD pool. There is no way these tokens can be removed except by farming it when providing [liquidity](liquidity.md) and joining to the LP Farm.
 
-TOAD.Network invented perpetual liquidity and harnessed to farm donated developer shares.
+TOAD.Network invented the Decentralized Perpetual Liquidity Protocol so that users can farm donated developer shares and ensure perpetual liquidity for the TOAD.Network ecosystem.
 
-By joining the pool your 10% tax is added to pool rewards and drip. When users leave the pool, they incur in the same 10% pool tax (except 9% reflects back to pool and 1% is burnt). This creates a system in which [liquidity](liquidity.md) will never expire. In 10, 25, and 150 years due to natural free market incentives there will still be liquid TOAD available to acquire.
+By joining the pool, your 10% fee is added to pool rewards and drip. When users leave the pool, they incur in the same 10% fee (9% is added to the rewards pool, 1% is burned). This creates a system in which [liquidity](liquidity.md) will never expire. In 10, 25, even 150 years, due to natural free market incentives, there will still be liquid TOAD and PAD available to purchase.
