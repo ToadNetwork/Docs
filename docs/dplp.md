@@ -22,14 +22,8 @@ Designed to benefit long-term investors, **DPLP** requires a higher percent fee 
 
 In short, the LP farming contract will charge a 10% fee on deposits, reinvests and withdraws.
 
-<<<<<<< HEAD
-By charging a high fee to get in and out (that goes right back to the div pool), we ensure that the div pool never will run out of dividends.
-
-Users who keep their liquidity locked in the contract the longest are the ones who are going to get the most rewards.
-=======
 By charging a higher fee to get in and out (that goes right back to the rewards pool), DPLP ensures that the rewards pool will never run out of dividends.
 The users who keep their liquidity locked in the contract the longest are the users who will earn the most rewards.
->>>>>>> upstream/main
 
 In long, this works as follows:
 Let’s say that some users want to remove their tokens from the contract as they have reached their expected gains or the pool is not as attractive for them anymore. Once these users withdraw, the rewards pool will grow from the exit fees these users paid to withdraw. This means that the rewards for users who remain in the contract will be larger, making it more attractive to other people looking to provide [liquidity](liquidity.md).
@@ -38,13 +32,7 @@ This LP Mechanism will ensure TOAD and PAD will always have [liquidity](liquidit
 
 The TOAD LPF liquidity is hosted on PancakeSwap V1 liquidity contracts, while PAD’s has its own personalised and audited contract specifically setup to correct PancakeSwap V1 liquidity limits and is fully managed by the [PADSwap](padswap.md) ecosystem.
 
-<<<<<<< HEAD
-Both of them have a 10% fee deposit, 10% Fee Withdraw, but it is distributed differently on each project:
-- In TOAD, the 10% fee taken when entering into the LP Farm is redirected back to the pool, while when exiting, 9% of the fee goes back to the Liquidity Pool while the other 1% is burnt.
-- In PAD, when entering and exiting, the 8% is redirected back to the pool, while the other 2% is redirected to [The Vault](vault.md).
-=======
 Both LPFs have a 10% fee deposit, 10% Fee Withdraw (1% of which is burned, the other 9% returning to the rewards pool).
->>>>>>> upstream/main
 
 TOAD developers donated their initially reserved LP tokens to the TOAD pool. There is no way these tokens can be removed except by farming it when providing [liquidity](liquidity.md) and joining to the LP Farm.
 
