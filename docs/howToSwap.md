@@ -1,4 +1,4 @@
-#**How to swap tokens in padswap.exchange DAPP**
+# How to swap tokens in padswap.exchange DAPP
 
 **padswapping**
 
@@ -11,7 +11,7 @@ Apart from the well known tokens (BTC, ETH and, of course, BNB), there are some 
 There are some other videos also that might help on the topic, you'll find them below:
 * TodNetwork Youtube Channel [here](https://www.youtube.com/channel/UCI_vUc-HrJWtKXj-Re-hTSw/videos)
 
-#**How to swap tokens padswap.exchange**
+## How to swap tokens padswap.exchange
 
 [PAD](padtoken.md) has its liquidity on custom audited smart contracts developed by the ToadNetwork team following the secure design of the PadSwap Liquidity Pool contract.
 
@@ -23,7 +23,7 @@ After the transaction succeeds, you'll be provided with the corresponding tokens
 
 Let's look into a more detailed view on what needs to be done.
 
-##**Providing liquidity for PADSWAP**
+## Providing liquidity for PADSWAP
 - Navigate to [padswap.exchange](https://padswap.exchange) site, expand the "trade" menu and click on "swap":
 
 ![link to padswap swap area](https://github.com/ToadNetwork/Docs/blob/main/docs/_media/howtos/SwappingOnPadswap00_navigateToSwap.png?raw=true)

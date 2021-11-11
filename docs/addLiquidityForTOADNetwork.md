@@ -1,9 +1,9 @@
-#**How to provide Liquidity for TOAD**
+# How to provide Liquidity for TOAD
 
 **TOAD Token liquidity**
 
-TOAD.Network has distributed its liquidity among two different smart contracts: 
-1) a PancakeSwap V1 Liquidity Pool contract 
+TOAD.Network has distributed its liquidity among two different smart contracts:
+1) a PancakeSwap V1 Liquidity Pool contract
 2) the more secure PadSwap Liquidity Pool contract.
 
 Head to [liquidity](liquidity.md) for more details about liquidity.
@@ -17,7 +17,7 @@ Here are some videos that provide more specific information on this topic:
 
 If you want to provide liquidity on the [TOAD](toadfarms.md) farms (and earn some more TOADs) then follow these steps:
 
-#**How to add liquidity to TOAD.network Farms**
+## How to add liquidity to TOAD.network Farms
 
 Liquidity for TOAD.network was added on V1 PancakeSwap's liquidity pools. Therefore, in order to be able to add liquidity to these farms you must head to PancakeSwap and change the liquidity to "V1 liquidity and swap options".
 
@@ -29,7 +29,7 @@ Head to TOAD.network and find the corresponding farm for your LP tokens. Approve
 
 If you find any issues with using the PancakeSwap interface, TOAD.Network has you covered. TOAD DEVS cloned the PancakeSwap V1 site and have made that clone available on another site that you can use for the same purpose. Follow these steps for that clone:
 
-##**Providing liquidity for TOAD on the PCS clone**
+## Providing liquidity for TOAD on the PCS clone
 - Navigate to TOAD.network site. Expand the "trade" menu and click on PancakeSwap:
 
 ![link to PCS clone](https://github.com/ToadNetwork/Docs/blob/main/docs/_media/howtos/AddingLiquidity00_linkToPCSclone.png?raw=true)
@@ -88,7 +88,7 @@ If you find any issues with using the PancakeSwap interface, TOAD.Network has yo
 
 Congrats!!! You have created your liquidity Pool tokens. Now you can head to [toad.network](https://toad.network/) and place the [liquidity](liquidity.md) on a [farm](farms.md) to earn some TOAD!
 
-##**Adding the LP tokens to a farm**
+## Adding the LP tokens to a farm
 - Head to [TOAD.network](https://toad.network/), expand the "products menu" option and click on "Farms."
 
 ![Navigate to Farms](https://github.com/ToadNetwork/Docs/blob/main/docs/_media/howtos/AddingLiquidity13a_navigateToFarms.png?raw=true)

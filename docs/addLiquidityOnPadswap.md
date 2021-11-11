@@ -1,4 +1,4 @@
-#**How to provide Liquidity in padswap.exchange DAPP**
+# How to provide Liquidity in padswap.exchange DAPP
 
 **PAD Token liquidity**
 
@@ -13,7 +13,7 @@ Here are some videos that might help on the topic:
 
 If you want to provide liquidity on the [TOAD](toadfarms.md) farms, head to [Add liquidity on ToadNetwork](addLiquitidyForTOADNetwork.md) to find more information.
 
-#**How to add liquidity to padswap.exchange Farms**
+## How to add liquidity to padswap.exchange Farms
 
 [PAD](padtoken.md) holds liquidity on custom audited smart contracts developed by the TOAD.Network team following the secure design of the PadSwap Liquidity Pool contract.
 
@@ -27,7 +27,7 @@ Now go to the "farms" on [padswap.exchange](https://dapps.padswap.exchange/) and
 
 Need a more detailed view on how to do this?
 
-##**Providing liquidity for PADSWAP**
+## Providing liquidity for PADSWAP
 - Navigate to [padswap.exchange](https://padswap.exchange) site, expand the "trade" menu and click on "liquidity":
 
 ![link to padswap liquidity](https://github.com/ToadNetwork/Docs/blob/main/docs/_media/howtos/PadSwapAddingLiquidity00_navigateToLiquidity.png?raw=true)
