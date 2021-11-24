@@ -57,14 +57,15 @@ description: No Risky Clicks.
 
 **TOAD.Network Medium Posts**\
 \
-Creation of TOAD as an antirug pull system, invention of DPLP by KT\
+Creation of TOAD as an anti-rug pull system, invention of DPLP by KT\
 [https://toadytoad.medium.com/the-toad-network-46f5f6872ab6](https://toadytoad.medium.com/the-toad-network-46f5f6872ab6)\
 \
 TOAD value system is a DEFI system by Snake\
 [https://medium.com/@SnakePlisken/who-you-are-does-not-matter-32411a2fc976](https://medium.com/@SnakePlisken/who-you-are-does-not-matter-32411a2fc976)\
 \
 A Friday FUD BUG by KT\
-insert link\
+[https://toadguy.medium.com/a-letter-to-the-community-8be0116b6e9](https://toadguy.medium.com/a-letter-to-the-community-8be0116b6e9)
+
 \
 Creation of PADSwap and The Vault by Snake\
 [https://medium.com/@SnakePlisken/hi-im-pad-4b06686c8508](https://medium.com/@SnakePlisken/hi-im-pad-4b06686c8508)\
@@ -73,3 +74,9 @@ Creation of PADSwap and The Vault by Snake\
 **TOAD BSC ADDRESS- **[https://bscscan.com/token/0x463e737d8f740395abf44f7aac2d9531d8d539e9](https://bscscan.com/token/0x463e737d8f740395abf44f7aac2d9531d8d539e9)
 
 **PAD BSC ADDRESS- **[https://bscscan.com/token/0xc0888d80ee0abf84563168b3182650c0addeb6d5](https://bscscan.com/token/0xc0888d80ee0abf84563168b3182650c0addeb6d5)
+
+
+
+**Wrapped TOAD on MOVR Address- (There is only ever 1 TOAD)**
+
+****
