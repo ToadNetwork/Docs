@@ -30,7 +30,7 @@ If the pool you wish to provide liquidity to does not exist, you can create it! 
 
 In order for a swap service like PADSwap to function, the system must have some funds to operate with. After all, when you swap one token for another, where are the tokens coming from?
 
-These funds are added by ordinary users in exchange for **earning transaction fees** and **staking** their liquidity in a [wide variety of farms](broken-reference). The funds added to the swap are usually referred to as **liquidity**, which is a measure of how easily you can buy or sell an asset - or **how much** of it you can buy/sell.
+These funds are added by ordinary users in exchange for **earning transaction fees** and **staking** their liquidity in a wide variety of farms. The funds added to the swap are usually referred to as **liquidity**, which is a measure of how easily you can buy or sell an asset - or **how much** of it you can buy/sell.
 
 Liquidity is always stored in **pairs**, such as TOAD-BNB or PAD-BTC, with each pair being held in a separate **liquidity pool**. For example, when someone swaps BNB for TOAD, the user's BNB is added to the TOAD-BNB pool, and the equivalent amount of TOAD is taken from the pool and given to the user.
 

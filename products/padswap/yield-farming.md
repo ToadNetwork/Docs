@@ -14,3 +14,5 @@ TOAD.Network has the most effective system in DeFi for farming yield. This is in
 
 ![](../../.gitbook/assets/systemmap.jpg)
 
+Yield farming calculator has been created and can be found in the [Toolbox](https://toad.academy/toolbox/) of [**TOAD Academy**](../toad-academy.md)**.**
+
