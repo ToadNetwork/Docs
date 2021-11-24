@@ -10,6 +10,8 @@ LP Token Farming is a new and experimental concept only on the TOAD.Network ecos
 
 Here is a video that explains this concept: [WTF is DPLP?](https://www.youtube.com/watch?v=IAMNJRaDaLk)
 
+![](../.gitbook/assets/decentralizedliquidity.jpg)
+
 ## Why is DPLP better than a DEV Lock?
 
 First, we need to understand what a DEV Lock is. A DEV Lock is a mechanism by which projects compensate the developers of a project. In essence, when a project is created, usually part of the liquidity captured during the funding process (IFOs, ICOs, Launchpads…) is locked in an specific contract that is _only_ accessible to the developers' wallets and that can be claimed by them only after a specified amount of time has elapsed.
