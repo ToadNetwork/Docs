@@ -3,6 +3,9 @@ cover: ../.gitbook/assets/Untitled_Artwork 7.png
 coverY: 0
 ---
 
-# 🌕 Vision and Values
+# 💡 Vision and Values
 
 Coming Soon! TM
+
+![](../.gitbook/assets/cROAKLIQUID.jpg)
+
