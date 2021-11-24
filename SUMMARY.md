@@ -28,6 +28,7 @@
 * [🚀 LaunchPAD](products/launchpad.md)
 * [🕹 TOAD Academy](products/toad-academy.md)
 * [🌉 TOAD Bridge](products/toad-bridge.md)
+* [🏷 Auctions](products/auctions.md)
 * [--------------------](products/undefined.md)
 * [📺 Guides](products/guides/README.md)
   * [How to Swap](products/guides/how-to-swap.md)
