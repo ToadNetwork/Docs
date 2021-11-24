@@ -34,6 +34,8 @@ coverY: 0
 
 ![](<../.gitbook/assets/Stripey Toad.png>)
 
+**"Believes that education should be fun."**
+
 ## Trout Nugget
 
 👋 New Coin Liasian| Community Lead — 💌 Trout@toad.network — Midwest of Crypto
