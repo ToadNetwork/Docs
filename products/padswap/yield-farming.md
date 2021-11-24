@@ -4,7 +4,7 @@ cover: ../../.gitbook/assets/movrslatepad.jpg
 coverY: 0
 ---
 
-# 👩🌾 Yield Farming
+# 🌾 Yield Farming
 
 ## What is Yield Farming?&#x20;
 
