@@ -1,6 +1,6 @@
 ---
-cover: ../.gitbook/assets/1.11.png
-coverY: 5547.25664621677
+cover: ../.gitbook/assets/Untitled_Artwork 7.png
+coverY: 0
 ---
 
 # 🌕 Vision and Values
