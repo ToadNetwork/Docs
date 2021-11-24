@@ -5,7 +5,7 @@
 ## 🐸 TOAD.Network
 
 * [👋 Introduction](toad.network/introduction.md)
-* [🌕 Vision and Values](toad.network/vision-and-values.md)
+* [💡 Vision and Values](toad.network/vision-and-values.md)
 * [☕ Meet the Team!](toad.network/meet-the-team.md)
 * [🗺 TOADmap](toad.network/toadmap.md)
 * [🔗 Links](toad.network/links.md)
