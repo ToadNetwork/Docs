@@ -2,8 +2,8 @@
 description: >-
   To inform users new and old all about our fair and universal rewarding
   systems.
-cover: .gitbook/assets/toad.network.jpg
-coverY: 0
+cover: .gitbook/assets/2.jpg
+coverY: 53.00613496932515
 ---
 
 # 🐸 TOAD.Network WIKI

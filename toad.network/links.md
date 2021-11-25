@@ -1,5 +1,7 @@
 ---
 description: No Risky Clicks.
+cover: ../.gitbook/assets/v1.jpg
+coverY: 0
 ---
 
 # 🔗 Links
