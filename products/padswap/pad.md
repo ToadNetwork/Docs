@@ -1,5 +1,7 @@
 ---
 description: The Token.
+cover: ../../.gitbook/assets/Toad Alex Grey.png
+coverY: 0
 ---
 
 # 🌺 PAD
