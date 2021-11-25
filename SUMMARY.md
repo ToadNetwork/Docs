@@ -18,8 +18,8 @@
 
 * [♾ DPLP](products/dplp.md)
 * [🐸 TOAD](products/toad/README.md)
-  * [🗳 TOADao](products/toad/toadao.md)
   * [🖼 TOAD NFT](products/toad/toad-nft.md)
+  * [🗳 TOADao](products/toad/toadao.md)
   * [🃏 TOAD The Gathering](products/toad/toad-the-gathering.md)
 * [🍄 PADSwap](products/padswap/README.md)
   * [🌺 PAD](products/padswap/pad.md)
