@@ -38,9 +38,17 @@ In long, this works as follows: Let’s say that some users want to remove their
 
 This LP Mechanism will ensure TOAD and PAD will always have liquidity.
 
-The TOAD LPF liquidity is hosted on **PancakeSwap V1** liquidity contracts, while PAD’s has its own personalised and audited contract specifically setup to correct PancakeSwap V1 liquidity limits and is fully managed by the PADSwap ecosystem.
+The Original TOAD DPLP liquidity is hosted on **PancakeSwap V1** liquidity contracts, while PAD’s has its own personalized and audited contract specifically setup to correct PancakeSwap V1 liquidity limits and is fully managed by the PADSwap ecosystem.
 
-Both LPFs have a 10% fee deposit, 10% Fee Withdraw (1% of which is burned, the other 9% returning to the rewards pool).
+
+
+**Both LPFs have a 10% fee deposit, 10% Fee Withdraw**
+
+All [PADSwap](padswap/) DPLP farms return 7.5% into the rewards pool and send 2.5% to [The Vault](padswap/the-vault.md)
+
+&#x20;The OG TOAD DPLP  has 1% of which is burned, the other 9% returning to the rewards pool
+
+
 
 TOAD developers donated their initially reserved LP tokens to the TOAD pool. There is no way these tokens can be removed except by farming it when providing liquidity and joining to the LP Farm.
 
