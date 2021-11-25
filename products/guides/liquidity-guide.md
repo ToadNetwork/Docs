@@ -1,6 +1,6 @@
 # Liquidity Guide
 
-![](<../../.gitbook/assets/photo\_2021-10-26\_22-52-45 (1).jpg>)
+{% embed url="https://youtu.be/vWswQzd2wlM" %}
 
 **PAD Token liquidity**
 

@@ -6,6 +6,8 @@ coverY: 174.39672801635993
 
 # 👋 Introduction
 
+{% embed url="https://youtu.be/5zOg6WWLO0o" %}
+
 ## What is TOAD?&#x20;
 
 TOAD is a community-driven organization built to solve the common problems of Decentralized Finance. These problems include the inability of disparate forms of liquidity to connect with markets in a decentralized way; and even the issues of removing liquidity provision from projects (Rug-Pulling). Some solutions provide incrementally progressive advances toward solving the problem of liquidity, but TOAD.Network's progress is intended to initiate a broader, more impactful range of network effects. Rather than limiting itself to a single solution, TOAD.Network intertwines many decentralized markets and instruments.&#x20;
