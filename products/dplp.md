@@ -52,4 +52,4 @@ TOAD developers donated their initially reserved LP tokens to the TOAD pool. The
 
 TOAD.Network invented the Decentralized Perpetual Liquidity Protocol so that users can farm donated developer shares and ensure perpetual liquidity for the TOAD.Network ecosystem.
 
-By joining the pool, your 10% fee is added to pool rewards and drip. When users leave the pool, they incur in the same 10% fee (9% is added to the rewards pool, 1% is burned). This creates a system in which liquidity will never expire. In 10, 25, even 150 years, due to natural free market incentives, there will still be liquid TOAD and PAD available to purchase.
+By joining the pool, your 10% fee is added to pool rewards and drip. When users leave the pool, they incur in the same 10% fee refilling the rewards pool. This creates a system in which liquidity will never expire. In 10, 25, even 150 years, due to natural free market incentives, there will still be liquid [TOAD](toad/) and [PAD](padswap/pad.md) available to purchase.
