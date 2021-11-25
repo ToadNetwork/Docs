@@ -1,7 +1,7 @@
 ---
 description: Decentralized Perpetual Liquidity Protocol
-cover: ../.gitbook/assets/tictactoad.jpg
-coverY: -44.49897750511248
+cover: ../.gitbook/assets/DPLP.png
+coverY: -5.000000000000001
 ---
 
 # ♾ DPLP
