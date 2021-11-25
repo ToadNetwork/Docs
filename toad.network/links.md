@@ -79,8 +79,9 @@ Creation of PADSwap and The Vault by Snake\
 
 **Wrapped TOAD on Moonriver Address- (There is only ever 1 TOAD)**
 
-****[**https://moonriver.moonscan.io/address/0x165dbb08de0476271714952c3c1f068693bd60d7**](https://moonriver.moonscan.io/address/0x165dbb08de0476271714952c3c1f068693bd60d7)****
+****[https://moonriver.moonscan.io/token/0x165dbb08de0476271714952c3c1f068693bd60d7](https://moonriver.moonscan.io/token/0x165dbb08de0476271714952c3c1f068693bd60d7)
 
 **MOVR PAD ADDRESS-**
 
-****[**https://moonriver.moonscan.io/address/0x45488c50184ce2092756ba7cdf85731fd17e6f3d**](https://moonriver.moonscan.io/address/0x45488c50184ce2092756ba7cdf85731fd17e6f3d)****
+[https://moonriver.moonscan.io/token/0x45488c50184ce2092756ba7cdf85731fd17e6f3d](https://moonriver.moonscan.io/token/0x45488c50184ce2092756ba7cdf85731fd17e6f3d)
+
