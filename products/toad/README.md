@@ -5,9 +5,13 @@ coverY: 0
 
 # 🐸 TOAD
 
-OG medium discussion and rugpull centric discussion goes here
+&#x20;The Toad Team created a contract that will allow Toad liquidity providers to stake their LP tokens to farm LP tokens in a perpetual farm that is never running out.
+
+The Toad Team decided to add all the liquidity provider tokens to the farm pool, getting them out of the team hands, thus effectively removing our ability to remove liquidity, and making toad a **“Rug Pull Proof**” project. This was the birth of DPLP
 
 
+
+![](../../.gitbook/assets/ogtoadchat.png)
 
 **TOAD Token**
 
