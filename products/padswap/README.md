@@ -1,7 +1,7 @@
 ---
 description: https://padswap.exchange
-cover: ../../.gitbook/assets/Normal PadSwap Logo.png
-coverY: 11.766666666666666
+cover: ../../.gitbook/assets/PADSwap_Cover.png
+coverY: 0
 ---
 
 # 🍄 PADSwap
