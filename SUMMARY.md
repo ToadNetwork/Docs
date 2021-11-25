@@ -20,7 +20,7 @@
 * [🐸 TOAD](products/toad/README.md)
   * [🖼 TOAD NFT](products/toad/toad-nft.md)
   * [🗳 TOADao](products/toad/toadao.md)
-  * [🃏 TOAD The Gathering](products/toad/toad-the-gathering.md)
+  * [🃏 TOAD Cards](products/toad/toad-cards.md)
 * [🍄 PADSwap](products/padswap/README.md)
   * [🌺 PAD](products/padswap/pad.md)
   * [🌊 Liquidity Pools](products/padswap/liquidity-pools.md)
