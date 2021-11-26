@@ -6,8 +6,6 @@ coverY: -28.333333333333357
 
 # 🌺 PAD
 
-****![](<../../.gitbook/assets/image (3).png>)****
-
 **PADSwap Token Name:** Lily Pad
 
 **PADSwap Token Symbol/Ticker:** PAD
@@ -31,6 +29,8 @@ The BEP-20 token PAD is a standard BEP-20 token with mint and burn functions, th
 The minter mints new tokens(0.13% of the remaining supply there is to mint) and distributes them to the farms. All of the remaining 180 billion tokens are going to be minted and distributed by the Minter contract. The minter contract will mint 0.13% of the remaining supply a day, by the second, and distribute those rewards to the farms and dev contract.
 
 The dev contract will get 10% of those rewards, the remaining 90% are going to be distributed to the farms. The only address that is allowed to mint new tokens is the minter contract. The only parameters the developers can change in the minter contract are the % each farm gets from the daily mint and add/remove new farms. Developers have no incentive to alter the % they get from the minter, as this would be quickly spotted by the community and since the Minter contract will only mint 0.13% a day, they would lose more from the devaluation (due to lost of trust) of the pad and toad that they hold than that 0.13% is worth.
+
+****![](<../../.gitbook/assets/image (3).png>)****
 
 \
 
