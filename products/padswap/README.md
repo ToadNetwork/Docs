@@ -1,6 +1,6 @@
 ---
 description: https://padswap.exchange
-cover: ../../.gitbook/assets/PADSwap_Cover.png
+cover: ../../.gitbook/assets/PADSwap_New.png
 coverY: 0
 ---
 

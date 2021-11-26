@@ -1,6 +1,6 @@
 ---
 description: https://dapps.padswap.exchange/bridge/
-cover: ../.gitbook/assets/photo_2021-10-26_05-58-59.jpg
+cover: ../.gitbook/assets/MoonRiver_BSC_Bridge_NEW.png
 coverY: 0
 ---
 

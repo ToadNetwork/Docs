@@ -1,6 +1,6 @@
 ---
 description: Take off with fair systems!
-cover: ../.gitbook/assets/LaunchPAD.png
+cover: ../.gitbook/assets/LaunchPAD_NEW.png
 coverY: 0
 ---
 
