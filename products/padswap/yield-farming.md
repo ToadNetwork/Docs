@@ -1,7 +1,7 @@
 ---
 description: https://dapps.padswap.exchange/
-cover: ../../.gitbook/assets/movrslatepad.jpg
-coverY: 0
+cover: ../../.gitbook/assets/Yield_Farming.png
+coverY: -13.333333333333336
 ---
 
 # 🌾 Yield Farming

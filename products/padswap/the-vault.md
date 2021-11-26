@@ -1,6 +1,6 @@
 ---
 description: https://dapps.padswap.exchange/vault
-cover: ../../.gitbook/assets/Untitled_Artwork 2.png
+cover: ../../.gitbook/assets/The_Vault.png
 coverY: 0
 ---
 

@@ -1,7 +1,7 @@
 ---
 description: Take off with fair systems!
-cover: ../.gitbook/assets/rocketlaunchtoad.png
-coverY: 1124.7443762781186
+cover: ../.gitbook/assets/LaunchPAD.png
+coverY: 0
 ---
 
 # 🚀 LaunchPAD

@@ -1,6 +1,6 @@
 ---
-cover: ../../.gitbook/assets/4.jpg
-coverY: 64.78527607361963
+cover: ../../.gitbook/assets/Auctions.png
+coverY: 5
 ---
 
 # 🏷 Auctions
