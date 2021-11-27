@@ -1,7 +1,7 @@
 ---
 description: Intro to TOAD.Network Ecosystem.
-cover: ../.gitbook/assets/surfstoad.jpg
-coverY: 174.39672801635993
+cover: ../.gitbook/assets/Introduction.png
+coverY: -18.333333333333332
 ---
 
 # 👋 Introduction
