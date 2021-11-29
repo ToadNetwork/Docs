@@ -26,6 +26,6 @@ Free Unifaucet List
 
 LaunchPAD beta will receive a percentage of every presale and a small fee for creating the project, those fees are going to be converted to TOAD/BNB | TOAD/MOVR | TOAD/GLMR and donated to DPLP.
 
-The main idea is to make token launches as safe as possible for users and as easy as possible for developers while also offering a large variety of utility tools to boost their liquidity. Developers should be able to focus on their products and the community. This will set a industry standard where they feel safe Developers won't be able to rug or act maliciously with funds. Obviously this isn't a magic solution, bad projects that don't offer anything new are still going to do poorly. However this is leaps above current protocols and eliminates rug pulling.&#x20;
+The purpose of the LaunchPAD is to make token launches as safe as possible for users and as easy as possible for developers. It will also offer a large variety of tools to boost projects' liquidity and utility. Developers should be able to focus on their products and the community. This will set a industry standard where they feel safe Developers will not be able to rug or act maliciously with LP. Obviously, this is not a magic solution- some projects that do not offer anything new are still going to only perform as well as the market allows. However this is leaps above current protocols and eliminates rug pulling altogether.
 
 To apply for whitelist fill this form here:&#x20;
