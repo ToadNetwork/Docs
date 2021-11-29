@@ -44,9 +44,7 @@ The Original TOAD DPLP liquidity is hosted on **PancakeSwap V1** liquidity contr
 
 **ALL DPLP Frams have a 10% fee deposit, 10% Fee Withdraw**
 
-All [PADSwap](padswap/) DPLP farms return 7.5% into the rewards pool and send 2.5% to [The Vault](padswap/the-vault.md) to back [PAD](padswap/pad.md). The OG TOAD DPLP  has 1% burned, the other 9% returning to the rewards pool.
-
-
+All [PADSwap](padswap/) DPLP farms return 7.5% into the rewards pool and send 2.5% to [The Vault](padswap/the-vault.md) to back [PAD](padswap/pad.md). The Original TOAD DPLP has 1% burned, the other 9% returning to the rewards pool.
 
 TOAD developers donated their initially reserved LP tokens to the TOAD pool. There is no way these tokens can be removed except by farming it when providing liquidity and joining to the LP Farm.
 
