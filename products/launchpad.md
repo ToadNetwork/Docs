@@ -10,15 +10,15 @@ LaunchPAD beta will allow anyone to launch their own project without any coding 
 
 AUDITED Presale Contract
 
-AUDITED BEP20 or MOVR Token
+AUDITED BEP20 | MOVR Token | GLMR Token
 
-AUDITED Farms (TOKEN-BNB|MOVR, TOKEN-BUSD|USDC, TOKEN-PAD)&#x20;
+AUDITED Farms (TOKEN-BNB|MOVR|GLMR, TOKEN-BUSD|USDC, TOKEN-PAD)&#x20;
 
 AUDITED DPLP FARMS (DECENTRALIZED PERPETUAL LIQUIDITY PROTOCOL)&#x20;
 
 Partner Farms available for whitelisted Projects
 
-RUG-PROOF PROJECT BATCH
+RUG-PROOF Project Batch
 
 Discounted Moonlight Bubble Maps List
 
