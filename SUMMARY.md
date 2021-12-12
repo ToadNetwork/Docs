@@ -20,7 +20,7 @@
 * [🍄 PADSwap](products/padswap/README.md)
   * [🌺 PAD](products/padswap/pad.md)
   * [🌊 Liquidity Pools](products/padswap/liquidity-pools.md)
-  * [Yield Farming](products/padswap/yield-farming.md)
+  * [🌾 Yield Farming](products/padswap/yield-farming.md)
   * [🔏 The Vault](products/padswap/the-vault.md)
   * [🏷 Auctions](products/padswap/auctions.md)
 * [🐸 TOAD](products/toad/README.md)
