@@ -11,25 +11,28 @@ coverY: 0
 
 [TOAD.Network](https://toad.network)
 
-[PADSwap.exchange](https://padswap.exchange/#/swap)
+[PADSwap.exchange](https://padswap.exchange/#/swap)\
+\
+[Twitter](https://twitter.com/ToadNetwork)
 
 [Telegram](https://t.me/toadnetwork)
 
 [Announcements](https://t.me/TOADnPAD)
 
-[Twitter](https://twitter.com/ToadNetwork)
+[TOAD.Network Reddit](https://www.reddit.com/r/TOADNetwork/)
 
-[Instagram](https://www.instagram.com/toad.network/)
+[GitHub](https://github.com/ToadNetwork)
 
 [YouTube](https://www.youtube.com/channel/UCI\_vUc-HrJWtKXj-Re-hTSw)
 
-[TOAD.Network Reddit](https://www.reddit.com/r/TOADNetwork/)
+[Linktree](https://linktr.ee/TOAD.Network)
 
-[PADSwap Reddit](https://www.reddit.com/r/PadSwap/)
+[Instagram](https://www.instagram.com/toad.network/)
 
-[Medium](https://toadnetwork.medium.com)
-
-[GitHub](https://github.com/ToadNetwork)\
+[Medium](https://toadnetwork.medium.com)\
+\
+[PADSwap Reddit](https://www.reddit.com/r/PadSwap/)\
+\
 \
 **Audits**\
 [TOAD.Network by SpadeTech](https://spadetech.io/wp-content/uploads/2021/06/toad\_network\_audit\_report.pdf)\
