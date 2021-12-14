@@ -40,9 +40,7 @@ This LP Mechanism will ensure TOAD and PAD will always have liquidity.
 
 The Original TOAD DPLP liquidity is hosted on **PancakeSwap V1** liquidity contracts, while PAD’s has its own personalized and audited contract specifically setup to correct PancakeSwap V1 liquidity limits and is fully managed by the PADSwap ecosystem.
 
-
-
-**ALL DPLP Frams have a 10% fee deposit, 10% Fee Withdraw**
+**ALL DPLP Farms have a 10% fee deposit, 10% Fee Withdraw**
 
 All [PADSwap](padswap/) DPLP farms return 7.5% into the rewards pool and send 2.5% to [The Vault](padswap/the-vault.md) to back [PAD](padswap/pad.md). The Original TOAD DPLP has 1% burned, the other 9% returning to the rewards pool.
 
