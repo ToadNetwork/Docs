@@ -22,7 +22,7 @@
   * [🌊 Liquidity Pools](products/padswap/liquidity-pools.md)
   * [🌾 Yield Farming](products/padswap/yield-farming.md)
   * [🔏 The Vault](products/padswap/the-vault.md)
-  * [🏷 Auctions](products/padswap/auctions.md)
+  * [🏷 Perpetual Auctions](products/padswap/auctions.md)
 * [🐸 TOAD](products/toad/README.md)
   * [🖼 TOAD NFT](products/toad/toad-nft.md)
   * [🗳 TOADao](products/toad/toadao.md)
