@@ -8,7 +8,7 @@ coverY: -5.000000000000001
 
 {% embed url="https://youtu.be/IAMNJRaDaLk" %}
 
-LP Token Farming is a new and experimental concept only on the TOAD.Network ecosystem. The goal of LP Token Farming is to decentralize the liquidity. In other projects, the team holds a large amount of liquidity and promise to lock it for a certain period of time. At TOAD.Network, we give all of our Team LP tokens to the community, allowing people to farm them. Besides providing more liquidity for users, this makes the project "rug-pull-proof." All of the LP tokens from the team are donated to farming pools that drip slowly over time to those who are stake their tokens in those farms, meaning devs have only as much access to these tokens as any other user.
+LP Token Farming is a new and experimental concept only on the TOAD.Network ecosystem. The goal of LP Token Farming is to decentralize the liquidity. In other projects, the team holds a large amount of liquidity and promise to lock it for a certain period of time. At TOAD.Network, we give all of our Team LP tokens to the community, allowing people to farm them. Besides providing more liquidity for users, this makes the project "rug-pull-proof." All of the LP tokens from the team are donated to farming pools that drip slowly over time to those who stake their tokens in those farms, meaning devs have only as much access to these tokens as any other user.
 
 Here is a video that explains this concept: [WTF is DPLP?](https://www.youtube.com/watch?v=IAMNJRaDaLk)
 
