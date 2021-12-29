@@ -1,20 +1,19 @@
 # Table of contents
 
-* [🐸 TOAD.Network WIKI](README.md)
+* [What is the TOAD.Network?](README.md)
+* [Guides](products/guides/README.md)
+  * [How to Swap Tokens?](guides/how-to-swap.md)
+  * [How to Provide Liquidity?](guides/how-to-provide-liquidity.md)
 
-## 🐸 TOAD.Network
+## Project
 
-* [👋 Introduction](toad.network/introduction.md)
-* [💡 Vision and Values](toad.network/vision-and-values.md)
-* [☕ Meet the Team!](toad.network/meet-the-team.md)
-* [🗺 TOADmap](toad.network/toadmap.md)
-* [🔗 Links](toad.network/links.md)
+* [💡 Vision and Values](project/vision-and-values.md)
+* [☕ Core Team](project/team.md)
+* [🫂 Community](project/community.md)
+* [🎯 Roadmap](project/roadmap.md)
+* [🔗 Links](project/links.md)
 
-***
-
-* [---------------------](undefined.md)
-
-## 🪃 Products
+## Products
 
 * [♾ DPLP](products/dplp.md)
 * [🍄 PADSwap](products/padswap/README.md)
@@ -30,7 +29,5 @@
 * [🚀 LaunchPAD](products/launchpad.md)
 * [🕹 TOAD Academy](products/toad-academy.md)
 * [🌉 TOAD Bridge](products/toad-bridge.md)
-* [--------------------](products/undefined.md)
-* [📺 Guides](products/guides/README.md)
-  * [How to Swap](products/guides/how-to-swap.md)
-  * [Liquidity Guide](products/guides/liquidity-guide.md)
+
+

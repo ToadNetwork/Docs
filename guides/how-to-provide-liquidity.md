@@ -1,4 +1,8 @@
-# Liquidity Guide
+---
+description: This guide explains how you can provide liquidity via PADSwap.Exchange.
+---
+
+# How to provide liquidity?
 
 {% embed url="https://youtu.be/vWswQzd2wlM" %}
 
@@ -13,8 +17,6 @@ Depending on the farms you want to enter, you may have to provide liquidity on a
 Here are some videos that might help on the topic:
 
 * [ToadNetwork Youtube Channel](https://www.youtube.com/channel/UCI\_vUc-HrJWtKXj-Re-hTSw/videos)&#x20;
-
-If you want to provide liquidity on the TOAD farms, head to [Add liquidity on ToadNetwork](https://github.com/ToadNetwork/Docs/blob/main/docs/addLiquitidyForTOADNetwork.md) to find more information.
 
 ## How to add liquidity to PADSwap.Exchange Farms
 
