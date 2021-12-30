@@ -8,7 +8,7 @@ coverY: -5.000000000000001
 
 {% embed url="https://youtu.be/IAMNJRaDaLk" %}
 
-LP Token Farming is a new and experimental concept only on the TOAD.Network ecosystem. The goal of LP Token Farming is to decentralize the liquidity. In other projects, the team holds a large amount of liquidity and promise to lock it for a certain period of time. At TOAD.Network, we give all of our Team LP tokens to the community, allowing people to farm them. Besides providing more liquidity for users, this makes the project "rug-pull-proof." All of the LP tokens from the team are donated to farming pools that drip slowly over time to those who are stake their tokens in those farms, meaning devs have only as much access to these tokens as any other user.
+LP Token Farming is a new and experimental concept only on the TOAD.Network ecosystem. The goal of LP Token Farming is to decentralize the liquidity. In other projects, the team holds a large amount of liquidity and promise to lock it for a certain period. At TOAD.Network, we give all of our Team LP tokens to the community, allowing people to farm them. Besides providing more liquidity for users, this makes the project "rug-pull-proof". All the LP tokens from the team are donated to farming pools that drip slowly over time to those who stake their tokens in those farms, meaning devs have only as much access to these tokens as any other user.
 
 Here is a video that explains this concept: [WTF is DPLP?](https://www.youtube.com/watch?v=IAMNJRaDaLk)
 
@@ -16,7 +16,7 @@ Here is a video that explains this concept: [WTF is DPLP?](https://www.youtube.c
 
 ## Why is DPLP better than a DEV Lock?
 
-First, we need to understand what a DEV Lock is. A DEV Lock is a mechanism by which projects compensate the developers of a project. In essence, when a project is created, usually part of the liquidity captured during the funding process (IFOs, ICOs, Launchpads…) is locked in an specific contract that is _only_ accessible to the developers' wallets and that can be claimed by them only after a specified amount of time has elapsed.
+First, we need to understand what a DEV Lock is. A DEV Lock is a mechanism by which projects compensate the developers of a project. In essence, when a project is created, usually part of the liquidity captured during the funding process (IFOs, ICOs, Launchpads…) is locked in a specific contract that is _only_ accessible to the developers' wallets and that can be claimed by them only after a specified amount of time has elapsed.
 
 How this usually plays out: Developers, after the time has elapsed and they are able to claim their tokens, start to dump them when price has high values. This drains the liquidity from the pool, diminishing the token value and damaging standard users' portfolios.
 
@@ -42,10 +42,10 @@ The Original TOAD DPLP liquidity is hosted on **PancakeSwap V1** liquidity contr
 
 **ALL DPLP Farms have a 10% fee deposit, 10% Fee Withdraw**
 
-All [PADSwap](padswap/) DPLP farms return 7.5% into the rewards pool and send 2.5% to [The Vault](padswap/the-vault.md) to back [PAD](padswap/pad.md). The Original TOAD DPLP has 1% burned, the other 9% returning to the rewards pool.
+All [PADSwap](../products/padswap/README.md) DPLP farms return 7.5% into the rewards pool and send 2.5% to [The Vault](the-vault.md) to back [PAD](../tokens/pad.md). The Original TOAD DPLP has 1% burned, the other 9% returning to the rewards pool.
 
 TOAD developers donated their initially reserved LP tokens to the TOAD pool. There is no way these tokens can be removed except by farming it when providing liquidity and joining to the LP Farm.
 
 TOAD.Network invented the Decentralized Perpetual Liquidity Protocol so that users can farm donated developer shares and ensure perpetual liquidity for the TOAD.Network ecosystem.
 
-By joining the pool, your 10% fee is added to pool rewards and drip. When users leave the pool, they incur in the same 10% fee refilling the rewards pool. This creates a system in which liquidity will never expire. In 10, 25, even 150 years, due to natural free market incentives, there will still be liquid [TOAD](toad/) and [PAD](padswap/pad.md) available to purchase.
+By joining the pool, your 10% fee is added to pool rewards and drip. When users leave the pool, they incur in the same 10% fee refilling the rewards pool. This creates a system in which liquidity will never expire. In 10, 25, even 150 years, due to natural free market incentives, there will still be liquid [TOAD](../tokens/toad.md) and [PAD](../tokens/pad.md) available to purchase.

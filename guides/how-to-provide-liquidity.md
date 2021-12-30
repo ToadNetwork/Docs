@@ -1,4 +1,8 @@
-# Liquidity Guide
+---
+description: This guide explains how you can provide liquidity via PADSwap.Exchange.
+---
+
+# How to provide liquidity?
 
 {% embed url="https://youtu.be/vWswQzd2wlM" %}
 
@@ -13,8 +17,6 @@ Depending on the farms you want to enter, you may have to provide liquidity on a
 Here are some videos that might help on the topic:
 
 * [ToadNetwork Youtube Channel](https://www.youtube.com/channel/UCI\_vUc-HrJWtKXj-Re-hTSw/videos)&#x20;
-
-If you want to provide liquidity on the TOAD farms, head to [Add liquidity on ToadNetwork](https://github.com/ToadNetwork/Docs/blob/main/docs/addLiquitidyForTOADNetwork.md) to find more information.
 
 ## How to add liquidity to PADSwap.Exchange Farms
 
@@ -90,7 +92,7 @@ Need a more detailed view on how to do this?
 
 Congrats!!! You have created your liquidity Pool tokens. Now it is time to head to the "farms" area of [padswap.exchange](https://dapps.padswap.exchange) and place the [liquidity](broken-reference) on a [farm](broken-reference) to earn some PAD!
 
-\##**Adding the LP tokens to a farm**
+## Adding the LP tokens to a farm
 
 * Head to [padswap.exchange](https://dapps.padswap.exchange) site and click on Farms.
 
@@ -100,7 +102,7 @@ Congrats!!! You have created your liquidity Pool tokens. Now it is time to head 
 
 ![Connect wallet to Dapp](https://github.com/ToadNetwork/Docs/blob/main/docs/\_media/howtos/AddingLiquidity13\_connectWallet.png?raw=true)
 
-* Once you have choosen the right farm, you will have to approve it on the DAPP so that you can deposit your LP tokens.
+* Once you have chosen the right farm, you will have to approve it on the DAPP so that you can deposit your LP tokens.
 
 ![Approve Farm](https://github.com/ToadNetwork/Docs/blob/main/docs/\_media/howtos/PadSwapAddingLiquidity18\_navigateToChoosenFarm.png?raw=true)
 

@@ -6,7 +6,7 @@ coverY: 245.39877300613497
 
 # 🌊 Liquidity Pools
 
-## **What are liquidity pools?**
+## What are liquidity pools?
 
 Liquidity pools are place to pool tokens (which we sometimes call liquidity) so that users can use them to make trades in a decentralized way. These pools are created by users and decentralized apps (or Dapps, for short) who want to profit from their usage. To pool liquidity, the amounts a user supplies must be equally divided between two coins: the primary token (sometimes called the quote token) and the base token (usually BNB or a stable coin).
 
@@ -14,13 +14,13 @@ PADSwap's liquidity pools allow anyone to provide liquidity [here](https://padsw
 
 Once a user provides liquidity, they will receive **LP tokens** (PADSwap Liquidity Provider tokens). If a user deposited $TOAD and $BNB into a pool, they would receive TOAD-BNB LP tokens. These tokens represent a proportional share of the pooled assets, allowing a user to reclaim their funds at any point. Every time another user uses the pool to trade between $TOAD and $BNB, a 0.3% fee is taken on the trade. 0.25% of that trade goes back to the LP pool. .05% Is sent to the [**The Vault**](https://dapps.padswap.exchange/vault) as index backing for $PAD.\
 \
-The value of the LP tokens (which represent the shares of the total liquidity each pool) is updated with each trade to add their value relative to the tokens the pool uses to trade. If previously there were 100 LP tokens representing 100 BNB and 100 TOAD, each token would be worth 1 BNB & 1 TOAD (note in this example, BNB and TOAD are the same relative value). If a user were then to trade 10 BNB for 10 TOAD in that pool, and another user were to trade 10 TOAD for 10 BNB, then there would now be 100.025 BNB and 100.025 TOAD. This means each LP token would be worth 1.0025 BNB and 1.00025 TOAD now when it is withdrawn.
+The value of the LP tokens (which represent the shares of the total liquidity in each pool) is updated with each trade to add their value relative to the tokens the pool uses to trade. If previously there were 100 LP tokens representing 100 BNB and 100 TOAD, each token would be worth 1 BNB & 1 TOAD (note in this example, BNB and TOAD are the same relative value). If a user were then to trade 10 BNB for 10 TOAD in that pool, and another user were to trade 10 TOAD for 10 BNB, then there would now be 100.025 BNB and 100.025 TOAD. This means each LP token would be worth 1.0025 BNB and 1.00025 TOAD now when it is withdrawn.
 
-### **Instructions for adding liquidity**
+### Instructions for adding liquidity
 
-[**Walkthrough Here**](../guides/liquidity-guide.md)
+[**Walkthrough Here**](../../guides/how-to-provide-liquidity.md)
 
-### **Adding liquidity to a new pool**
+### Adding liquidity to a new pool
 
 If the pool you wish to provide liquidity to does not exist, you can create it! Simply provide the tokens, and off you go. As the first liquidity provider, you set the initial exchange ratio (price) if one of the tokens in the pair does not exist yet on PADSwap. This often quickly corrects itself through arbitrage and by more liquidity providers adding to the pool. Gas will also be a bit higher for creating the initial pair (contract).
 
@@ -28,7 +28,7 @@ If the pool you wish to provide liquidity to does not exist, you can create it! 
 
 In order for a swap service like PADSwap to function, the system must have some funds to operate with. After all, when you swap one token for another, where are the tokens coming from?
 
-These funds are added by ordinary users in exchange for **earning transaction fees** and **staking** their liquidity in a wide variety of farms. The funds added to the swap are usually referred to as **liquidity**, which is a measure of how easily you can buy or sell an asset - or **how much** of it you can buy/sell.
+These funds are added by ordinary users in exchange for **earning transaction fees** and **staking** their liquidity in a wide variety of farms. The funds added to the swap are usually referred to as **liquidity**, which is a measure of how easily you can buy or sell an asset — or **how much** of it you can buy/sell.
 
 Liquidity is always stored in **pairs**, such as TOAD-BNB or PAD-BTC, with each pair being held in a separate **liquidity pool**. For example, when someone swaps BNB for TOAD, the user's BNB is added to the TOAD-BNB pool, and the equivalent amount of TOAD is taken from the pool and given to the user.
 
@@ -49,7 +49,7 @@ After adding liquidity, you will receive **LP tokens** that you can now stake in
 
 **In case you don't see your liquidity on the liquidity tab:**
 
-1. Make sure that you've unstaked your LP tokens from the farms
+1. Only LP tokens not staked in any farm are shown
 2. On the liquidity page, click "Import it" and select your liquidity pair.
 
 ### Impermanent loss

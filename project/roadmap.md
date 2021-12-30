@@ -1,14 +1,11 @@
 ---
 description: >-
-  Roadmap for TOAD.Network ecosystem. Where we've been and where we're going
-  next.
+  Roadmap for TOAD.Network ecosystem. Where we've been and where we're going next.
 ---
 
-# 🗺 TOADmap
+# 🎯 TOADmap
 
 ![Updated November 22nd, 2021](../.gitbook/assets/FINAL.jpeg)
-
-
 
 ## _**2021**_
 
@@ -28,14 +25,13 @@ _**March**_
   * [Reddit](https://www.reddit.com/r/toadnetwork)
   * [YouTube](https://www.youtube.com/channel/UCI\_vUc-HrJWtKXj-Re-hTSw)
   * [Twitter](https://twitter.com/toadnetwork)
-  * [Medium](https://toadnetwork.medium.com)
 
 _**April**_
 
 * Established Build model for PADSwap
 * Expanded Community Structure
-* ****[**TOAD Minigames**](https://toad.academy/games/) Launched
-* TOAD MEME** **Contest
+* [**TOAD Minigames**](https://toad.academy/games/) Launched
+* TOAD MEME Contest
 
 _**May**_
 
@@ -48,24 +44,24 @@ _**May**_
 
 _**June**_
 
-* Established [**TOAD.Academy**](https://toad.academy/games/)****
-* Built out first [**TOAD Games**](https://toad.academy/games/)****
+* Established [**TOAD.Academy**](https://toad.academy/games/)
+* Built out first [**TOAD Games**](https://toad.academy/games/)
 * Started fundraiser for [**CEX listing**](https://www.xt.com/tradePro/toad\_usdt) (25k Community 25k Devs)
-* Commenced [**TOAD Animated Video Series**](https://www.youtube.com/channel/UCI\_vUc-HrJWtKXj-Re-hTSw)****
-* TOAD listed on [**CMC**](https://coinmarketcap.com/currencies/toad-network/)**|**[**CG**](https://www.coingecko.com/en/coins/toad-network)****
+* Commenced [**TOAD Animated Video Series**](https://www.youtube.com/channel/UCI\_vUc-HrJWtKXj-Re-hTSw)
+* TOAD listed on [**CMC**](https://coinmarketcap.com/currencies/toad-network/)**|**[**CG**](https://www.coingecko.com/en/coins/toad-network)
 
 _**July**_
 
-* Listed TOAD on [**XT.com**](https://www.xt.com/tradePro/toad\_usdt)****
+* Listed TOAD on [**XT.com**](https://www.xt.com/tradePro/toad\_usdt)
 * **XT.com AMA**
-* Conceptualized and Partnered with [**Catoshi Bridge**](https://the-crossing.io)****
+* Conceptualized and Partnered with [**Catoshi Bridge**](https://the-crossing.io)
 * Combined TOAD/PAD UI into Monotheme
 * Commissioned TOADao NFT series (5000)
 * TOAD.Network UI upgrade
 
 _**August**_
 
-* ****[**TOAD Merch!**](https://mail.google.com/mail/u/0/#inbox/FMfcgzGllCdWdRRZvlgXnztMrZGttsWT)****
+* [**TOAD Merch!**](https://mail.google.com/mail/u/0/#inbox/FMfcgzGllCdWdRRZvlgXnztMrZGttsWT)
 * Expanded Marketing
 * Expanded **Partnerships in BSC space**
 * Completed **LaunchPAD alpha**
@@ -74,7 +70,7 @@ _**August**_
 
 _**September**_
 
-* Opened additional [**TOAD|PAD Farm **](https://dapps.padswap.exchange)options
+* Opened additional [**TOAD|PAD Farm**](https://dapps.padswap.exchange) options
 * Established build model for **cross chain ports**
 * Released **TOAD/PAD video guides**
 * Commissioned TOAD Tarot NFT series (22)
@@ -88,12 +84,12 @@ _**October**_
 * Launched **PADSwap on MOVR**
 * Launched initial **MOVR farms**
 * Expanded community outreach/partnerships
-* Upgraded UI for farms/vault/landings
+* Upgraded UI for farms / vault / landings
 * **TOAD Docs** established
 * **Moonlight Bubble Map** partnership
 * **Poocoin Data** partnership
 * Self Report Status achieved **CMC**
-* **FTX|Blockfolio **TOAD list
+* **FTX|Blockfolio** TOAD list
 * Airdrop Snapshot
 * **Halloween MEME Contest**
 

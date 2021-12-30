@@ -14,7 +14,7 @@ On the [Toad Academy](https://toad.academy) website, you'll see two categories -
 
 [Apps](https://toad.academy/toolbox/) are more technical, and will allow you to better understand things like **impermanent loss** on LP tokens or **compounding your stake** for better returns.
 
-[Games](https://toad.academy/games/) are more light-hearted. Some of them have educational elements (our \[brick breaker game]\(https://toadgames.github.io/BrickBreaker/ is a good example), and some are just a way to take a break have some fun.
+[Games](https://toad.academy/games/) are more lighthearted. Some of them have educational elements (our [brick breaker game](https://toadgames.github.io/BrickBreaker/) is a good example), and some are just a way to take a break and have some fun.
 
 Like everything in the TOAD ecosystem, Toad Academy is evolving, with new content added regularly and existing content being updated.
 
