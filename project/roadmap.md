@@ -1,11 +1,14 @@
 ---
 description: >-
-  Roadmap for TOAD.Network ecosystem. Where we've been and where we're going next.
+  Roadmap for TOAD.Network ecosystem. Where we've been and where we're going
+  next.
 ---
 
 # 🎯 TOADmap
 
 ![Updated November 22nd, 2021](../.gitbook/assets/FINAL.jpeg)
+
+Updated TOADmap can be found here [https://beta.toad.network/roadmap/](https://beta.toad.network/roadmap/)
 
 ## _**2021**_
 
@@ -36,11 +39,11 @@ _**April**_
 _**May**_
 
 * Completed [**System Audit**](https://dapps.padswap.exchange/pad\_audit\_report.pdf) via SpadeTech
-* Launched [**PADSwap**](https://dapps.padswap.exchange)****
-* Launched [**The Vault**](https://dapps.padswap.exchange/vault)****
+* Launched [**PADSwap**](https://dapps.padswap.exchange)\*\*\*\*
+* Launched [**The Vault**](https://dapps.padswap.exchange/vault)\*\*\*\*
 * Launched **Lily PAD** (PAD) Toad.Network utility token
 * Launched [**PAD/TOAD DPLP**](https://dapps.padswap.exchange/lpfarms) (Donated by Devs)
-* Launched initial [**PAD farms**](https://dapps.padswap.exchange)****
+* Launched initial [**PAD farms**](https://dapps.padswap.exchange)\*\*\*\*
 
 _**June**_
 

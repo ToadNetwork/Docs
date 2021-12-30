@@ -1,6 +1,6 @@
 # Table of contents
 
-* [What is the TOAD.Network?](README.md)
+* [🐸 What is the TOAD.Network?](README.md)
 * [Guides](guides/README.md)
   * [How to Swap Tokens?](guides/how-to-swap.md)
   * [How to Provide Liquidity?](guides/how-to-provide-liquidity.md)
@@ -14,7 +14,7 @@
 * [🫂 Community](project/community.md)
 * [🔗 Links](project/links.md)
 
-## Products
+## 🪃 Products
 
 * [🍄 PADSwap](products/padswap/README.md)
   * [🌊 Liquidity Pools](products/padswap/liquidity-pools.md)
