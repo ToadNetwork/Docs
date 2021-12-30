@@ -17,8 +17,8 @@ coverY: 0
 
 ## Audits
 
-* [TOAD.Network by SpadeTech](https://spadetech.io/wp-content/uploads/2021/06/toad\_network\_audit\_report.pdf)\
-* [PADSwap by SpadeTech](https://spadetech.io/wp-content/uploads/2021/06/toad\_Padswap\_audit\_report.pdf)\
+* [TOAD.Network by SpadeTech](https://spadetech.io/wp-content/uploads/2021/06/toad\_network\_audit\_report.pdf)
+* [PADSwap by SpadeTech](https://spadetech.io/wp-content/uploads/2021/06/toad\_Padswap\_audit\_report.pdf)
 
 ## Listings
 
@@ -38,13 +38,13 @@ coverY: 0
 ## TOAD.Network Medium Posts
 
 * Creation of TOAD as an anti-rug pull system, invention of DPLP by KT\
-[https://toadytoad.medium.com/the-toad-network-46f5f6872ab6](https://toadytoad.medium.com/the-toad-network-46f5f6872ab6)
+  [https://toadytoad.medium.com/the-toad-network-46f5f6872ab6](https://toadytoad.medium.com/the-toad-network-46f5f6872ab6)
 * TOAD value system is a DEFI system by Snake\
-[https://medium.com/@SnakePlisken/who-you-are-does-not-matter-32411a2fc976](https://medium.com/@SnakePlisken/who-you-are-does-not-matter-32411a2fc976)
+  [https://medium.com/@SnakePlisken/who-you-are-does-not-matter-32411a2fc976](https://medium.com/@SnakePlisken/who-you-are-does-not-matter-32411a2fc976)
 * A Friday FUD BUG by KT\
-[https://toadguy.medium.com/a-letter-to-the-community-8be0116b6e9](https://toadguy.medium.com/a-letter-to-the-community-8be0116b6e9)
+  [https://toadguy.medium.com/a-letter-to-the-community-8be0116b6e9](https://toadguy.medium.com/a-letter-to-the-community-8be0116b6e9)
 * Creation of PADSwap and The Vault by Snake\
-[https://medium.com/@SnakePlisken/hi-im-pad-4b06686c8508](https://medium.com/@SnakePlisken/hi-im-pad-4b06686c8508)
+  [https://medium.com/@SnakePlisken/hi-im-pad-4b06686c8508](https://medium.com/@SnakePlisken/hi-im-pad-4b06686c8508)
 
 ## Contract Addresses
 

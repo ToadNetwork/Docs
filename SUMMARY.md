@@ -8,10 +8,10 @@
 ## Project
 
 * [💡 Vision and Values](project/vision-and-values.md)
+* [🎯 TOADmap](project/roadmap.md)
 * [🗳 TOADao](project/toadao.md)
 * [☕ Core Team](project/team.md)
 * [🫂 Community](project/community.md)
-* [🎯 TOADmap](project/roadmap.md)
 * [🔗 Links](project/links.md)
 
 ## Products
@@ -38,4 +38,3 @@
 
 * [🐸 $TOAD](tokens/toad.md)
 * [🌺 $PAD](tokens/pad.md)
-
