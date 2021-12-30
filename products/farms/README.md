@@ -11,8 +11,10 @@ Yield farming in the cryptoverse refers to the performance of a particular actio
 
 TOAD.Network has the most effective system in DeFi for farming yield. This is in part because nearly every token on PADSwap is natively yield bearing, which enables TOAD to function very efficiently. In TOAD's case, adding liquidity to any branch of the platform allows the platform as a whole to be more efficient, and every type of market is available on PADSwap.
 
-**Note:** Yield farming calculator has been created and can be found in the [Toolbox](https://toad.academy/toolbox/) of [**TOAD Academy**](../toad-academy.md).
+{% hint style="success" %}
+Yield farming calculator has been created and can be found in the [Toolbox](https://toad.academy/toolbox/) of [**TOAD Academy**](../toad-academy.md).
+{% endhint %}
 
 See the following overview over fees and farm rewards.
 
-![](../../.gitbook/assets/systemmap.jpg)
+![Overview over fees and rewards.](../../.gitbook/assets/systemmap.jpg)

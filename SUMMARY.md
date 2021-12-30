@@ -22,6 +22,7 @@
   * [🌱 PAD Farms](products/farms/pad-farms.md)
   * [♾ DPLP Farms](products/farms/dplp-farms.md)
   * [🤝 Partner Farms](products/farms/partner-farms.md)
+  * [🐸 TOAD Farms (old)](products/farms/toad-farms-old.md)
 * [🚀 LaunchPAD](products/launchpad.md)
 * [🏷 Auctions](products/auctions.md)
 * [🌉 TOAD Bridge](products/toad-bridge.md)
@@ -33,6 +34,7 @@
 
 * [♾ DPLP](concepts/dplp.md)
 * [🔏 The Vault](concepts/the-vault.md)
+* [📚 Glossary](concepts/glossary.md)
 
 ## Tokens
 

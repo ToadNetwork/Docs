@@ -10,16 +10,16 @@ description: >-
 
 Updated TOADmap can be found here [https://beta.toad.network/roadmap/](https://beta.toad.network/roadmap/)
 
-## _**2021**_
+## 2021
 
-_**February**_
+### February
 
 * Launched [**Old.TOAD.network website**](https://old.toad.network), built token contracts, farms.
 * Invented [**DPLP**](../products/dplp.md) (Decentralized Perpetual Liquidity Protocol)
 * Presale ($1.25)
 * Red Room Giveaway
 
-_**March**_
+### March
 
 * Opened [**farming pools**](https://dapps.padswap.exchange/lpfarms) (donated TOAD by Devs)
 * Opened DPLP FF (Liquidity donated by Devs)
@@ -29,23 +29,23 @@ _**March**_
   * [YouTube](https://www.youtube.com/channel/UCI\_vUc-HrJWtKXj-Re-hTSw)
   * [Twitter](https://twitter.com/toadnetwork)
 
-_**April**_
+### April
 
 * Established Build model for PADSwap
 * Expanded Community Structure
 * [**TOAD Minigames**](https://toad.academy/games/) Launched
 * TOAD MEME Contest
 
-_**May**_
+### May
 
 * Completed [**System Audit**](https://dapps.padswap.exchange/pad\_audit\_report.pdf) via SpadeTech
-* Launched [**PADSwap**](https://dapps.padswap.exchange)\*\*\*\*
-* Launched [**The Vault**](https://dapps.padswap.exchange/vault)\*\*\*\*
+* Launched [**PADSwap**](https://dapps.padswap.exchange)
+* Launched [**The Vault**](https://dapps.padswap.exchange/vault)
 * Launched **Lily PAD** (PAD) Toad.Network utility token
 * Launched [**PAD/TOAD DPLP**](https://dapps.padswap.exchange/lpfarms) (Donated by Devs)
-* Launched initial [**PAD farms**](https://dapps.padswap.exchange)\*\*\*\*
+* Launched initial [**PAD farms**](https://dapps.padswap.exchange)
 
-_**June**_
+### June
 
 * Established [**TOAD.Academy**](https://toad.academy/games/)
 * Built out first [**TOAD Games**](https://toad.academy/games/)
@@ -53,7 +53,7 @@ _**June**_
 * Commenced [**TOAD Animated Video Series**](https://www.youtube.com/channel/UCI\_vUc-HrJWtKXj-Re-hTSw)
 * TOAD listed on [**CMC**](https://coinmarketcap.com/currencies/toad-network/)**|**[**CG**](https://www.coingecko.com/en/coins/toad-network)
 
-_**July**_
+### July
 
 * Listed TOAD on [**XT.com**](https://www.xt.com/tradePro/toad\_usdt)
 * **XT.com AMA**
@@ -62,7 +62,7 @@ _**July**_
 * Commissioned TOADao NFT series (5000)
 * TOAD.Network UI upgrade
 
-_**August**_
+### August
 
 * [**TOAD Merch!**](https://mail.google.com/mail/u/0/#inbox/FMfcgzGllCdWdRRZvlgXnztMrZGttsWT)
 * Expanded Marketing
@@ -71,7 +71,7 @@ _**August**_
 * Dropped **TOAD animation series**
 * UI refresh 2.0
 
-_**September**_
+### September
 
 * Opened additional [**TOAD|PAD Farm**](https://dapps.padswap.exchange) options
 * Established build model for **cross chain ports**
@@ -82,7 +82,7 @@ _**September**_
 * **HOGE farming** Partnership
 * **Paradox NFT** Launch
 
-_**October**_
+### October
 
 * Launched **PADSwap on MOVR**
 * Launched initial **MOVR farms**
@@ -96,7 +96,7 @@ _**October**_
 * Airdrop Snapshot
 * **Halloween MEME Contest**
 
-_**November**_
+### November
 
 * MOVR PAD Airdrop Completed
 * 1st MOVR PAD Auction Series
@@ -106,14 +106,20 @@ _**November**_
 * **LaunchPAD Beta** Completed
 * **Whitepaper V2**
 
-_**December**_
+### December
 
 * Ramp Project Launches for BSC/MOVR
 * 2nd MOVR PAD Auction Series
 * Initial MOVR partners
 * PADSwap aggregated as DEX
 
-**Future:**
+## 2022
+
+### January
+
+**Coming soon!**
+
+## Future
 
 * _First ATM delivery_
 * _Staking game/simulator_
