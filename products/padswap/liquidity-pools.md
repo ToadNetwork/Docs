@@ -6,6 +6,10 @@ coverY: 245.39877300613497
 
 # 🌊 Liquidity Pools
 
+{% embed url="https://padswap.exchange/#/pool" %}
+Link to PADSwap Liquidity Pools
+{% endembed %}
+
 ## What are liquidity pools?
 
 Liquidity pools are place to pool tokens (which we sometimes call liquidity) so that users can use them to make trades in a decentralized way. These pools are created by users and decentralized apps (or Dapps, for short) who want to profit from their usage. To pool liquidity, the amounts a user supplies must be equally divided between two coins: the primary token (sometimes called the quote token) and the base token (usually BNB or a stable coin).
@@ -18,7 +22,9 @@ The value of the LP tokens (which represent the shares of the total liquidity in
 
 ### Instructions for adding liquidity
 
-[**Walkthrough Here**](../../guides/how-to-provide-liquidity.md)
+The following guide wallks you through the process of providing liquidity:
+
+[how-to-provide-liquidity.md](../../guides/how-to-provide-liquidity.md "mention")
 
 ### Adding liquidity to a new pool
 
