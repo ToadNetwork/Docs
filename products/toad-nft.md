@@ -1,5 +1,5 @@
 ---
-cover: ../../.gitbook/assets/TOAD_NFTs.png
+cover: ../.gitbook/assets/TOAD_NFTs.png
 coverY: 0
 ---
 

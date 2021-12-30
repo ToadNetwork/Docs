@@ -4,13 +4,13 @@ description: This guide explains how you can swap tokens on PADSwap.Exchange.
 
 # How to Swap Tokens?
 
-**PADSwapping**
+## PADSwapping
 
 PADSwap has also some liquidity pools available for swaps. If you want to check which of them are available, you can check at [PADSwap pairs stats](https://info.padswap.exchange/pairs) for the available ones.
 
-Apart from the well-known tokens (BTC, ETH and, of course, BNB), there are some partners tokens already in there, all available to swap and also, of course, to provide liquidity to. Remember that, for every swap that happens on PADSwap, part of the fee (a total of 0.3%) is redirected to the liquidity providers (0.25%) and the rest (0.05%) is redirected to [The Vault](products/padswap/the-vault.md), making the ecosystem much safer and stable.
+Apart from the well-known tokens (BTC, ETH and, of course, BNB), there are some partners tokens already in there, all available to swap and also, of course, to provide liquidity to. Remember that, for every swap that happens on PADSwap, part of the fee (a total of 0.3%) is redirected to the liquidity providers (0.25%) and the rest (0.05%) is redirected to [The Vault](../concepts/the-vault.md), making the ecosystem much safer and stable.
 
-PADSwap smart contracts are the safest and fairest smart contracts you'll ever find, as they are build with donated liquidity from the DEVS and reward liquidity providers which are farming this liquidity with the highest percent in the blockchain.
+PADSwap smart contracts are the safest and fairest smart contracts you will ever find, as they are build with donated liquidity from the DEVS and reward liquidity providers which are farming this liquidity with the highest percent in the blockchain.
 
 There are some other videos also that might help on the topic, you'll find them below:
 
@@ -18,7 +18,7 @@ There are some other videos also that might help on the topic, you'll find them 
 
 ## How to swap tokens padswap.exchange
 
-[PAD](products/padswap/pad.md) has its liquidity on custom audited smart contracts developed by the ToadNetwork team following the secure design of the PADSwap Liquidity Pool contract.
+[PAD](../tokens/pad.md) has its liquidity on custom audited smart contracts developed by the ToadNetwork team following the secure design of the PADSwap Liquidity Pool contract.
 
 In broad words, here is how to swap any token available within the padswap project:
 
@@ -72,4 +72,4 @@ Let's look into a more detailed view on what needs to be done.
 
 * After the confirmation and the transaction success on the BSC, your be returned to the "swap window", and you'll notice that the amount of each token on the display has been updated to reflect your balance.
 
-Congrats!!! You have managed to perform your first swap on PADSwap. Now it is time to head to the farms area of [padswap.exchange](https://dapps.padswap.exchange) and place the tokens you swap on a farm to earn some fresh PAD!
+Congrats!!! You have managed to perform your first swap on PADSwap. Now it is time to head to the farm's area of [padswap.exchange](https://dapps.padswap.exchange) and place the tokens you swap on a farm to earn some fresh PAD!

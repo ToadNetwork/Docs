@@ -3,7 +3,7 @@ description: >-
   Roadmap for TOAD.Network ecosystem. Where we've been and where we're going next.
 ---
 
-# 🎯 Roadmap
+# 🎯 TOADmap
 
 ![Updated November 22nd, 2021](../.gitbook/assets/FINAL.jpeg)
 
