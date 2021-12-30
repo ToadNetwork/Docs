@@ -3,7 +3,7 @@ cover: ../.gitbook/assets/Auctions.png
 coverY: 5
 ---
 
-# 🏷 Auctions
+# 🏷 Perpetual Auctions
 
 TOAD.Network Auctions will allow projects to raise liquidity for their protocols. Auctions can be integrated with the decentralized perpetual liquidity protocol ([DPLP](../concepts/dplp.md)).&#x20;
 
