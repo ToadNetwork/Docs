@@ -9,7 +9,7 @@
 
 * [💡 Vision and Values](project/vision-and-values.md)
 * [🎯 TOADmap](project/roadmap.md)
-* [🗳 TOADao](project/toadao.md)
+* [🗳 TOADao (soon)](project/toadao.md)
 * [☕ Core Team](project/team.md)
 * [🫂 Community](project/community.md)
 * [🔗 Links](project/links.md)
@@ -23,12 +23,12 @@
   * [♾ DPLP Farms](products/farms/dplp-farms.md)
   * [🤝 Partner Farms](products/farms/partner-farms.md)
   * [🐸 TOAD Farms (old)](products/farms/toad-farms-old.md)
-* [🚀 LaunchPAD](products/launchpad.md)
-* [🏷 Perpetual Auctions](products/auctions.md)
+* [🚀 LaunchPAD (soon)](products/launchpad.md)
+* [🏷 Perpetual Auctions (soon)](products/auctions.md)
 * [🌉 TOAD Bridge](products/toad-bridge.md)
-* [🖼 TOAD NFT](products/toad-nft.md)
+* [🖼 TOAD NFT (soon)](products/toad-nft.md)
 * [🕹 TOAD Academy](products/toad-academy.md)
-* [🃏 TOADED](products/toaded.md)
+* [🃏 TOADED (soon)](products/toaded.md)
 
 ## Concepts
 

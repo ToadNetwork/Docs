@@ -4,7 +4,11 @@ cover: ../.gitbook/assets/LaunchPAD_NEW.png
 coverY: 0
 ---
 
-# 🚀 LaunchPAD
+# 🚀 LaunchPAD (soon)
+
+{% hint style="info" %}
+Beta coming soon! TM
+{% endhint %}
 
 LaunchPAD beta will allow anyone to launch their own project without any coding experience. Any project created on LaunchPAD beta will start with:
 
