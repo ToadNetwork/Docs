@@ -1,3 +1,8 @@
+---
+cover: ../../.gitbook/assets/Yield_Farming_NEW.png
+coverY: 0
+---
+
 # 🐸 TOAD Farms (old)
 
 {% hint style="danger" %}

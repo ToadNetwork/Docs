@@ -1,5 +1,4 @@
 ---
-description: https://padswap.exchange/#/swap
 cover: ../../.gitbook/assets/PADSwap_New.png
 coverY: 0
 ---
@@ -44,10 +43,22 @@ Docs in progress
 Docs in progress
 {% endhint %}
 
-With liquidity that is supplied by other users. This means that new projects can easily connect to their desired markets as long as some entity is willing to provide the liquidity.&#x20;
+With liquidity that is supplied by other users. This means that new projects can easily connect to their desired markets as long as some entity is willing to provide the liquidity.
 
 ## How does PADSwap compare to other decentralized exchanges?
 
 {% hint style="info" %}
 Docs in progress
 {% endhint %}
+
+|                                          |                       PancakeSwap                      | SushiSwap                                                            |                        PADSwap                       |
+| ---------------------------------------- | :----------------------------------------------------: | -------------------------------------------------------------------- | :--------------------------------------------------: |
+| Swap fee distribution                    | <p>0.17% to LP providers<br>0.03% to devs' pockets</p> | <p>0.25% to LP providers<br>0.05% to SUSHI holders</p>               | <p>0.25% to LP providers<br>0.05% to PAD backing</p> |
+| Reward token tokenomics                  |                    Infinitely minted                   | Capped supply                                                        |                     Capped supply                    |
+| Reward token backing                     |                          None                          | None                                                                 |     Backed by the Vault of accumulated swap fees     |
+| Multi-chain?                             |                        BSC only                        | Multi-chain                                                          |                      Multi-chain                     |
+| Regular farms (earn native reward token) |                           Yes                          | Yes                                                                  |                          Yes                         |
+| Partner farms (earn other tokens)        |        <p>Partially<br>(you must stake CAKE)</p>       | <p>Partially<br>(earning half in SUSHI and half in other tokens)</p> |                          Yes                         |
+| LP farms (stake LP, get more LP)         |                           No                           | No                                                                   |                          Yes                         |
+| Own cross-chain bridge                   |                           No                           | No                                                                   |                          Yes                         |
+| Own token launchpad                      |                           No                           | No                                                                   |                          Yes                         |

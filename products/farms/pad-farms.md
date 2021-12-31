@@ -1,5 +1,6 @@
 ---
-description: https://dapps.padswap.exchange/
+cover: ../../.gitbook/assets/Yield_Farming_NEW.png
+coverY: 0
 ---
 
 # 🌱 PAD Farms

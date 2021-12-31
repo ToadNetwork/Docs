@@ -1,3 +1,8 @@
+---
+cover: ../../.gitbook/assets/Yield_Farming_NEW.png
+coverY: 0
+---
+
 # ♾ DPLP Farms
 
 {% embed url="https://dapps.padswap.exchange/lpfarms" %}

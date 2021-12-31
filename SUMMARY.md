@@ -27,8 +27,10 @@
 * [🏷 Perpetual Auctions (soon)](products/auctions.md)
 * [🌉 TOAD Bridge](products/toad-bridge.md)
 * [🖼 TOAD NFT (soon)](products/toad-nft.md)
-* [🕹 TOAD Academy](products/toad-academy.md)
-* [🃏 TOADED (soon)](products/toaded.md)
+
+## Games
+* [🕹 TOAD Academy](games/toad-academy.md)
+* [🃏 TOADED (soon)](games/toaded.md)
 
 ## Concepts
 
