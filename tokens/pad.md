@@ -26,8 +26,8 @@ The dev contract will get 10% of those rewards, the remaining 90% are going to b
 
 ## Continuous Minter Formula / PAD drip
 
-Let $p$ be the drip pool supply, $d$ the duration in seconds and $r$ the drip per second (0.0013 a day / 86400 seconds), then the 
-exponential decay of the drip pool is given by the function $M$:
+Let $$p$$ be the drip pool supply, $$d$$ the duration in seconds and $$r$$ the drip per second ($$0.0013\text{ a day} / 86400\text{ seconds}$$), then the 
+exponential decay of the drip pool is given by the function $$M$$:
 
 $$
 r = \dfrac{0.0013}{86400}
@@ -37,9 +37,9 @@ $$
 M(p, d) = p * (1 - r) ^ d
 $$
 
-The function $M$ calculates the remaining drip pool supply after $d$ seconds. PAD has a max supply of 200B tokens. There was an initial mint of 10B tokens, so $P = 190\text{B}$.
+The function $$M$$ calculates the remaining drip pool supply after $$d$$ seconds. PAD has a max supply of 200B tokens. There was an initial mint of 10B tokens, so $$P = 190\text{B}$$.
 
-For example, if we want to calculate the remaining PAD in the drip pool after 1 year (31,536,000 seconds), we can solve $M(190\text{B}, 31536000)$, which gives us 118B PAD remaining in the drip pool after a year.
+For example, if we want to calculate the remaining PAD in the drip pool after 1 year (31,536,000 seconds), we can solve $$M(190\text{B}, 31536000)$$, which gives us 118B PAD remaining in the drip pool after a year.
 
 ![](<../.gitbook/assets/image (2) (1).png>)
 
