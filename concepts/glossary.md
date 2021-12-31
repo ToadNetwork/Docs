@@ -26,19 +26,27 @@ See also [#pegging](glossary.md#pegging "mention"), which is a similar concept.
 
 ## Burn
 
-
+{% hint style="info" %}
+Docs in progress
+{% endhint %}
 
 ## Circulating Supply
 
-
+{% hint style="info" %}
+Docs in progress
+{% endhint %}
 
 ## Deflationary Token
 
-
+{% hint style="info" %}
+Docs in progress
+{% endhint %}
 
 ## Dripping
 
-
+{% hint style="info" %}
+Docs in progress
+{% endhint %}
 
 ## Farming
 
@@ -58,7 +66,9 @@ Guarantee, that an asset can be exchanged with a fixed amount of other assets.
 
 ## Inflationary Token
 
-
+{% hint style="info" %}
+Docs in progress
+{% endhint %}
 
 ## Liquidity Pool
 
@@ -70,11 +80,15 @@ Please read the linked page to understand what a liquidity pool is:
 
 ## Locking
 
-
+{% hint style="info" %}
+Docs in progress
+{% endhint %}
 
 ## Max Supply
 
-
+{% hint style="info" %}
+Docs in progress
+{% endhint %}
 
 ## Minting
 
@@ -104,3 +118,6 @@ See also [#farming](glossary.md#farming "mention").
 
 ## Total Supply
 
+{% hint style="info" %}
+Docs in progress
+{% endhint %}
