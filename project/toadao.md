@@ -1,8 +1,10 @@
 ---
-cover: ../../.gitbook/assets/TOADao_NEW.png
+cover: ../.gitbook/assets/TOADao_NEW.png
 coverY: 0
 ---
 
-# 🗳 TOADao
+# 🗳 TOADao (soon)
 
+{% hint style="info" %}
 Coming soon! TM
+{% endhint %}

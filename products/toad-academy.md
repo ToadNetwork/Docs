@@ -20,8 +20,14 @@ Like everything in the TOAD ecosystem, Toad Academy is evolving, with new conten
 
 Our end goal is to reach a point where anyone can understand the most difficult concepts effortlessly and in the most entertaining way.
 
-[TOAD Academy](https://toad.academy)
+{% embed url="https://toad.academy" %}
+Link to our TOAD Academy
+{% endembed %}
 
-[TOAD Toolbox](https://toad.academy/toolbox/)
+{% embed url="https://toad.academy/toolbox" %}
+Link to the TOAD Toolbox
+{% endembed %}
 
-[TOAD Games](https://toad.academy/games/)
+{% embed url="https://toad.academy/games" %}
+Link to the TOAD Games
+{% endembed %}
