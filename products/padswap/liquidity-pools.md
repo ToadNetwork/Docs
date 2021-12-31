@@ -13,7 +13,7 @@ Link to PADSwap Liquidity Pools
 
 Liquidity pools are a place to pool tokens (which we sometimes call liquidity) so that users can use them to make trades in a decentralized way. These pools are created by users and decentralized apps (or Dapps, for short) who want to profit from their usage. To pool liquidity, the amounts a user supplies must be equally divided between two coins: the primary token (sometimes called the quote token) and the base token (usually BNB, MOVR or a stable coin).
 
-The existence of this pooled liquidity gives other traders access to the underlying tokens in exchange for a small fee, which is distributed proportionately to all the liquidity providers. In this sense, PADSwap is also an “automated market maker” (or AMM, for short).&#x20;
+The existence of this pooled liquidity gives other traders access to the underlying tokens in exchange for a small fee, which is distributed proportionately to all the liquidity providers. In this sense, PADSwap is also an “automated market maker” (or AMM, for short).
 
 PADSwap's liquidity pools allow anyone to provide liquidity [here](https://padswap.exchange/#/pool).
 
@@ -25,11 +25,13 @@ The value of the LP tokens (which represent the shares of the total liquidity in
 
 The following guide walks you through the process of providing liquidity:
 
-[how-to-provide-liquidity.md](../../guides/how-to-provide-liquidity.md "mention")
+{% content-ref url="../../guides/how-to-provide-liquidity.md" %}
+[how-to-provide-liquidity.md](../../guides/how-to-provide-liquidity.md)
+{% endcontent-ref %}
 
 ### Adding liquidity to a new pool
 
-If the pool you wish to provide liquidity to does not exist, you can create it! Simply provide the tokens, and off you go. As the first liquidity provider, you set the initial exchange ratio (price). This often quickly corrects itself through arbitrage and by more liquidity providers adding to the pool.&#x20;
+If the pool you wish to provide liquidity to does not exist, you can create it! Simply provide the tokens, and off you go. As the first liquidity provider, you set the initial exchange ratio (price). This often quickly corrects itself through arbitrage and by more liquidity providers adding to the pool.
 
 {% hint style="info" %}
 The arbitrage is to your disadvantage. We therefore recommend you to set the initial exchange ratio (price) according to the current market price.

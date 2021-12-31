@@ -92,7 +92,7 @@ Docs in progress
 
 ## Minting
 
-Increasing the total supply of a token by releasing new tokens. If a token has a max supply, then the number of tokens which can be minted is limited by the max supply. If there is no max supply, the token can be minted infinitely and is therefore considered to be an inflationary token.&#x20;
+Increasing the total supply of a token by releasing new tokens. If a token has a max supply, then the number of tokens which can be minted is limited by the max supply. If there is no max supply, the token can be minted infinitely and is therefore considered to be an inflationary token.
 
 {% hint style="info" %}
 See also [#total-supply](glossary.md#total-supply "mention"), [#max-supply](glossary.md#max-supply "mention"), [#inflationary-token](glossary.md#inflationary-token "mention")
@@ -114,6 +114,12 @@ If you put your tokens into a pool (e.g. a farm) then you effectively own a shar
 
 {% hint style="info" %}
 See also [#farming](glossary.md#farming "mention").
+{% endhint %}
+
+## Tokenomics
+
+{% hint style="info" %}
+Docs in progress
 {% endhint %}
 
 ## Total Supply
