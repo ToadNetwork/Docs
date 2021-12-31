@@ -11,3 +11,5 @@ The TOADmap can be found here:
 {% embed url="https://beta.toad.network/roadmap" %}
 Link to the roadmap
 {% endembed %}
+
+![](../.gitbook/assets/FINAL.jpeg)
