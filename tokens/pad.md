@@ -41,7 +41,7 @@ The function $$M$$ calculates the remaining drip pool supply after $$d$$ seconds
 
 For example, if we want to calculate the remaining PAD in the drip pool after 1 year (31,536,000 seconds), we can solve $$M(190\text{B}, 31536000)$$, which gives us 118B PAD remaining in the drip pool after a year.
 
-![](<../.gitbook/assets/image (2) (1).png>)
+![Plot of minted PAD over time (ignores the 10B initial mint)](<../.gitbook/assets/image (2) (1).png>)
 
 [The **Vault**](the-vault.md) stores pad backing, developers can add support for a new token to it, if a user wants to redeem the backing of PAD, the vault will burn that amount of PAD. Lowering PAD supply forever.
 
