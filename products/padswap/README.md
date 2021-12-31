@@ -1,5 +1,4 @@
 ---
-description: https://padswap.exchange/#/swap
 cover: ../../.gitbook/assets/PADSwap_New.png
 coverY: 0
 ---

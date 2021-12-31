@@ -1,5 +1,6 @@
 ---
-description: https://dapps.padswap.exchange/partnerfarms/
+cover: ../../.gitbook/assets/Yield_Farming_NEW.png
+coverY: 0
 ---
 
 # 🤝 Partner Farms

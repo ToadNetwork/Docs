@@ -1,5 +1,4 @@
 ---
-description: https://dapps.padswap.exchange/vault
 cover: ../.gitbook/assets/The_Vault.png
 coverY: 0
 ---
@@ -46,12 +45,12 @@ So, in short, The Vault is fed through fees from swaps, farms, and any additiona
 
 ## Redeem Backing
 
-Let $$V$$ be the set of tokens in the Vault, $$t_i \in V$$ the amount of token $$i$$ in the Vault, $$P$$ the circulating supply of PAD, $$p$$ the amount of PAD supplied by the user, $$l$$ the leverage set by the community bound by $$[1, 3]$$, then we can represent this by the redeem function $$R$$, where
+Let $V$ be the set of tokens in the Vault, $t_i \in V$ the amount of token $i$ in the Vault, $P$ the circulating supply of PAD, $p$ the amount of PAD supplied by the user, $l$ the leverage set by the community bound by $[1, 3]$, then we can define the redeem function $R$ as:
 
 $$
-R(p, t_i \in T) = \left( \dfrac{t_i}{P}\right) \cdot p \cdot l
+R(p, t_i \in V) = \left( \dfrac{t_i}{P}\right) \cdot p \cdot l
 $$
 
-This function will be executed for all tokens in the vault $$V$$.
+This function will be executed for all tokens in the vault $V$.
 
 An example for burning Pad with easy numbers. Say the circulating supply of PAD is 100 PAD and you are holding 1 PAD which you want to burn, then you will get 1% (1/100) of all tokens in the Vault at that time. If there were 100 TOAD, 1 BTC, 10 ETH, and 1000 BUSD, you would get 1 Toad, 0.01 BTC, 0.1 ETH and 10 BUSD (ignoring transaction fees). The supply of PAD will be forever reduced to 99 and all future fees and value in the vault is now shared among fewer PAD tokens.

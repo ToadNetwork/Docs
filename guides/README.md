@@ -1,3 +1,5 @@
 # Guides
 
-Docs in progress!
+{% hint style="info" %}
+Docs in progress
+{% endhint %}

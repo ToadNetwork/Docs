@@ -1,5 +1,4 @@
 ---
-description: https://padswap.exchange/#/pool
 cover: ../../.gitbook/assets/Untitled_Artwork 3.png
 coverY: 245.39877300613497
 ---

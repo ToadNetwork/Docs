@@ -13,7 +13,7 @@ coverY: -28.333333333333357
 - **No Presale**
 - **Fair Launch** (Devs only get 10% of the 0.13% drip per day, **NO TEAM TOKENS AT LAUNCH**)
 
-![](<../.gitbook/assets/image (2) (1).png>)
+
 
 The BEP-20 token PAD is a standard BEP-20 token with mint and burn functions, the mint function can only be used by the minter contract.
 
@@ -24,21 +24,24 @@ The dev contract will get 10% of those rewards, the remaining 90% are going to b
 ![](<../.gitbook/assets/image (3).png>)
 
 
-## Continuous Minter Formula
+## Continuous Minter Formula / PAD drip
 
-Let **M** = remaining supply = 190 billion after the initial 10 billion mint
+Let $p$ be the drip pool supply, $d$ the duration in seconds and $r$ the drip per second (0.0013 a day / 86400 seconds), then the 
+exponential decay of the drip pool is given by the function $M$:
 
-**s** = seconds passed since last mint time
+$$
+r = \dfrac{0.0013}{86400}
+$$
 
-**r** = % drip per second = 0.0013 a day / 86400 seconds
+$$
+M(p, d) = p * (1 - r) ^ d
+$$
 
-The total minted formula after s seconds can then be represented as the **continuous recursive function** from time **s** in seconds after the initial mint
+The function $M$ calculates the remaining drip pool supply after $d$ seconds. PAD has a max supply of 200B tokens. There was an initial mint of 10B tokens, so $P = 190\text{B}$.
 
-![](../.gitbook/assets/image.png)
+For example, if we want to calculate the remaining PAD in the drip pool after 1 year (31,536,000 seconds), we can solve $M(190\text{B}, 31536000)$, which gives us 118B PAD remaining in the drip pool after a year.
 
-![](<../.gitbook/assets/image (4).png>)=Current remaining supply after **s** seconds
-
-**Note:** you can derive the total tokens minted after **s** seconds by taking 180,000,000,000 – F(s) after solving the recursive formula for a given time in seconds.
+![](<../.gitbook/assets/image (2) (1).png>)
 
 [The **Vault**](the-vault.md) stores pad backing, developers can add support for a new token to it, if a user wants to redeem the backing of PAD, the vault will burn that amount of PAD. Lowering PAD supply forever.
 

@@ -1,10 +1,13 @@
 ---
-description: https://dapps.padswap.exchange/bridge/
 cover: ../.gitbook/assets/MoonRiver_BSC_Bridge_NEW.png
 coverY: 0
 ---
 
 # 🌉 TOAD Bridge
+
+{% embed url="https://dapps.padswap.exchange/bridge/" %}
+Link to the TOAD Bridge on PADSwap
+{% endembed %}
 
 Currently anyone can Bridge TOAD from Binance Smart Chain to|from Moonriver
 
