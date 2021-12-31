@@ -1,6 +1,6 @@
 ---
 description: No Risky Clicks.
-cover: ../.gitbook/assets/v1.jpg
+cover: ../.gitbook/assets/crosschainbanner.jpg
 coverY: 0
 ---
 
