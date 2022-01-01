@@ -3,7 +3,7 @@ cover: ../.gitbook/assets/PAD.png
 coverY: -28.333333333333357
 ---
 
-# 🌺 $PAD
+# <img style="vertical-align:middel; width:24px; height:24px;" src="../.gitbook/assets/PAD.symbol.svg"/> $PAD
 
 * **Name:** Lily Pad
 * **Symbol/Ticker:** ![](../.gitbook/assets/PAD.symbol.svg) PAD
@@ -38,5 +38,3 @@ For example, if we want to calculate the remaining PAD in the drip pool after 1 
 ![Plot of minted PAD over time (ignores the 10B initial mint)](<../.gitbook/assets/image (2) (1).png>)
 
 [The **Vault**](the-vault.md) stores pad backing, developers can add support for a new token to it, if a user wants to redeem the backing of PAD, the vault will burn that amount of PAD. Lowering PAD supply forever.
-
-##

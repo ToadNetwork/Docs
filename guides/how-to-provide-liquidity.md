@@ -5,20 +5,12 @@ description: This guide explains how you can provide liquidity via PADSwap.Excha
 # How to Provide Liquidity?
 
 {% embed url="https://youtu.be/vWswQzd2wlM" %}
-
-**PAD Token liquidity**
-
-If you are planning to build strong positions on the PADSwap ecosystem, then you are in the right place!
-
-Head to liquidity for more details about liquidity.
-
-Depending on the farms you want to enter, you may have to provide liquidity on a different pair of tokens.
-
-Here are some videos that might help on the topic:
-
-* [ToadNetwork Youtube Channel](https://www.youtube.com/channel/UCI\_vUc-HrJWtKXj-Re-hTSw/videos)
+Video explaining how to add, view and remove liquidity.
+{% endembed %}
 
 ## How to add liquidity to PADSwap.Exchange Farms
+
+
 
 [PAD](https://github.com/ToadNetwork/Docs/blob/main/docs/padtoken.md) holds liquidity on custom audited smart contracts developed by the TOAD.Network team following the secure design of the PadSwap Liquidity Pool contract.
 
@@ -70,7 +62,7 @@ Need a more detailed view on how to do this?
 
 ![view all liquidity pools](https://github.com/ToadNetwork/Docs/blob/main/docs/\_media/howtos/PadSwapAddingLiquidity09\_goBackToLiquidity.png?raw=true)
 
-* Your liquidity is may not be immediately detected directly by the padswap.exchange. If this is the case, you will have to import the LP tokens. For this, click on the "import it" link below.
+* Your liquidity may not be immediately detected by the padswap.exchange. If this is the case, you will have to import the LP tokens. For this, click on the "import it" link below.
 
 ![import LP tokens](https://github.com/ToadNetwork/Docs/blob/main/docs/\_media/howtos/PadSwapAddingLiquidity11\_importLiquidity.png?raw=true)
 
