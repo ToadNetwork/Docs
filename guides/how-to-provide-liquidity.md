@@ -2,7 +2,7 @@
 description: This guide explains how you can provide liquidity via PADSwap.Exchange.
 ---
 
-# How to provide liquidity?
+# How to Provide Liquidity?
 
 {% embed url="https://youtu.be/vWswQzd2wlM" %}
 
@@ -16,7 +16,7 @@ Depending on the farms you want to enter, you may have to provide liquidity on a
 
 Here are some videos that might help on the topic:
 
-* [ToadNetwork Youtube Channel](https://www.youtube.com/channel/UCI\_vUc-HrJWtKXj-Re-hTSw/videos)&#x20;
+* [ToadNetwork Youtube Channel](https://www.youtube.com/channel/UCI\_vUc-HrJWtKXj-Re-hTSw/videos)
 
 ## How to add liquidity to PADSwap.Exchange Farms
 
@@ -42,7 +42,7 @@ Need a more detailed view on how to do this?
 
 ![add liquidity](https://github.com/ToadNetwork/Docs/blob/main/docs/\_media/howtos/PadSwapAddingLiquidity01\_navigateToLiquidity.png?raw=true)
 
-* In order to create your Liquidity Pool tokens, you will have to provide the same value of each token (head to [liquidity](broken-reference) to get more information on this topic). If this is the first time you are trading any of these tokens, you will have to approve PADSwap to spend them before you continue.
+* In order to create your Liquidity Pool tokens, you will have to provide the same value of each token (head to [liquidity](https://github.com/Spenhouet/Docs/blob/overhaul/guides/broken-reference/README.md) to get more information on this topic). If this is the first time you are trading any of these tokens, you will have to approve PADSwap to spend them before you continue.
 
 ![introduce amount of tokens for liquidity](https://github.com/ToadNetwork/Docs/blob/main/docs/\_media/howtos/PadSwapAddingLiquidity02\_ChooseTokensForLiquidity.png?raw=true)
 
@@ -90,7 +90,7 @@ Need a more detailed view on how to do this?
 
 ![expand liquidity details](https://github.com/ToadNetwork/Docs/blob/main/docs/\_media/howtos/PadSwapAddingLiquidity15\_checkDetailsLiquidity.png?raw=true)
 
-Congrats!!! You have created your liquidity Pool tokens. Now it is time to head to the "farms" area of [padswap.exchange](https://dapps.padswap.exchange) and place the [liquidity](broken-reference) on a [farm](broken-reference) to earn some PAD!
+Congrats!!! You have created your liquidity Pool tokens. Now it is time to head to the "farms" area of [padswap.exchange](https://dapps.padswap.exchange) and place the [liquidity](https://github.com/Spenhouet/Docs/blob/overhaul/guides/broken-reference/README.md) on a [farm](https://github.com/Spenhouet/Docs/blob/overhaul/guides/broken-reference/README.md) to earn some PAD!
 
 ## Adding the LP tokens to a farm
 

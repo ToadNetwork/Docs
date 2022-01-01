@@ -6,9 +6,7 @@ coverY: -28.333333333333357
 # 🌺 $PAD
 
 * **Name:** Lily Pad
-
-**Symbol/Ticker:** ![](<../.gitbook/assets/image (3).png>) PAD
-
+* **Symbol/Ticker:** ![](../.gitbook/assets/PAD.symbol.svg) PAD
 * **Max Supply:** 200 billion
 * **Pre-mint:** 10 billion
 * **Liquidity (PERMANENTLY LOCKED):** **400,000 BUSD** at start; **200,000 BUSD** in pre-minted PAD, **200,000 BUSD in TOAD donated by Snake and KingToad**
