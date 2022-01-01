@@ -4,9 +4,11 @@ description: This guide explains how you can provide liquidity via PADSwap.
 
 # How to Provide Liquidity?
 
-## TL;DR
+{% hint style="success" %}
+**TL;DR**
 
 Head to the [liquidity area](https://padswap.exchange/#/pool) on PADSwap. You will have to supply the same value of both of your chosen tokens to receive your respective LP tokens.
+{% endhint %}
 
 ## Video Guide
 
@@ -32,9 +34,7 @@ Choose the "Add Liquidity" button to prompt the token selection view.
 
 ## Step 3: Select a Liquidity Pool
 
-Select the liquidity pool you want to provide liquidity to by selecting the two tokens of the token pair.
-Enter the same value (measured in USD) of each token.
-In this example we chose the PAD-TOAD liquidity pool.
+Select the liquidity pool you want to provide liquidity to by selecting the two tokens of the token pair. Enter the same value (measured in USD) of each token. In this example we chose the PAD-TOAD liquidity pool.
 
 ![Introduce amount of tokens for liquidity](https://github.com/ToadNetwork/Docs/blob/main/docs/\_media/howtos/PadSwapAddingLiquidity02\_ChooseTokensForLiquidity.png?raw=true)
 
@@ -54,8 +54,7 @@ After approving the tokens, click on "Supply" to supply your tokens to the liqui
 
 ### Step 5.2: Confirm Supply
 
-Once you click on "Supply", you will get a summary of the tokens you are about to supply.
-Please confirm if everything is correct.
+Once you click on "Supply", you will get a summary of the tokens you are about to supply. Please confirm if everything is correct.
 
 ![Confirm liquidity supply](https://github.com/ToadNetwork/Docs/blob/main/docs/\_media/howtos/PadSwapAddingLiquidity07\_checkSupply.png?raw=true)
 
@@ -73,8 +72,7 @@ After the confirmation and the transaction success on the BSC, you will return t
 
 ## Step 7: Import Liquidity Pool
 
-Your provided liquidity may not immediately show on the "Liquidity" view.
-If this is the case, you will have to import the LP tokens.
+Your provided liquidity may not immediately show on the "Liquidity" view. If this is the case, you will have to import the LP tokens.
 
 ### Step 7.1: Click Import
 
@@ -108,7 +106,6 @@ Click on the Drop Down arrow to check the details on your provided liquidity.
 
 ![Expand liquidity details](https://github.com/ToadNetwork/Docs/blob/main/docs/\_media/howtos/PadSwapAddingLiquidity15\_checkDetailsLiquidity.png?raw=true)
 
-## Step 9: Stake your LP tokens in Farms
-
-Congrats!!! You have created your liquidity Pool tokens. Now it is time to head to the "farms" area of [padswap.exchange](https://dapps.padswap.exchange) and place the [liquidity](https://github.com/Spenhouet/Docs/blob/overhaul/guides/broken-reference/README.md) on a [farm](https://github.com/Spenhouet/Docs/blob/overhaul/guides/broken-reference/README.md) to earn some PAD!
-
+{% hint style="success" %}
+Congrats! You are now a proud liquidity provider. Now it is time to stake your LP tokens in our farms ([how-to-farm.md](how-to-farm.md "mention")). You can also read more about [liquidity-pools.md](../products/padswap/liquidity-pools.md "mention").
+{% endhint %}

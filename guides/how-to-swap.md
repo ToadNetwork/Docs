@@ -4,9 +4,11 @@ description: This guide explains how you can swap tokens on PADSwap.
 
 # How to Swap Tokens?
 
-## TL;DR
+{% hint style="success" %}
+**TL;DR**
 
 Head to the [swap on PADSwap](https://padswap.exchange/#/swap), connect your wallet, select tokens and an amount you want to swap. If you are happy with the swap, click on swap and confirm the transaction with your wallet.
+{% endhint %}
 
 ## Step 1: Navigate to the Swap on PADSwap
 
@@ -24,13 +26,17 @@ If you have not yet connected your wallet to PADSwap, click on "Unlock wallet".
 
 ![Unlock wallet](https://github.com/ToadNetwork/Docs/blob/main/docs/\_media/howtos/SwappingOnPadswap01\_connectWallet.png?raw=true)
 
-### Step 2.2: 
+### Step 2.2:
 
 Choose your wallet from the options presented. In this how to guide we are using MetaMask Wallet but you can use any other wallet like Trust Wallet.
 
 ![Select wallet](https://github.com/ToadNetwork/Docs/blob/main/docs/\_media/howtos/SwappingOnPadswap02\_chooseWallet.png?raw=true)
 
 ## Step 3: Select Tokens
+
+{% hint style="info" %}
+Performing a swap between two tokens requires an existing liquidity pool for this token pair on PADSwap and enough funds in the pool to perform your swap. If there is no or not enough liquidity, the UI will tell you and a swap it not possible. You can try to ask the community on [telegram](https://t.me/toadnetwork) to provide the liquidity for your desired token pair.
+{% endhint %}
 
 In order to swap any tokens, choose them from the drop down menu and enter the amount you want to swap.
 
@@ -66,8 +72,7 @@ Initiate the swap by clicking "Swap".
 
 ### Step 5.2: Confirm Swap
 
-Once you click on "Swap", you will get a summary of the tokens you are about to swap.
-Please confirm if everything is correct.
+Once you click on "Swap", you will get a summary of the tokens you are about to swap. Please confirm if everything is correct.
 
 ![Confirm tokens swap](https://github.com/ToadNetwork/Docs/blob/main/docs/\_media/howtos/SwappingOnPadswap07\_CheckSwapDetails.png?raw=true)
 
@@ -87,4 +92,6 @@ You'll notice a small pop up rising on top of the swap screen, informing you tha
 
 Once the transaction on BSC is successful, your will return to the "Swap" window, and you'll notice that the amount of each token on the display has been updated to reflect your balance.
 
-Congrats! You have managed to perform your first swap on PADSwap. You can continue your journey by providing liquidity and start farming on PADSwap.
+{% hint style="success" %}
+Congrats! You have managed to perform your first swap on PADSwap. You can continue your journey by providing liquidity ([how-to-provide-liquidity.md](how-to-provide-liquidity.md "mention")) and start farming ([how-to-farm.md](how-to-farm.md "mention")) on PADSwap. You can also read more about [padswap](../products/padswap/ "mention").
+{% endhint %}
