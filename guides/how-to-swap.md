@@ -26,9 +26,9 @@ If you have not yet connected your wallet to PADSwap, click on "Unlock wallet".
 
 ![Unlock wallet](https://github.com/ToadNetwork/Docs/blob/main/docs/\_media/howtos/SwappingOnPadswap01\_connectWallet.png?raw=true)
 
-### Step 2.2:
+### Step 2.2: Choose Connection Method
 
-Choose your wallet from the options presented. In this how to guide we are using MetaMask Wallet but you can use any other wallet like Trust Wallet.
+Choose your wallet from the options. In this how to guide we are using MetaMask Wallet but you can use any other wallet like Trust Wallet.
 
 ![Select wallet](https://github.com/ToadNetwork/Docs/blob/main/docs/\_media/howtos/SwappingOnPadswap02\_chooseWallet.png?raw=true)
 
