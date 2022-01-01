@@ -3,7 +3,7 @@ cover: ../.gitbook/assets/PAD.png
 coverY: -28.333333333333357
 ---
 
-# <img style="vertical-align:middel; width:24px; height:24px;" src="../.gitbook/assets/PAD.symbol.svg"/> $PAD
+# 🌺 $PAD
 
 * **Name:** Lily Pad
 * **Symbol/Ticker:** ![](../.gitbook/assets/PAD.symbol.svg) PAD

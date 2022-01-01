@@ -3,7 +3,7 @@ cover: ../.gitbook/assets/photo_2021-08-08_03-23-18.jpg
 coverY: 0
 ---
 
-# <img style="vertical-align:middel; width:24px; height:24px;" src="../.gitbook/assets/TOAD.symbol.svg"/> $TOAD
+# 🐸 $TOAD
 
 * **Name:** Toad
 * **Symbol/Ticker:** ![](../.gitbook/assets/TOAD.symbol.svg) TOAD
