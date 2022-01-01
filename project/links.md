@@ -37,6 +37,7 @@ coverY: 0
 * [PooCoin PAD](https://poocoin.app/tokens/0xc0888d80ee0abf84563168b3182650c0addeb6d5)
 * [Dexguru TOAD](https://dex.guru/token/0x463e737d8f740395abf44f7aac2d9531d8d539e9-bsc)
 * [DappRadar](https://dappradar.com/binance-smart-chain/defi/toad-network)
+* [BSCproject.org](https://bscproject.org/#/project/1888)
 * [Nomics](https://nomics.com/assets/toad-toad-network)
 
 ## TOAD.Network Medium Posts
