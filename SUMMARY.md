@@ -4,6 +4,7 @@
 * [Guides](guides/README.md)
   * [How to Swap Tokens?](guides/how-to-swap.md)
   * [How to Provide Liquidity?](guides/how-to-provide-liquidity.md)
+  * [How to Farm?](guides/how-to-farm.md)
 
 ## Project
 

@@ -6,7 +6,7 @@ coverY: 0
 # 🐸 $TOAD
 
 * **Name:** Toad
-* **Symbol/Ticker:** TOAD
+* **Symbol/Ticker:** ![](../.gitbook/assets/TOAD.symbol.svg) TOAD
 * **Max Supply:** 200k
 
 Toad token was released on the BSC on Friday, 26th of February 2021 with a fixed amount of 200.000 TOAD tokens. At launch 5,000 were burnt.

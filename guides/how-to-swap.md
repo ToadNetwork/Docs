@@ -1,75 +1,97 @@
 ---
-description: This guide explains how you can swap tokens on PADSwap.Exchange.
+description: This guide explains how you can swap tokens on PADSwap.
 ---
 
 # How to Swap Tokens?
 
-## PADSwapping
+{% hint style="success" %}
+**TL;DR**
 
-PADSwap has also some liquidity pools available for swaps. If you want to check which of them are available, you can check at [PADSwap pairs stats](https://info.padswap.exchange/pairs) for the available ones.
+Head to the [swap on PADSwap](https://padswap.exchange/#/swap), connect your wallet, select tokens and an amount you want to swap. If you are happy with the swap, click on swap and confirm the transaction with your wallet.
+{% endhint %}
 
-Apart from the well-known tokens (BTC, ETH and, of course, BNB), there are some partners tokens already in there, all available to swap and also, of course, to provide liquidity to. Remember that, for every swap that happens on PADSwap, part of the fee (a total of 0.3%) is redirected to the liquidity providers (0.25%) and the rest (0.05%) is redirected to [The Vault](../concepts/the-vault.md), making the ecosystem much safer and stable.
+## Step 1: Navigate to the Swap on PADSwap
 
-PADSwap smart contracts are the safest and fairest smart contracts you will ever find, as they are build with donated liquidity from the DEVS and reward liquidity providers which are farming this liquidity with the highest percent in the blockchain.
+First you have to navigate to the PADSwap platform trough the following link:
 
-There are some other videos also that might help on the topic, you'll find them below:
+{% embed url="https://padswap.exchange/#/swap" %}
+Swap tokens on PADSwap
+{% endembed %}
 
-* [ToadNetwork Youtube Channel](https://www.youtube.com/channel/UCI\_vUc-HrJWtKXj-Re-hTSw/videos)
+## Step 2: Connect Wallet
 
-## How to swap tokens padswap.exchange
+### Step 2.1: Unlock your Wallet
 
-[PAD](../tokens/pad.md) has its liquidity on custom audited smart contracts developed by the ToadNetwork team following the secure design of the PADSwap Liquidity Pool contract.
+If you have not yet connected your wallet to PADSwap, click on "Unlock wallet".
 
-In broad words, here is how to swap any token available within the padswap project:
+![Unlock wallet](https://github.com/ToadNetwork/Docs/blob/main/docs/\_media/howtos/SwappingOnPadswap01\_connectWallet.png?raw=true)
 
-Head to the "exchange" area of "trade" on [padswap.exchange](https://padswap.exchange/#/swap), connect your wallet, choose the source token on the upper list and the amount you want to swap. Select the destination token you want to receive and the dapp will automatically calculate the corresponding amount based on the AMM rules. If you are happy with the swap, click on swap. A detailed transaction screen will be presented, accept the proposal and then approve the transaction in you wallet.
+### Step 2.2: Choose Connection Method
 
-After the transaction succeeds, you'll be provided with the corresponding tokens.
+Choose your wallet from the options. In this how to guide we are using MetaMask Wallet but you can use any other wallet like Trust Wallet.
 
-Let's look into a more detailed view on what needs to be done.
+![Select wallet](https://github.com/ToadNetwork/Docs/blob/main/docs/\_media/howtos/SwappingOnPadswap02\_chooseWallet.png?raw=true)
 
-## Providing liquidity for PADSWAP
+## Step 3: Select Tokens
 
-* Navigate to [padswap.exchange](https://padswap.exchange) site, expand the "trade" menu and click on "swap":
+{% hint style="info" %}
+Performing a swap between two tokens requires an existing liquidity pool for this token pair on PADSwap and enough funds in the pool to perform your swap. If there is no or not enough liquidity, the UI will tell you and a swap it not possible. You can try to ask the community on [telegram](https://t.me/toadnetwork) to provide the liquidity for your desired token pair.
+{% endhint %}
 
-![link to padswap swap area](https://github.com/ToadNetwork/Docs/blob/main/docs/\_media/howtos/SwappingOnPadswap00\_navigateToSwap.png?raw=true)
+In order to swap any tokens, choose them from the drop down menu and enter the amount you want to swap.
 
-* If you have not yet connected your wallet, click on the "Unlock wallet" button.
+![Enter amount of tokens for swap](https://github.com/ToadNetwork/Docs/blob/main/docs/\_media/howtos/SwappingOnPadswap02\_selectTokensToSwap.png?raw=true)
 
-![unlock wallet](https://github.com/ToadNetwork/Docs/blob/main/docs/\_media/howtos/SwappingOnPadswap01\_connectWallet.png?raw=true)
+## Step 4: Approve Token
 
-* Choose your wallet from the options presented. In this how to guide we are using MetaMask Wallet.
+If it is the first time you are trading any of those tokens, you will have to approve them first.
 
-![select wallet](https://github.com/ToadNetwork/Docs/blob/main/docs/\_media/howtos/SwappingOnPadswap02\_chooseWallet.png?raw=true)
+## Step 4.1: Click Approve
 
-* In order to swap tokens, choose it from the dropDown menu and introduce the amount you want to swap. If it is the first time you are trading any of those tokens, you will have to approve that PADSwap can spend them first.
+Click "Approve" on the swap UI.
 
-![introduce amount of tokens for swap](https://github.com/ToadNetwork/Docs/blob/main/docs/\_media/howtos/SwappingOnPadswap02\_selectTokensToSwap.png?raw=true)
+## Step 4.2: Confirm Approval
 
-* If is that first time, you'll have to confirm the transaction on your wallet in order to spend the token.
+Your wallet will ask you to confirm the approval. This will cost you a small fee.
 
-![approve spend on wallet](https://github.com/ToadNetwork/Docs/blob/main/docs/\_media/howtos/SwappingOnPadswap04\_approveSpendOfTokens.png?raw=true)
+![Approve tokens via wallet](https://github.com/ToadNetwork/Docs/blob/main/docs/\_media/howtos/SwappingOnPadswap04\_approveSpendOfTokens.png?raw=true)
 
-* You'll notice that, after approving in your wallet, the dapp will wait for the approval to happen.
+## Step 4.3: Wait for Approval
 
-![approval in progress](https://github.com/ToadNetwork/Docs/blob/main/docs/\_media/howtos/SwappingOnPadswap05\_approvalOnCourse.png?raw=true)
+You'll notice that, after approving in your wallet, the DApp will wait for the approval to happen.
 
-* After approving the spend of the tokens, click on the "swap" button of the site.
+![Approval in progress](https://github.com/ToadNetwork/Docs/blob/main/docs/\_media/howtos/SwappingOnPadswap05\_approvalOnCourse.png?raw=true)
 
-![click on supply button](https://github.com/ToadNetwork/Docs/blob/main/docs/\_media/howtos/SwappingOnPadswap06\_chooseSwapToken.png?raw=true)
+## Step 5: Perform Swap
 
-* Once you click on "swap", you'll get an informational screen with details on the different values you are providing and requested to confirm the operation.
+### Step 5.1: Click Swap
+
+Initiate the swap by clicking "Swap".
+
+![Click on swap button](https://github.com/ToadNetwork/Docs/blob/main/docs/\_media/howtos/SwappingOnPadswap06\_chooseSwapToken.png?raw=true)
+
+### Step 5.2: Confirm Swap
+
+Once you click on "Swap", you will get a summary of the tokens you are about to swap. Please confirm if everything is correct.
 
 ![Confirm tokens swap](https://github.com/ToadNetwork/Docs/blob/main/docs/\_media/howtos/SwappingOnPadswap07\_CheckSwapDetails.png?raw=true)
 
-* Again, you'll be prompted in your wallet if you want to approve the proposed swap, which you'll confirm by accepting.
+### Step 5.3: Approve Swap
 
-![approve swap on wallet](https://github.com/ToadNetwork/Docs/blob/main/docs/\_media/howtos/SwappingOnPadswap08\_confirmSwapOnWallet.png?raw=true)
+You will be prompted in your wallet to approve the requested swap. Confirm by accepting.
 
-* You'll notice a small pop up rising on top of the swap screen, informing you that the transaction has been sent to the blockchain for registration.
+![Approve swap via wallet](https://github.com/ToadNetwork/Docs/blob/main/docs/\_media/howtos/SwappingOnPadswap08\_confirmSwapOnWallet.png?raw=true)
+
+## Step 6: Swap Initiated
+
+You'll notice a small pop up rising on top of the swap screen, informing you that the transaction has been sent to the blockchain for registration.
 
 ![approve swap on wallet](https://github.com/ToadNetwork/Docs/blob/main/docs/\_media/howtos/SwappingOnPadswap09\_swapConfirmation.png?raw=true)
 
-* After the confirmation and the transaction success on the BSC, your be returned to the "swap window", and you'll notice that the amount of each token on the display has been updated to reflect your balance.
+## Step 7: Swap Confirmation
 
-Congrats!!! You have managed to perform your first swap on PADSwap. Now it is time to head to the farm's area of [padswap.exchange](https://dapps.padswap.exchange) and place the tokens you swap on a farm to earn some fresh PAD!
+Once the transaction on BSC is successful, your will return to the "Swap" window, and you'll notice that the amount of each token on the display has been updated to reflect your balance.
+
+{% hint style="success" %}
+Congrats! You have managed to perform your first swap on PADSwap. You can continue your journey by providing liquidity ([how-to-provide-liquidity.md](how-to-provide-liquidity.md "mention")) and start farming ([how-to-farm.md](how-to-farm.md "mention")) on PADSwap. You can also read more about [padswap](../products/padswap/ "mention").
+{% endhint %}

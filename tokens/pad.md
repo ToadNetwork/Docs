@@ -6,9 +6,7 @@ coverY: -28.333333333333357
 # 🌺 $PAD
 
 * **Name:** Lily Pad
-
-**Symbol/Ticker:** ![](<../.gitbook/assets/image (3).png>) PAD
-
+* **Symbol/Ticker:** ![](../.gitbook/assets/PAD.symbol.svg) PAD
 * **Max Supply:** 200 billion
 * **Pre-mint:** 10 billion
 * **Liquidity (PERMANENTLY LOCKED):** **400,000 BUSD** at start; **200,000 BUSD** in pre-minted PAD, **200,000 BUSD in TOAD donated by Snake and KingToad**
@@ -40,5 +38,3 @@ For example, if we want to calculate the remaining PAD in the drip pool after 1 
 ![Plot of minted PAD over time (ignores the 10B initial mint)](<../.gitbook/assets/image (2) (1).png>)
 
 [The **Vault**](the-vault.md) stores pad backing, developers can add support for a new token to it, if a user wants to redeem the backing of PAD, the vault will burn that amount of PAD. Lowering PAD supply forever.
-
-##
