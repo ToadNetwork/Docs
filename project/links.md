@@ -37,7 +37,6 @@ coverY: 0
 * [PooCoin PAD](https://poocoin.app/tokens/0xc0888d80ee0abf84563168b3182650c0addeb6d5)
 * [Dexguru TOAD](https://dex.guru/token/0x463e737d8f740395abf44f7aac2d9531d8d539e9-bsc)
 * [DappRadar](https://dappradar.com/binance-smart-chain/defi/toad-network)
-* [BSCproject.org](https://bscproject.org/#/project/1888)
 * [Nomics](https://nomics.com/assets/toad-toad-network)
 
 ## TOAD.Network Medium Posts
@@ -59,5 +58,3 @@ coverY: 0
 * MOVR PAD Address: [https://moonriver.moonscan.io/token/0x45488c50184ce2092756ba7cdf85731fd17e6f3d](https://moonriver.moonscan.io/token/0x45488c50184ce2092756ba7cdf85731fd17e6f3d)
 * Running Sheet of all Contracts\
   [https://docs.google.com/spreadsheets/d/1aeEfSx7hW7bb1gR7lYD5ZvUSsPkXckHe-7oo7mnsgnQ/](https://docs.google.com/spreadsheets/d/1aeEfSx7hW7bb1gR7lYD5ZvUSsPkXckHe-7oo7mnsgnQ/edit#gid=0)
-
-{% embed url="https://docs.google.com/spreadsheets/d/1aeEfSx7hW7bb1gR7lYD5ZvUSsPkXckHe-7oo7mnsgnQ" %}
