@@ -6,7 +6,7 @@ cover: .gitbook/assets/2.jpg
 coverY: 53.00613496932515
 ---
 
-# 🐸 What is the TOAD.Network?
+# What is the TOAD.Network?
 
 ## Introduction
 
