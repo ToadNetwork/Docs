@@ -1,5 +1,7 @@
 ---
 description: This guide explains how you can swap tokens on PADSwap.
+cover: ../.gitbook/assets/toad-classroom.jpg
+coverY: -188.6873920552677
 ---
 
 # How to Swap Tokens?
