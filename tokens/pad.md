@@ -38,3 +38,22 @@ For example, if we want to calculate the remaining PAD in the drip pool after 1 
 ![Plot of minted PAD over time (ignores the 10B initial mint)](<../.gitbook/assets/image (2) (1).png>)
 
 [The **Vault**](the-vault.md) stores pad backing, developers can add support for a new token to it, if a user wants to redeem the backing of PAD, the vault will burn that amount of PAD. Lowering PAD supply forever.
+
+## $PAD in Perspective
+
+PADSwap competes with other Dex on the market. Comparing the market cap of PADSwaps native token $PAD to the market cap of the native tokens of other Dex can give you a perspective on the potential of the $PAD price.
+
+| Dex            | Potential Price per $PAD | Potential Upside of $PAD |
+| -------------- | ------------------------ | -----------------------: |
+| Uniswap        | $0,13289                 |                   x23841 |
+| PancakeSwap    | $0,03685                 |                    x6611 |
+| CurveFinance   | $0,03245                 |                    x5822 |
+| SushiSwap      | $0,01413                 |                    x2535 |
+| Bancor Network | $0,00957                 |                    x1716 |
+| Raydium        | $0,00647                 |                    x1160 |
+| MDEX           | $0,00399                 |                     x715 |
+| SunSwap        | $0,00285                 |                     x511 |
+| Balancer       | $0,00162                 |                     x290 |
+| QuickSwap      | $0,00132                 |                     x237 |
+
+_The calculation is based on data from 02.01.2022. The underlying market cap data of the Dex tokens was taken from_ [_coinmarketcap.com_](https://coinmarketcap.com)_. The $PAD market cap was assumed to be_ $457,068 _based on a price of_ $0,0000055740 _and a circulating supply of 82B after 356 days of drip._

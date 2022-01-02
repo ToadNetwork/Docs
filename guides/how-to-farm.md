@@ -2,6 +2,8 @@
 description: >-
   This guide explains how you can stake your LP tokens to use the farms on
   PADSwap.
+cover: ../.gitbook/assets/toad-classroom.jpg
+coverY: -188.6873920552677
 ---
 
 # How to Farm?
