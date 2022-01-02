@@ -1,6 +1,6 @@
 ---
 cover: ../.gitbook/assets/toad-classroom.jpg
-coverY: 0
+coverY: -188.6873920552677
 ---
 
 # Guides
