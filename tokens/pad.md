@@ -5,9 +5,25 @@ coverY: -28.333333333333357
 
 # 🌺 $PAD
 
-* **Name:** Lily Pad
-* **Symbol/Ticker:** ![](../.gitbook/assets/PAD.symbol.svg) PAD
-* **Max Supply:** 200 billion
+| Name          | Lily Pad                                   |   |
+| ------------- | ------------------------------------------ | - |
+| Symbol/Ticker | ![](../.gitbook/assets/PAD.symbol.svg) PAD |   |
+
+## Usage
+
+PAD is the native token of PADSwap. It acts as basis of many farms, is used as staking reward in PAD farms and provides a share for development funds.
+
+## Tokenomics
+
+| Max Supply                                 | 200 billion                                                                 |   |
+| ------------------------------------------ | --------------------------------------------------------------------------- | - |
+| Burn                                       | Yes, on claim of [the-vault.md](../concepts/the-vault.md "mention") backing |   |
+| Fees / Tax (on sell, buy and transactions) | 0%                                                                          |   |
+
+{% hint style="info" %}
+Docs in progress
+{% endhint %}
+
 * **Pre-mint:** 10 billion
 * **Liquidity (PERMANENTLY LOCKED):** **400,000 BUSD** at start; **200,000 BUSD** in pre-minted PAD, **200,000 BUSD in TOAD donated by Snake and KingToad**
 * **No Presale**

@@ -26,9 +26,12 @@ See also [#pegging](glossary.md#pegging "mention"), which is a similar concept.
 
 ## Burn
 
-{% hint style="info" %}
-Docs in progress
-{% endhint %}
+Existing tokens which no one has any access to (and never will) are considered to be burned. Burning tokens is often done by sending tokens to an address which can not be accessed. For example, on BSC [0x000000000000000000000000000000000000dEaD](https://bscscan.com/address/0x000000000000000000000000000000000000dead) is such an address.
+
+There are several reasons to burn tokens:
+
+1. Demand and supply define a tokens price. Burning tokens reduces the supply and given existing demand will increase the price.
+2. Liquidity providers get LP tokens as collateral for withdrawal of their share of the liquidity pool. Burning these LP tokens means that no one can withdraw the respective liquidity and therefore increases the security for users. See also [#undefined](glossary.md#undefined "mention").
 
 ## Circulating Supply
 
@@ -107,6 +110,15 @@ Stable coins like BUSD are one example of pegging. Since BUSD is pegged by USD, 
 {% hint style="info" %}
 See also [#backing](glossary.md#backing "mention"), which is a similar concept.
 {% endhint %}
+
+## Rug Pulling
+
+If someone takes away important support of a project, this is known as rug pulling. This can make a token worthless due to a severe price reduction or by removing the ability to sell.
+
+There are many forms of rug pulling, e.g.:
+
+1. Removing large portions of a liquidity pool, which removes the ability to sell.
+2. Selling high percentages of the circulating token supply in a short period of time, which drastically reduces the token price.&#x20;
 
 ## Staking
 

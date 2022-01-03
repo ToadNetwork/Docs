@@ -33,9 +33,9 @@ PADSwap is non-custodial, which means that—unlike centralized exchanges—PADS
 
 ### Permissionless
 
-{% hint style="info" %}
-Docs in progress
-{% endhint %}
+Centralized exchanges restrict their services to certain geographies and to selected people e.g. only of certain age.&#x20;
+
+On PADSwap anyone can use our swap, provide liquidity or stake in our farms. TOAD.Networks products are open for public use without restrictions for anyone.&#x20;
 
 ### Automated Market Maker (AMM)
 
@@ -51,14 +51,14 @@ With liquidity that is supplied by other users. This means that new projects can
 Docs in progress
 {% endhint %}
 
-|                                          |                       PancakeSwap                      | SushiSwap                                                            |                        PADSwap                       |
-| ---------------------------------------- | :----------------------------------------------------: | -------------------------------------------------------------------- | :--------------------------------------------------: |
-| Swap fee distribution                    | <p>0.17% to LP providers<br>0.03% to devs' pockets</p> | <p>0.25% to LP providers<br>0.05% to SUSHI holders</p>               | <p>0.25% to LP providers<br>0.05% to PAD backing</p> |
-| Reward token tokenomics                  |                    Infinitely minted                   | Capped supply                                                        |                     Capped supply                    |
-| Reward token backing                     |                          None                          | None                                                                 |     Backed by the Vault of accumulated swap fees     |
-| Multi-chain?                             |                        BSC only                        | Multi-chain                                                          |                      Multi-chain                     |
-| Regular farms (earn native reward token) |                           Yes                          | Yes                                                                  |                          Yes                         |
+|                                          |                       PancakeSwap                      |                               SushiSwap                              |                        PADSwap                       |
+| ---------------------------------------- | :----------------------------------------------------: | :------------------------------------------------------------------: | :--------------------------------------------------: |
+| Swap fee distribution                    | <p>0.17% to LP providers<br>0.03% to devs' pockets</p> |        <p>0.25% to LP providers<br>0.05% to SUSHI holders</p>        | <p>0.25% to LP providers<br>0.05% to PAD backing</p> |
+| Reward token tokenomics                  |                    Infinitely minted                   |                             Capped supply                            |                     Capped supply                    |
+| Reward token backing                     |                          None                          |                                 None                                 |     Backed by the Vault of accumulated swap fees     |
+| Multi-chain?                             |                        BSC only                        |                              Multi-chain                             |                      Multi-chain                     |
+| Regular farms (earn native reward token) |                           Yes                          |                                  Yes                                 |                          Yes                         |
 | Partner farms (earn other tokens)        |        <p>Partially<br>(you must stake CAKE)</p>       | <p>Partially<br>(earning half in SUSHI and half in other tokens)</p> |                          Yes                         |
-| LP farms (stake LP, get more LP)         |                           No                           | No                                                                   |                          Yes                         |
-| Own cross-chain bridge                   |                           No                           | No                                                                   |                          Yes                         |
-| Own token launchpad                      |                           No                           | No                                                                   |                          Yes                         |
+| LP farms (stake LP, get more LP)         |                           No                           |                                  No                                  |                          Yes                         |
+| Own cross-chain bridge                   |                           No                           |                                  No                                  |                          Yes                         |
+| Own token launchpad                      |                           No                           |                                  No                                  |                          Yes                         |
