@@ -31,7 +31,7 @@ Existing tokens which no one has any access to (and never will) are considered t
 There are several reasons to burn tokens:
 
 1. Demand and supply define a tokens price. Burning tokens reduces the supply and given existing demand will increase the price.
-2. Liquidity providers get LP tokens as collateral for withdrawal of their share of the liquidity pool. Burning these LP tokens means that no one can withdraw the respective liquidity and therefore increases the security for users. See also [#undefined](glossary.md#undefined "mention").
+2. Liquidity providers get LP tokens as collateral for withdrawal of their share of the liquidity pool. Burning these LP tokens means that no one can withdraw the respective liquidity and therefore increases the security for users. See also [#rug-pulling](glossary.md#rug-pulling "mention").
 
 ## Circulating Supply
 
