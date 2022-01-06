@@ -10,8 +10,6 @@ coverY: 0
 Beta coming soon! TM
 {% endhint %}
 
-![](../.gitbook/assets/LaunchPAD.jpg)
-
 LaunchPAD beta will allow anyone to launch their own project without any coding experience. Any project created on LaunchPAD beta will start with:
 
 AUDITED Presale Contract

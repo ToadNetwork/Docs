@@ -5,9 +5,9 @@ coverY: -28.333333333333357
 
 # 🌺 $PAD
 
-| Name          | Lily Pad                                   |   |
-| ------------- | ------------------------------------------ | - |
-| Symbol/Ticker | ![](../.gitbook/assets/PAD.symbol.svg) PAD |   |
+| Name          | Lily Pad                                   |
+| ------------- | ------------------------------------------ |
+| Symbol/Ticker | ![](../.gitbook/assets/PAD.symbol.svg) PAD |
 
 ## Usage
 
@@ -15,10 +15,10 @@ PAD is the native token of PADSwap. It acts as basis of many farms, is used as s
 
 ## Tokenomics
 
-| Max Supply                                 | 200 billion                                                                 |   |
-| ------------------------------------------ | --------------------------------------------------------------------------- | - |
-| Burn                                       | Yes, on claim of [the-vault.md](../concepts/the-vault.md "mention") backing |   |
-| Fees / Tax (on sell, buy and transactions) | 0%                                                                          |   |
+| Max Supply                                 | 200 billion                                                                 |
+| ------------------------------------------ | --------------------------------------------------------------------------- |
+| Burn                                       | Yes, on claim of [the-vault.md](../concepts/the-vault.md "mention") backing |
+| Fees / Tax (on sell, buy and transactions) | 0%                                                                          |
 
 {% hint style="info" %}
 Docs in progress
