@@ -1,5 +1,7 @@
 ---
 description: Join our community.
+cover: ../.gitbook/assets/community TOADS.png
+coverY: 0
 ---
 
 # 🫂 Community
