@@ -9,6 +9,18 @@ coverY: -28.333333333333357
 | ------------- | ------------------------------------------ |
 | Symbol/Ticker | ![](../.gitbook/assets/PAD.symbol.svg) PAD |
 
+## Contracts
+
+{% tabs %}
+{% tab title="BSC (BEP-20)" %}
+[https://bscscan.com/token/0xc0888d80ee0abf84563168b3182650c0addeb6d5](https://bscscan.com/token/0xc0888d80ee0abf84563168b3182650c0addeb6d5)
+{% endtab %}
+
+{% tab title="MOVR" %}
+[https://moonriver.moonscan.io/token/0x45488c50184ce2092756ba7cdf85731fd17e6f3d](https://moonriver.moonscan.io/token/0x45488c50184ce2092756ba7cdf85731fd17e6f3d)
+{% endtab %}
+{% endtabs %}
+
 ## Usage
 
 PAD is the native token of PADSwap. It acts as basis of many farms, is used as staking reward in PAD farms and provides a share for development funds.
@@ -20,40 +32,66 @@ PAD is the native token of PADSwap. It acts as basis of many farms, is used as s
 | Burn                                       | Yes, on claim of [the-vault.md](../concepts/the-vault.md "mention") backing |
 | Fees / Tax (on sell, buy and transactions) | 0%                                                                          |
 
+Launch Details:
+
+{% tabs %}
+{% tab title="BSC (BEP-20)" %}
+* Launch Date: May 8, 2021 03:58:26 AM (UTC)
+* Pre-mint: 10B
+* Liquidity (Permanently locked): 200k BUSD in pre-minted PAD donated by Snake and KingToad&#x20;
+* Fair Launch: No Presale and no dev / team tokens at launch
+{% endtab %}
+
+{% tab title="MOVR" %}
+* Launch Date: Nov 1, 2021 04:22:42 AM (UTC)
+* Pre-mint: 20B
+* Fair Launch: No Presale and no dev / team tokens at launch
+{% endtab %}
+{% endtabs %}
+
+PAD is a standard token with mint and burn functions, the mint function can only be used by the minter contract. The minter mints an exponentially decreasing percentage of the remaining supply and distributes them to the [pad-farms.md](../products/farms/pad-farms.md "mention") and development funds. See [#continuous-minter-formula-pad-drip](pad.md#continuous-minter-formula-pad-drip "mention") for details on the minter.
+
+Of the daily drip, 90% are distributed to the [pad-farms.md](../products/farms/pad-farms.md "mention") and 10% are send to the development funds. The only address that is allowed to mint new tokens is the minter contract. The only parameters the developers can change in the minter contract are the percentage each farm gets from the daily drip and add/remove new farms. Developers have no incentive to alter the percentage they get from the minter, as this would be quickly spotted by the community and since the minter contract will only mint a small fixed percentage a day, they would lose more from the devaluation (due to lost of trust) of the PAD and TOAD that they hold than they could gain.
+
+[the-vault.md](../concepts/the-vault.md "mention") stores PADs backing, if a user wants to redeem the backing of PAD, the vault will burn that amount of PAD. Lowering PAD supply forever. Making PAD a deflationary token with a rising price flow, continuously increasing the backing and decreasing the supply.
+
 {% hint style="info" %}
-Docs in progress
+See [the-vault.md](../concepts/the-vault.md "mention") for more details.
 {% endhint %}
-
-* **Pre-mint:** 10 billion
-* **Liquidity (PERMANENTLY LOCKED):** **400,000 BUSD** at start; **200,000 BUSD** in pre-minted PAD, **200,000 BUSD in TOAD donated by Snake and KingToad**
-* **No Presale**
-* **Fair Launch** (Devs only get 10% of the 0.13% drip per day, **NO TEAM TOKENS AT LAUNCH**)
-
-The BEP-20 token PAD is a standard BEP-20 token with mint and burn functions, the mint function can only be used by the minter contract.
-
-The minter mints new tokens(0.13% of the remaining supply there is to mint) and distributes them to the farms. All the remaining 180 billion tokens are going to be minted and distributed by the Minter contract. The minter contract will mint 0.13% of the remaining supply a day, by the second, and distribute those rewards to the farms and dev contract.
-
-The dev contract will get 10% of those rewards, the remaining 90% are going to be distributed to the farms. The only address that is allowed to mint new tokens is the minter contract. The only parameters the developers can change in the minter contract are the % each farm gets from the daily mint and add/remove new farms. Developers have no incentive to alter the % they get from the minter, as this would be quickly spotted by the community and since the Minter contract will only mint 0.13% a day, they would lose more from the devaluation (due to lost of trust) of the pad and toad that they hold than that 0.13% is worth.
 
 ## Continuous Minter Formula / PAD drip
 
-Let $$p$$ be the drip pool supply, $$d$$ the duration in seconds and $$r$$ the drip per second (0.13% per day and 86400 seconds per day), then the exponential decay of the drip pool is given by the function $$M$$:
+Let $$p$$ be the drip pool supply, $$d$$ the drip per second with 86400 seconds per day and $$s$$ the duration in seconds, then the exponential decay of the drip pool is given by the function $$M$$:
 
 $$
-r = \dfrac{0.0013}{86400}
+M(p, d, s) = p * \left(1 - \dfrac{d}{86400}\right) ^ s
 $$
 
-$$
-M(p, d) = p * (1 - r) ^ d
-$$
+The function $$M$$ calculates the remaining drip pool supply after $$s$$ seconds. For example, if we want to calculate the remaining PAD in a drip pool of 190B after 1 year (31,536,000 seconds) with a drip of 0.13%, we can solve $$M(190\text{B}, 0.0013, 31536000)$$, which gives us 118B PAD remaining in the drip pool after a year.
 
-The function $$M$$ calculates the remaining drip pool supply after $$d$$ seconds. PAD has a max supply of 200B tokens. There was an initial mint of 10B tokens, so $$P = 190\text{B}$$.
+To calculate the remaining PAD you need the drip pool supply, the drip percentage and the timestamp of contract deployment for the respective chains:
 
-For example, if we want to calculate the remaining PAD in the drip pool after 1 year (31,536,000 seconds), we can solve $$M(190\text{B}, 31536000)$$, which gives us 118B PAD remaining in the drip pool after a year.
+{% tabs %}
+{% tab title="BSC (BEP-20)" %}
+PAD has a max supply of 200B tokens and there was an initial mint of 10B tokens, so $$p = 190\text{B}$$.
 
-![Plot of minted PAD over time (ignores the 10B initial mint)](<../.gitbook/assets/image (2) (1).png>)
+PAD has a drip of 0.13%, so $$d = 0.0013$$.
 
-[The **Vault**](the-vault.md) stores pad backing, developers can add support for a new token to it, if a user wants to redeem the backing of PAD, the vault will burn that amount of PAD. Lowering PAD supply forever.
+Deployment of the contract was on May 8, 2021 03:58:26 AM (UTC). To calculate the duration $$s$$ you need to calculate the duration from that time to your desired time in seconds. You can use [this calculator](https://www.calculator.net/time-duration-calculator.html?today=05%2F08%2F2021\&starthour2=3\&startmin2=58\&startsec2=26\&startunit2=a#twodates) to calculate the duration in seconds.
+
+![Circulating and reward supply of PAD on BSC over time.](../.gitbook/assets/pad-supply-bsc.svg)
+{% endtab %}
+
+{% tab title="MOVR" %}
+PAD has a max supply of 200B tokens and there was an initial mint of 20B tokens, so $$p = 180\text{B}$$.
+
+PAD has a drip of 0.09%, so $$d = 0.0009$$.
+
+Deployment of the contract was on Nov 1, 2021 04:22:42 AM (UTC). To calculate the duration $$s$$ you need to calculate the duration from that time to your desired time in seconds. You can use [this calculator](https://www.calculator.net/time-duration-calculator.html?today=11%2F01%2F2021\&starthour2=4\&startmin2=22\&startsec2=42\&startunit2=a#twodates) to calculate the duration in seconds.
+
+![Circulating and reward supply of PAD on MOVR over time.](../.gitbook/assets/pad-supply-movr.svg)
+{% endtab %}
+{% endtabs %}
 
 ## $PAD in Perspective
 

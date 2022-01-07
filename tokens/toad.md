@@ -9,6 +9,18 @@ coverY: 0
 | ------------- | -------------------------------------------- |
 | Symbol/Ticker | ![](../.gitbook/assets/TOAD.symbol.svg) TOAD |
 
+## Contracts
+
+{% tabs %}
+{% tab title="BSC (BEP-20)" %}
+[https://bscscan.com/token/0x463e737d8f740395abf44f7aac2d9531d8d539e9](https://bscscan.com/token/0x463e737d8f740395abf44f7aac2d9531d8d539e9)
+{% endtab %}
+
+{% tab title="MOVR" %}
+Wrapped TOAD on Moonriver (There is only ever 1 TOAD): [https://moonriver.moonscan.io/token/0x165dbb08de0476271714952c3c1f068693bd60d7](https://moonriver.moonscan.io/token/0x165dbb08de0476271714952c3c1f068693bd60d7)
+{% endtab %}
+{% endtabs %}
+
 ## Usage
 
 TOAD is a governance token, aiming to empower the TOAD.Network community to participate in the protocol decisions, like:
@@ -24,7 +36,22 @@ TOAD is a governance token, aiming to empower the TOAD.Network community to part
 | Burn                                       | 5k burned a launch; 1% burn of TOAD-BNB LP tokens on the [toad-farms-old.md](../products/farms/toad-farms-old.md "mention") |
 | Fees / Tax (on sell, buy and transactions) | 0%                                                                                                                          |
 
-Toad token was released on the BSC on Friday, 26th of February 2021 with a fixed amount of 200.000 TOAD tokens. At launch 5,000 were burnt. There is no possibility to mint more TOAD.
+Launch Details:
+
+{% tabs %}
+{% tab title="BSC (BEP-20)" %}
+* Launch Date: Friday, 26th of February 2021
+* Burn on Launch: 5k
+* Liquidity (Permanently locked): 200k BUSD donated by Snake and KingToad&#x20;
+* Fair Launch: No Presale and no dev / team tokens at launch
+{% endtab %}
+
+{% tab title="MOVR" %}
+* Fair Launch: No Presale and no dev / team tokens at launch
+{% endtab %}
+{% endtabs %}
+
+TOAD is a standard token with mint and burn functions. All TOAD was minted at launch and there is no possibility to mint more TOAD.
 
 The Vault takes 30% off all the fees it receives and buys TOAD with it. This adds significant buyback pressure, meaning, that the Vault generates demand for TOAD and thereby increasing the price. Since the Vault stores the bought TOAD, it basically removes them from circulation, which in turn decreases the supply.&#x20;
 
