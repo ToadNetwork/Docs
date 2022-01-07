@@ -53,7 +53,7 @@ PAD is a standard token with mint and burn functions, the mint function can only
 
 Of the daily drip, 90% are distributed to the [pad-farms.md](../products/farms/pad-farms.md "mention") and 10% are sent to the development funds. The only address that is allowed to mint new tokens is the minter contract. The only parameters the developers can change in the minter contract are the percentage each farm gets from the daily drip and add/remove new farms. Developers have no incentive to alter the percentage they get from the minter, as this would be quickly spotted by the community and since the minter contract will only mint a small fixed percentage a day, they would lose more from the devaluation (due to lost of trust) of the PAD and TOAD that they hold than they could gain.
 
-[the-vault.md](../concepts/the-vault.md "mention") stores PADs backing, if a user wants to redeem the backing of PAD, the vault will burn that amount of PAD. Lowering PAD supply forever. Making PAD a deflationary token with a rising price flow, continuously increasing the backing and decreasing the supply.
+[the-vault.md](../concepts/the-vault.md "mention") stores PADs backing, if a user wants to redeem the backing of PAD, the vault will burn that amount of PAD. Lowering PAD supply forever. Making PAD a deflationary token with a rising price floor, continuously increasing the backing and decreasing the supply.
 
 {% hint style="info" %}
 See [the-vault.md](../concepts/the-vault.md "mention") for more details.
