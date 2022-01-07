@@ -21,6 +21,8 @@ Docs in progress
 
 All [PADSwap](../padswap/) DPLP farms return 7.5% into the rewards pool and send 2.5% to [The Vault](../../concepts/the-vault.md) to back [PAD](../../tokens/pad.md). The Original TOAD DPLP has 1% burned, the other 9% returning to the rewards pool.
 
+The Original TOAD DPLP liquidity is hosted on **PancakeSwap V1** liquidity contracts, while PAD’s has its own personalized and audited contract specifically setup to correct PancakeSwap V1 liquidity limits and is fully managed by the PADSwap ecosystem.
+
 TOAD developers donated their initially reserved LP tokens to the TOAD pool. There is no way these tokens can be removed except by farming it when providing liquidity and joining to the LP Farm.
 
 TOAD.Network invented the Decentralized Perpetual Liquidity Protocol so that users can farm donated developer shares and ensure perpetual liquidity for the TOAD.Network ecosystem.

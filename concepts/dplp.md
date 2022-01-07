@@ -18,7 +18,7 @@ Read [liquidity-pools.md](../products/padswap/liquidity-pools.md "mention") to u
 
 LP Token Farming is a new and experimental concept only on the TOAD.Network ecosystem. The goal of LP Token Farming is to decentralize the liquidity. In other projects, the team holds a large amount of liquidity and promise to lock it for a certain period. At TOAD.Network, we give all of our Team LP tokens to the community, allowing people to farm them. Besides providing more liquidity for users, this makes the project "rug-pull-proof". All the LP tokens from the team are donated to farming pools that drip slowly over time to those who stake their tokens in those farms, meaning devs have only as much access to these tokens as any other user.
 
-Here is a video that explains this concept:&#x20;
+Here is a video that explains this concept:
 
 {% embed url="https://youtu.be/IAMNJRaDaLk" %}
 
@@ -44,6 +44,4 @@ By charging a higher fee to get in and out (that goes right back to the rewards 
 
 In long, this works as follows: Let’s say that some users want to remove their tokens from the contract as they have reached their expected gains or the pool is not as attractive for them anymore. Once these users withdraw, the rewards pool will grow from the exit fees these users paid to withdraw. This means that the rewards for users who remain in the contract will be larger, making it more attractive to other people looking to provide liquidity.
 
-This LP Mechanism will ensure TOAD and PAD will always have liquidity.
-
-The Original TOAD DPLP liquidity is hosted on **PancakeSwap V1** liquidity contracts, while PAD’s has its own personalized and audited contract specifically setup to correct PancakeSwap V1 liquidity limits and is fully managed by the PADSwap ecosystem.
+This DPLP mechanism will ensure that TOAD, PAD or projects launching on our [launchpad.md](../products/launchpad.md "mention") will always have liquidity.
