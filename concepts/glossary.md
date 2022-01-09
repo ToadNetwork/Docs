@@ -10,6 +10,14 @@ description: >-
 Docs in progress
 {% endhint %}
 
+## Annual Percentage Yield (APY)
+
+The rate of return earned on an investment, taking into account the effect of compounding interest. Compounding with respect to [farms](../products/farms/ "mention") means, that your rewards will increase when you reinvest your received rewards.&#x20;
+
+{% hint style="info" %}
+You will only receive the shown APY if you always reinvest. The APY does not take transaction fees into account. You need to decide when to reinvest.
+{% endhint %}
+
 ## Arbitrage
 
 {% hint style="info" %}
@@ -118,7 +126,7 @@ If someone takes away important support of a project, this is known as rug pulli
 There are many forms of rug pulling, e.g.:
 
 1. Removing large portions of a liquidity pool, which removes the ability to sell.
-2. Selling high percentages of the circulating token supply in a short period of time, which drastically reduces the token price.&#x20;
+2. Selling high percentages of the circulating token supply in a short period of time, which drastically reduces the token price.
 
 ## Staking
 
@@ -135,6 +143,12 @@ Docs in progress
 {% endhint %}
 
 ## Total Supply
+
+{% hint style="info" %}
+Docs in progress
+{% endhint %}
+
+## Vesting
 
 {% hint style="info" %}
 Docs in progress
