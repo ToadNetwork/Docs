@@ -25,7 +25,7 @@ This page focuses on the "incentive" aspect of DPLP, namely the DPLP farms. See 
 
 Why should I care, you may ask. High APY is better, right? Not necessarily! See our notes on [#high-vs.-stable-apy](./#high-vs.-stable-apy "mention").
 
-The rewards (APY) you see on the DPLP farms comes from staking and unstaking fees. This ensures a continuous inflow of new rewards to the reward pool.
+The rewards (APY) you see on the DPLP farms come from staking and unstaking fees. This ensures a continuous inflow of new rewards to the reward pool.
 
 This works through the following two mechanisms:
 
