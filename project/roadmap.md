@@ -8,8 +8,6 @@ description: >-
 
 The TOADmap can be found here:
 
-{% embed url="https://beta.toad.network/roadmap" %}
-Link to the roadmap
-{% endembed %}
+{% embed url="https://toad.network/roadmap" %}
 
 ![](../.gitbook/assets/FINAL.jpeg)
