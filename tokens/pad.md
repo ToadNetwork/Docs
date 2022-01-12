@@ -13,11 +13,15 @@ coverY: -28.333333333333357
 
 {% tabs %}
 {% tab title="BSC (BEP-20)" %}
-[https://bscscan.com/token/0xc0888d80ee0abf84563168b3182650c0addeb6d5](https://bscscan.com/token/0xc0888d80ee0abf84563168b3182650c0addeb6d5)
+[0xc0888d80ee0abf84563168b3182650c0addeb6d5](https://bscscan.com/token/0xc0888d80ee0abf84563168b3182650c0addeb6d5)
 {% endtab %}
 
 {% tab title="MOVR" %}
-[https://moonriver.moonscan.io/token/0x45488c50184ce2092756ba7cdf85731fd17e6f3d](https://moonriver.moonscan.io/token/0x45488c50184ce2092756ba7cdf85731fd17e6f3d)
+[0x45488c50184ce2092756ba7cdf85731fd17e6f3d](https://moonriver.moonscan.io/token/0x45488c50184ce2092756ba7cdf85731fd17e6f3d)
+{% endtab %}
+
+{% tab title="GLMR" %}
+[0x59193512877E2EC3bB27C178A8888Cfac62FB32D](https://blockscout.moonbeam.network/address/0x59193512877E2EC3bB27C178A8888Cfac62FB32D)
 {% endtab %}
 {% endtabs %}
 
@@ -38,7 +42,7 @@ Launch Details:
 {% tab title="BSC (BEP-20)" %}
 * Launch Date: May 8, 2021 03:58:26 AM (UTC)
 * Pre-mint: 10B
-* Liquidity (Permanently locked): 200k BUSD in pre-minted PAD donated by Snake and KingToad&#x20;
+* Liquidity (Permanently locked): 200k BUSD in pre-minted PAD donated by Snake and KingToad
 * Fair Launch: No Presale and no dev / team tokens at launch
 {% endtab %}
 
@@ -47,9 +51,19 @@ Launch Details:
 * Pre-mint: 20B
 * Fair Launch: No Presale and no dev / team tokens at launch
 {% endtab %}
+
+{% tab title="GLMR" %}
+* Launch Date: January 1, 2022
+* Presale price: 833K PAD per GLMR (6000 GLMR hardcap)
+* Fair Launch: No Presale and no dev / team tokens at launch
+{% endtab %}
 {% endtabs %}
 
 PAD is a standard token with mint and burn functions, the mint function can only be used by the minter contract. The minter mints an exponentially decreasing percentage of the remaining supply and distributes them to the [pad-farms.md](../products/farms/pad-farms.md "mention") and development funds. See [#continuous-minter-formula-pad-drip](pad.md#continuous-minter-formula-pad-drip "mention") for details on the minter.
+
+On every chain PAD is created independently and has its own [the-vault.md](../concepts/the-vault.md "mention").
+
+![Overview over the PAD distribution on the BSC](<../.gitbook/assets/photo\_2021-10-26\_22-52-45 (1).jpg>)
 
 Of the daily drip, 90% are distributed to the [pad-farms.md](../products/farms/pad-farms.md "mention") and 10% are sent to the development funds. The only address that is allowed to mint new tokens is the minter contract. The only parameters the developers can change in the minter contract are the percentage each farm gets from the daily drip and add/remove new farms. Developers have no incentive to alter the percentage they get from the minter, as this would be quickly spotted by the community and since the minter contract will only mint a small fixed percentage a day, they would lose more from the devaluation (due to lost of trust) of the PAD and TOAD that they hold than they could gain.
 
@@ -90,6 +104,12 @@ PAD has a drip of 0.09%, so $$d = 0.0009$$.
 Deployment of the contract was on Nov 1, 2021 04:22:42 AM (UTC). To calculate the duration $$s$$ you need to calculate the duration from that time to your desired time in seconds. You can use [this calculator](https://www.calculator.net/time-duration-calculator.html?today=11%2F01%2F2021\&starthour2=4\&startmin2=22\&startsec2=42\&startunit2=a#twodates) to calculate the duration in seconds.
 
 ![Circulating and reward supply of PAD on MOVR over time.](../.gitbook/assets/pad-supply-movr.svg)
+{% endtab %}
+
+{% tab title="GLMR" %}
+{% hint style="info" %}
+Docs in progress
+{% endhint %}
 {% endtab %}
 {% endtabs %}
 

@@ -13,11 +13,18 @@ coverY: 0
 
 {% tabs %}
 {% tab title="BSC (BEP-20)" %}
-[https://bscscan.com/token/0x463e737d8f740395abf44f7aac2d9531d8d539e9](https://bscscan.com/token/0x463e737d8f740395abf44f7aac2d9531d8d539e9)
+[0x463e737d8f740395abf44f7aac2d9531d8d539e9](https://bscscan.com/token/0x463e737d8f740395abf44f7aac2d9531d8d539e9)
 {% endtab %}
 
 {% tab title="MOVR" %}
-Wrapped TOAD on Moonriver (There is only ever 1 TOAD): [https://moonriver.moonscan.io/token/0x165dbb08de0476271714952c3c1f068693bd60d7](https://moonriver.moonscan.io/token/0x165dbb08de0476271714952c3c1f068693bd60d7)
+Wrapped TOAD on Moonriver (There is only ever 1 TOAD): \
+[0x165dbb08de0476271714952c3c1f068693bd60d7](https://moonriver.moonscan.io/token/0x165dbb08de0476271714952c3c1f068693bd60d7)
+{% endtab %}
+
+{% tab title="GLMR (soon)" %}
+{% hint style="info" %}
+Docs in progress
+{% endhint %}
 {% endtab %}
 {% endtabs %}
 
@@ -48,6 +55,12 @@ Launch Details:
 
 {% tab title="MOVR" %}
 * Fair Launch: No Presale and no dev / team tokens at launch
+{% endtab %}
+
+{% tab title="GLMR (soon)" %}
+{% hint style="info" %}
+Docs in progress
+{% endhint %}
 {% endtab %}
 {% endtabs %}
 
