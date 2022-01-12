@@ -13,4 +13,24 @@ Farm PAD in our PAD Farms on PADSwap
 Docs in progress
 {% endhint %}
 
-![Overview over the PAD distribution](<../../.gitbook/assets/photo\_2021-10-26\_22-52-45 (1).jpg>)
+## Rewards and Distribution
+
+### Where do rewards come from?
+
+Why should I care, you may ask. High APY is better, right? Not necessarily! See our notes on [#high-vs.-stable-apy](./#high-vs.-stable-apy "mention")
+
+{% hint style="info" %}
+Docs in progress
+{% endhint %}
+
+### How are rewards distributed?
+
+{% hint style="info" %}
+Docs in progress
+{% endhint %}
+
+## Fees
+
+{% hint style="info" %}
+Docs in progress
+{% endhint %}
