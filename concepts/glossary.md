@@ -49,6 +49,8 @@ Docs in progress
 
 ## Deflationary Token
 
+Token with decreasing circulating supply.
+
 {% hint style="info" %}
 Docs in progress
 {% endhint %}
@@ -76,6 +78,8 @@ Measures the combined value of a basket of assets.
 Guarantee, that an asset can be exchanged with a fixed amount of other assets.
 
 ## Inflationary Token
+
+Token with increasing circulating supply without max supply.
 
 {% hint style="info" %}
 Docs in progress
