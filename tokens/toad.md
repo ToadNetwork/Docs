@@ -17,7 +17,7 @@ coverY: 0
 {% endtab %}
 
 {% tab title="MOVR" %}
-Wrapped TOAD on Moonriver (There is only ever 1 TOAD): \
+Wrapped TOAD on Moonriver (There is only ever 1 TOAD):\
 [0x165dbb08de0476271714952c3c1f068693bd60d7](https://moonriver.moonscan.io/token/0x165dbb08de0476271714952c3c1f068693bd60d7)
 {% endtab %}
 
@@ -49,7 +49,7 @@ Launch Details:
 {% tab title="BSC (BEP-20)" %}
 * Launch Date: Friday, 26th of February 2021
 * Burn on Launch: 5k
-* Liquidity (Permanently locked): 200k BUSD donated by Snake and KingToad&#x20;
+* Liquidity (Permanently locked): 200k BUSD donated by Snake and KingToad
 * Fair Launch: No Presale and no dev / team tokens at launch
 {% endtab %}
 
@@ -66,11 +66,13 @@ Docs in progress
 
 TOAD is a standard token with mint and burn functions. All TOAD was minted at launch and there is no possibility to mint more TOAD.
 
-The Vault takes 30% off all the fees it receives and buys TOAD with it. This adds significant buyback pressure, meaning, that the Vault generates demand for TOAD and thereby increasing the price. Since the Vault stores the bought TOAD, it basically removes them from circulation, which in turn decreases the supply.&#x20;
+The Vault takes 30% off all the fees it receives and buys TOAD with it. This adds significant buyback pressure, meaning, that the Vault generates demand for TOAD and thereby increasing the price. Since the Vault stores the bought TOAD, it basically removes them from circulation, which in turn decreases the supply.
 
 {% hint style="info" %}
 See [the-vault.md](../concepts/the-vault.md "mention") for more details.
 {% endhint %}
+
+There is burn through the 1% staking, reinvesting and unstaking fees on the TOAD solo farm, see [pad-farms.md](../products/farms/pad-farms.md "mention").
 
 ## $TOAD in Perspective
 

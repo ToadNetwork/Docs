@@ -54,11 +54,24 @@ coverY: 0
 
 ## Contract Addresses
 
-* TOAD BSC Address: [https://bscscan.com/token/0x463e737d8f740395abf44f7aac2d9531d8d539e9](https://bscscan.com/token/0x463e737d8f740395abf44f7aac2d9531d8d539e9)
-* PAD BSC Address: [https://bscscan.com/token/0xc0888d80ee0abf84563168b3182650c0addeb6d5](https://bscscan.com/token/0xc0888d80ee0abf84563168b3182650c0addeb6d5)
-* Wrapped TOAD on Moonriver Address (There is only ever 1 TOAD): [https://moonriver.moonscan.io/token/0x165dbb08de0476271714952c3c1f068693bd60d7](https://moonriver.moonscan.io/token/0x165dbb08de0476271714952c3c1f068693bd60d7)
-* MOVR PAD Address: [https://moonriver.moonscan.io/token/0x45488c50184ce2092756ba7cdf85731fd17e6f3d](https://moonriver.moonscan.io/token/0x45488c50184ce2092756ba7cdf85731fd17e6f3d)
-* Running Sheet of all Contracts\
-  [https://docs.google.com/spreadsheets/d/1aeEfSx7hW7bb1gR7lYD5ZvUSsPkXckHe-7oo7mnsgnQ/](https://docs.google.com/spreadsheets/d/1aeEfSx7hW7bb1gR7lYD5ZvUSsPkXckHe-7oo7mnsgnQ/edit#gid=0)
+### $TOAD Contracts
+
+You can find all $TOAD contract addresses in the [#contracts](../tokens/toad.md#contracts "mention") section of our [toad.md](../tokens/toad.md "mention") documentation.
+
+### $PAD Contracts
+
+You can find all $PAD contract addresses in the [#contracts](../tokens/pad.md#contracts "mention") section of our [pad.md](../tokens/pad.md "mention") documentation.
+
+### PADSwap Router and Factory Contracts
+
+You can find all PADSwap router and factory contract addresses in the [#contracts](../products/padswap/#contracts "mention") section of our [padswap](../products/padswap/ "mention") documentation.
+
+### The Vault Contracts
+
+You can find all the Vault contract addresses in the [#contracts](../concepts/the-vault.md#contracts "mention") section of our [the-vault.md](../concepts/the-vault.md "mention") documentation.
+
+### Overview
+
+We provide a running sheet of all contract addresses: [https://docs.google.com/spreadsheets/d/1aeEfSx7hW7bb1gR7lYD5ZvUSsPkXckHe-7oo7mnsgnQ/](https://docs.google.com/spreadsheets/d/1aeEfSx7hW7bb1gR7lYD5ZvUSsPkXckHe-7oo7mnsgnQ/edit#gid=0)
 
 {% embed url="https://docs.google.com/spreadsheets/d/1aeEfSx7hW7bb1gR7lYD5ZvUSsPkXckHe-7oo7mnsgnQ" %}

@@ -11,7 +11,7 @@ Use PADSwap to swap tokens
 
 ## What is PADSwap?
 
-[PADSwap](https://dapps.padswap.exchange) is a decentralized exchange (or DEX, for short).
+[PADSwap](https://dapps.padswap.exchange) is a decentralized exchange (or DEX, for short). PADSwap is also multi-chain, currently on BSC, Moonriver and Moonbeam with more to come.
 
 {% hint style="info" %}
 Docs in progress
@@ -33,9 +33,9 @@ PADSwap is non-custodial, which means that—unlike centralized exchanges—PADS
 
 ### Permissionless
 
-Centralized exchanges restrict their services to certain geographies and to selected people e.g. only of certain age.&#x20;
+Centralized exchanges restrict their services to certain geographies and to selected people e.g. only of certain age.
 
-On PADSwap anyone can use our swap, provide liquidity or stake in our farms. TOAD.Networks products are open for public use without restrictions for anyone.&#x20;
+On PADSwap anyone can use our swap, provide liquidity or stake in our farms. TOAD.Networks products are open for public use without restrictions for anyone.
 
 ### Automated Market Maker (AMM)
 
@@ -62,3 +62,23 @@ Docs in progress
 | LP farms (stake LP, get more LP)         |                           No                           |                                  No                                  |                          Yes                         |
 | Own cross-chain bridge                   |                           No                           |                                  No                                  |                          Yes                         |
 | Own token launchpad                      |                           No                           |                                  No                                  |                          Yes                         |
+
+## Contracts
+
+{% tabs %}
+{% tab title="BSC (BEP-20)" %}
+* Router: [0x76437234D29f84D9A12820A137c6c6A719138C24](https://bscscan.com/address/0x76437234d29f84d9a12820a137c6c6a719138c24#code)
+* Factory: [0xB836017ACf10b8A7c6c6C9e99eFE0f5B0250FC45](https://bscscan.com/address/0xb836017acf10b8a7c6c6c9e99efe0f5b0250fc45)
+{% endtab %}
+
+{% tab title="MOVR" %}
+* Router: [0x790d4b443edB9ce9A8d1aEC585edd89E51132D2c](https://moonriver.moonscan.io/address/0x790d4b443edb9ce9a8d1aec585edd89e51132d2c)
+* Factory: [0x760d2Bdb232027aB3b1594405077F9a1b91C04c1](https://moonriver.moonscan.io/address/0x760d2bdb232027ab3b1594405077f9a1b91c04c1)
+{% endtab %}
+
+{% tab title="GLMR" %}
+{% hint style="info" %}
+Docs in progress
+{% endhint %}
+{% endtab %}
+{% endtabs %}

@@ -5,7 +5,7 @@ coverY: 0
 
 # ♾ DPLP Farms
 
-{% embed url="https://dapps.padswap.exchange/lpfarms" %}
+{% embed url="https://dapps.padswap.exchange/farms" %}
 Farm LP in our DPLP Farms on PADSwap
 {% endembed %}
 
@@ -18,6 +18,8 @@ This page focuses on the "incentive" aspect of DPLP, namely the DPLP farms. See 
 {% endhint %}
 
 ## Rewards and Distribution
+
+In DPLP farms you can earn LP tokens. This section describes, where these LP tokens come from and how they are distributed.
 
 ![Stake, unstake and reward distribution in DPLP farms](../../.gitbook/assets/dplp-farm.svg)
 

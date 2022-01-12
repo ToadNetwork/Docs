@@ -73,6 +73,8 @@ Of the daily drip, 90% are distributed to the [pad-farms.md](../products/farms/p
 See [the-vault.md](../concepts/the-vault.md "mention") for more details.
 {% endhint %}
 
+There is additional burn through the 1% staking, reinvesting and unstaking fees on the PAD solo farm, see [pad-farms.md](../products/farms/pad-farms.md "mention").
+
 ## Continuous Minter Formula / PAD drip
 
 Let $$p$$ be the drip pool supply, $$d$$ the drip per second with 86400 seconds per day and $$s$$ the duration in seconds, then the exponential decay of the drip pool is given by the function $$M$$:
