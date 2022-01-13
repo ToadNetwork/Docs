@@ -77,8 +77,7 @@ Docs in progress
 {% endtab %}
 
 {% tab title="GLMR" %}
-{% hint style="info" %}
-Docs in progress
-{% endhint %}
+* Router: [0x40F1fEF0Fe68Fd10ff904070ee00a7769EE7fe34](https://blockscout.moonbeam.network/address/0x40F1fEF0Fe68Fd10ff904070ee00a7769EE7fe34)
+* Factory: [0x663a07a2648296f1A3C02EE86A126fE1407888E5](https://blockscout.moonbeam.network/address/0x663a07a2648296f1A3C02EE86A126fE1407888E5)
 {% endtab %}
 {% endtabs %}

@@ -74,6 +74,8 @@ See [the-vault.md](../concepts/the-vault.md "mention") for more details.
 
 There is burn through the 1% staking, reinvesting and unstaking fees on the TOAD solo farm, see [pad-farms.md](../products/farms/pad-farms.md "mention").
 
+There is only one $TOAD on all chains i.e. all actions like burns and buyback pressure on one chain effects $TOAD on all chains.
+
 ## $TOAD in Perspective
 
 The TOAD.Network competes with other Dex and their line of products. Comparing the market cap of $TOAD to the market cap of the native tokens of other Dex can give you a perspective on the potential of the $TOAD price.

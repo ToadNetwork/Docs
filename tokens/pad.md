@@ -55,6 +55,8 @@ Launch Details:
 {% tab title="GLMR" %}
 * Launch Date: January 1, 2022
 * Presale price: 833K PAD per GLMR (6000 GLMR hardcap)
+* Pre-mint: (will be updated soon)
+* Liquidity (Permanently locked): 118k BUSD in pre-minted PAD donated by Snake and KingToad (preliminary information - will be updated soon)
 * Fair Launch: No Presale and no dev / team tokens at launch
 {% endtab %}
 {% endtabs %}

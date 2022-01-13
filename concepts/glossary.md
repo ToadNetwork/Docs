@@ -12,7 +12,7 @@ Docs in progress
 
 ## Annual Percentage Yield (APY)
 
-The rate of return earned on an investment, taking into account the effect of compounding interest. Compounding with respect to [farms](../products/farms/ "mention") means, that your rewards will increase when you reinvest your received rewards.&#x20;
+The rate of return earned on an investment, taking into account the effect of compounding interest. Compounding with respect to [farms](../products/farms/ "mention") means, that your rewards will increase when you reinvest your received rewards.
 
 {% hint style="info" %}
 You will only receive the shown APY if you always reinvest. The APY does not take transaction fees into account. You need to decide when to reinvest.
@@ -31,6 +31,14 @@ Guarantee, that an asset can be exchanged with a fixed amount of another asset(s
 {% hint style="info" %}
 See also [#pegging](glossary.md#pegging "mention"), which is a similar concept.
 {% endhint %}
+
+## Bridge
+
+Please read the linked page to understand what a bridge is:
+
+{% content-ref url="../products/toad-bridge.md" %}
+[toad-bridge.md](../products/toad-bridge.md)
+{% endcontent-ref %}
 
 ## Burn
 
@@ -61,6 +69,10 @@ Docs in progress
 Docs in progress
 {% endhint %}
 
+## DYOR
+
+Do your own research - a common term in crypto, prompting others to form their own view on a crypto project.
+
 ## Farming
 
 Please read the linked page to understand what farming is:
@@ -68,6 +80,12 @@ Please read the linked page to understand what farming is:
 {% content-ref url="../products/farms/" %}
 [farms](../products/farms/)
 {% endcontent-ref %}
+
+## Faucet <a href="#header-0" id="header-0"></a>
+
+{% hint style="info" %}
+Docs in progress
+{% endhint %}
 
 ## Index
 
@@ -84,6 +102,10 @@ Token with increasing circulating supply without max supply.
 {% hint style="info" %}
 Docs in progress
 {% endhint %}
+
+## KYC
+
+Know Your Customer - process of customer identity verification. This is a common process in finance and also in the crypto space to prevent illegal activities or to avoid liability for customer's activities.
 
 ## Liquidity Pool
 

@@ -26,7 +26,7 @@
   * [🐸 TOAD Farms (old)](products/farms/toad-farms-old.md)
 * [🚀 LaunchPAD (soon)](products/launchpad.md)
 * [🏷 Perpetual Auctions (soon)](products/auctions.md)
-* [🌉 TOAD Bridge](products/toad-bridge.md)
+* [🌉 Bridge](products/toad-bridge.md)
 * [🖼 TOAD NFT (soon)](products/toad-nft.md)
 
 ## Games
