@@ -81,7 +81,7 @@ Please read the linked page to understand what farming is:
 [farms](../products/farms/)
 {% endcontent-ref %}
 
-## Faucet <a href="#header-0" id="header-0"></a>
+## Faucet
 
 {% hint style="info" %}
 Docs in progress
