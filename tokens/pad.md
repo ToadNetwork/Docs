@@ -53,11 +53,11 @@ Launch Details:
 {% endtab %}
 
 {% tab title="GLMR" %}
-* Launch Date: January 1, 2022
-* Presale price: 833K PAD per GLMR (6000 GLMR hardcap)
-* Pre-mint: (will be updated soon)
+* Launch Date: January 11, 2022 07:12:42 PM (UTC)
+* Pre-mint: [20B](https://blockscout.moonbeam.network/tx/0x101207fe1e1f889f7b1212b786c25f60e4721143d41dc45597c46cdc2db5d5b7/token-transfers)
 * Liquidity (Permanently locked): 118k BUSD in pre-minted PAD donated by Snake and KingToad (preliminary information - will be updated soon)
 * Fair Launch: No Presale and no dev / team tokens at launch
+* Presale price: 833K PAD per GLMR (6000 GLMR hardcap)
 {% endtab %}
 {% endtabs %}
 
@@ -111,9 +111,13 @@ Deployment of the contract was on Nov 1, 2021 04:22:42 AM (UTC). To calculate th
 {% endtab %}
 
 {% tab title="GLMR" %}
-{% hint style="info" %}
-Docs in progress
-{% endhint %}
+PAD has a max supply of 200B tokens and there was an initial mint of 20B tokens, so $$p = 180\text{B}$$.
+
+PAD has a drip of 0.09%, so $$d = 0.0009$$.
+
+Deployment of the contract was on January 11, 2022 07:12:42 PM (UTC). To calculate the duration $$s$$ you need to calculate the duration from that time to your desired time in seconds. You can use [this calculator](https://www.calculator.net/time-duration-calculator.html?today=01%2F11%2F2022\&starthour2=07\&startmin2=12\&startsec2=42\&startunit2=p#twodates) to calculate the duration in seconds.
+
+![Circulating and reward supply of PAD on GLMR over time.](../.gitbook/assets/pad-supply-glmr.svg)
 {% endtab %}
 {% endtabs %}
 
