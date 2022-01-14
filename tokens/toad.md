@@ -21,7 +21,8 @@ Wrapped TOAD on Moonriver (There is only ever 1 TOAD):\
 [0x165dbb08de0476271714952c3c1f068693bd60d7](https://moonriver.moonscan.io/token/0x165dbb08de0476271714952c3c1f068693bd60d7)
 {% endtab %}
 
-{% tab title="GLMR (soon)" %}
+{% tab title="GLMR" %}
+Wrapped TOAD on Moonbeam (There is only ever 1 TOAD):\
 [0xF480f38C366dAaC4305dC484b2Ad7a496FF00CeA](https://blockscout.moonbeam.network/tokens/0xF480f38C366dAaC4305dC484b2Ad7a496FF00CeA)
 {% endtab %}
 {% endtabs %}
