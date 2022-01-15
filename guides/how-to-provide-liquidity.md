@@ -22,9 +22,9 @@ Video explaining how to add, view and remove liquidity.
 
 ## Step 1: Navigate to Liquidity Pools on PADSwap
 
-First you have to navigate to the liquidity pools on the PADSwap platform trough the following link:
+First you have to navigate to the liquidity pools on the PADSwap platform trough the following link ("liquidity" tab):
 
-{% embed url="https://padswap.exchange/#/pool" %}
+{% embed url="https://padswap.exchange/swap" %}
 Link to PADSwap Liquidity Pools
 {% endembed %}
 

@@ -18,7 +18,7 @@ Head to the [farms](https://dapps.padswap.exchange) on PADSwap and choose a farm
 
 First you have to navigate to the farms on the PADSwap platform trough the following link:
 
-{% embed url="https://dapps.padswap.exchange" %}
+{% embed url="https://dapps.padswap.exchange/farms" %}
 Farm PAD in our PAD Farms on PADSwap
 {% endembed %}
 
