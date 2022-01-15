@@ -75,13 +75,13 @@ An example for burning Pad with easy numbers. Say the circulating supply of PAD 
 * Vault: [0x6bEee53eFa847ec426707693c83836E359E92609](https://bscscan.com/address/0x6beee53efa847ec426707693c83836e359e92609)
 {% endtab %}
 
-{% tab title="MOVR" %}
+{% tab title="Moonriver" %}
 {% hint style="info" %}
 Docs in progress
 {% endhint %}
 {% endtab %}
 
-{% tab title="GLMR" %}
+{% tab title="Moonbeam" %}
 {% hint style="info" %}
 Docs in progress
 {% endhint %}

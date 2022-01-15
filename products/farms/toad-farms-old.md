@@ -6,7 +6,7 @@ coverY: 0
 # 🐸 TOAD Farms (old)
 
 {% hint style="danger" %}
-The TOAD farms are slowly phased out. Make sure to switch to our [dplp-farms.md](dplp-farms.md "mention").
+The TOAD farms are slowly phased out. Make sure to switch to our [dplp-farms.md](dplp-farms.md "mention"). There is no migration, you will have to unstake and restake.
 {% endhint %}
 
 {% hint style="info" %}

@@ -25,7 +25,7 @@ Why should you care? If a project's rewards are not stable, the shown APY can be
 
 What you should understand:
 
-* When more people stake in a farm, the rewards are split between more people and therefore decrease. Freshly released farms, therefore show very high APY. This will decrease very swiftly after the first people stake their tokens.&#x20;
+* When more people stake in a farm, the rewards are split between more people and therefore decrease. Freshly released farms, therefore show very high APY. This will decrease very swiftly after the first people stake their tokens.
 *   Research where rewards come from and how they are distributed. There are different ways how projects provide and distribute staking rewards. This is the core factor to estimate how the APY will change over time i.e. how stable the APY is. Usually there is some form of reward pool from which a percentage is continuously distributed to stakers. The questions you need to answer are:
 
     * Where do the funds in the reward pool come from?
@@ -33,7 +33,7 @@ What you should understand:
     * How much of the reward pool is distributed per day (drip)?
     * Is the drip changing over time?
 
-    Over time, a reward pool might dry up and rewards might reduce. This is the case for our [pad-farms.md](pad-farms.md "mention"), where the rewards pool will never fully dry up but the rewards will slowly decrease over the years (as of 2031 they will be so low, that you can consider it as dried-up).\
+    Over time, a reward pool might dry up and rewards might reduce. This is the case for our [pad-farms.md](pad-farms.md "mention"), where the rewards pool will never fully dry up but the rewards will slowly decrease over the years (after 10 years they will be so low, that you can consider it as dried-up).\
     This is not the case for our [dplp-farms.md](dplp-farms.md "mention"), which have a continuous inflow of new rewards due to staking and unstaking fees.
 * If the underlying assets depreciate (their value decreases), your APY on your investment will also decrease. While the amount of tokens you get as reward stays the same, the total reward you get is worth less, thereby reducing your return on investment. While this is a rather obvious fact about how markets work, you should be careful with any [#inflationary-token](../../concepts/glossary.md#inflationary-token "mention"). Inflationary tokens will continuously increase the supply which in turn reduces the value and therefore also the APY.
 * Fees like transaction fees can eat your rewards. For example, you earned $1 in rewards and want to reinvest to profit from compounding, you will need to pay the respective chain transaction fees. Given you are on BSC, this might cost you around $0.30. This effectively eats 30% of your $1 rewards and even more in lost future rewards. So it might be worth to wait until the fees only make up an acceptable share of your rewards. For example if you wait until you earned $10 before reinvesting, the BSC transaction fees will only make up 3%. But note, that you lose compounding rewards for not yet reinvested funds.

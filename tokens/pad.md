@@ -16,11 +16,11 @@ coverY: -28.333333333333357
 [0xc0888d80ee0abf84563168b3182650c0addeb6d5](https://bscscan.com/token/0xc0888d80ee0abf84563168b3182650c0addeb6d5)
 {% endtab %}
 
-{% tab title="MOVR" %}
+{% tab title="Moonriver" %}
 [0x45488c50184ce2092756ba7cdf85731fd17e6f3d](https://moonriver.moonscan.io/token/0x45488c50184ce2092756ba7cdf85731fd17e6f3d)
 {% endtab %}
 
-{% tab title="GLMR" %}
+{% tab title="Moonbeam" %}
 [0x59193512877E2EC3bB27C178A8888Cfac62FB32D](https://blockscout.moonbeam.network/address/0x59193512877E2EC3bB27C178A8888Cfac62FB32D)
 {% endtab %}
 {% endtabs %}
@@ -46,13 +46,13 @@ Launch Details:
 * Fair Launch: No Presale and no dev / team tokens at launch
 {% endtab %}
 
-{% tab title="MOVR" %}
+{% tab title="Moonriver" %}
 * Launch Date: Nov 1, 2021 04:22:42 AM (UTC)
 * Pre-mint: 20B
 * Fair Launch: No Presale and no dev / team tokens at launch
 {% endtab %}
 
-{% tab title="GLMR" %}
+{% tab title="Moonbeam" %}
 * Launch Date: January 11, 2022 07:12:42 PM (UTC)
 * Pre-mint: [20B](https://blockscout.moonbeam.network/tx/0x101207fe1e1f889f7b1212b786c25f60e4721143d41dc45597c46cdc2db5d5b7/token-transfers)
 * Liquidity (Permanently locked): 118k BUSD in pre-minted PAD donated by Snake and KingToad (preliminary information - will be updated soon)
@@ -100,7 +100,7 @@ Deployment of the contract was on May 8, 2021 03:58:26 AM (UTC). To calculate th
 ![Circulating and reward supply of PAD on BSC over time.](../.gitbook/assets/pad-supply-bsc.svg)
 {% endtab %}
 
-{% tab title="MOVR" %}
+{% tab title="Moonriver" %}
 PAD has a max supply of 200B tokens and there was an initial mint of 20B tokens, so $$p = 180\text{B}$$.
 
 PAD has a drip of 0.09%, so $$d = 0.0009$$.
@@ -110,7 +110,7 @@ Deployment of the contract was on Nov 1, 2021 04:22:42 AM (UTC). To calculate th
 ![Circulating and reward supply of PAD on MOVR over time.](../.gitbook/assets/pad-supply-movr.svg)
 {% endtab %}
 
-{% tab title="GLMR" %}
+{% tab title="Moonbeam" %}
 PAD has a max supply of 200B tokens and there was an initial mint of 20B tokens, so $$p = 180\text{B}$$.
 
 PAD has a drip of 0.09%, so $$d = 0.0009$$.

@@ -16,12 +16,12 @@ coverY: 0
 [0x463e737d8f740395abf44f7aac2d9531d8d539e9](https://bscscan.com/token/0x463e737d8f740395abf44f7aac2d9531d8d539e9)
 {% endtab %}
 
-{% tab title="MOVR" %}
+{% tab title="Moonriver" %}
 Wrapped TOAD on Moonriver (There is only ever 1 TOAD):\
 [0x165dbb08de0476271714952c3c1f068693bd60d7](https://moonriver.moonscan.io/token/0x165dbb08de0476271714952c3c1f068693bd60d7)
 {% endtab %}
 
-{% tab title="GLMR" %}
+{% tab title="Moonbeam" %}
 Wrapped TOAD on Moonbeam (There is only ever 1 TOAD):\
 [0xF480f38C366dAaC4305dC484b2Ad7a496FF00CeA](https://blockscout.moonbeam.network/tokens/0xF480f38C366dAaC4305dC484b2Ad7a496FF00CeA)
 {% endtab %}
@@ -37,10 +37,10 @@ TOAD is a governance token, aiming to empower the TOAD.Network community to part
 
 ## Tokenomics
 
-| Max Supply                                 | 200k                                                                                                                        |
-| ------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------- |
-| Burn                                       | 5k burned a launch; 1% burn of TOAD-BNB LP tokens on the [toad-farms-old.md](../products/farms/toad-farms-old.md "mention") |
-| Fees / Tax (on sell, buy and transactions) | 0%                                                                                                                          |
+| Max Supply                                 | 200k                                                                                                                         |
+| ------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------- |
+| Burn                                       | 5k burned at launch; 1% burn of TOAD-BNB LP tokens on the [toad-farms-old.md](../products/farms/toad-farms-old.md "mention") |
+| Fees / Tax (on sell, buy and transactions) | 0%                                                                                                                           |
 
 Launch Details:
 
@@ -52,14 +52,12 @@ Launch Details:
 * Fair Launch: No Presale and no dev / team tokens at launch
 {% endtab %}
 
-{% tab title="MOVR" %}
+{% tab title="Moonriver" %}
 * Fair Launch: No Presale and no dev / team tokens at launch
 {% endtab %}
 
-{% tab title="GLMR (soon)" %}
-{% hint style="info" %}
-Docs in progress
-{% endhint %}
+{% tab title="Moonbeam" %}
+* Fair Launch: No Presale and no dev / team tokens at launch
 {% endtab %}
 {% endtabs %}
 
@@ -73,7 +71,11 @@ See [the-vault.md](../concepts/the-vault.md "mention") for more details.
 
 There is burn through the 1% staking, reinvesting and unstaking fees on the TOAD solo farm, see [pad-farms.md](../products/farms/pad-farms.md "mention").
 
-There is only one $TOAD on all chains i.e. all actions like burns and buyback pressure on one chain effects $TOAD on all chains.
+$TOAD is bridged to all chains and therefore, all actions like burns and buyback pressure on one chain effect $TOAD on all chains.&#x20;
+
+{% hint style="info" %}
+See [toad-bridge.md](../products/toad-bridge.md "mention") for more details.
+{% endhint %}
 
 ## $TOAD in Perspective
 

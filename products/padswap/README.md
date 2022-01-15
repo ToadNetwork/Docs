@@ -71,12 +71,12 @@ Docs in progress
 * Factory: [0xB836017ACf10b8A7c6c6C9e99eFE0f5B0250FC45](https://bscscan.com/address/0xb836017acf10b8a7c6c6c9e99efe0f5b0250fc45)
 {% endtab %}
 
-{% tab title="MOVR" %}
+{% tab title="Moonriver" %}
 * Router: [0x790d4b443edB9ce9A8d1aEC585edd89E51132D2c](https://moonriver.moonscan.io/address/0x790d4b443edb9ce9a8d1aec585edd89e51132d2c)
 * Factory: [0x760d2Bdb232027aB3b1594405077F9a1b91C04c1](https://moonriver.moonscan.io/address/0x760d2bdb232027ab3b1594405077f9a1b91c04c1)
 {% endtab %}
 
-{% tab title="GLMR" %}
+{% tab title="Moonbeam" %}
 * Router: [0x40F1fEF0Fe68Fd10ff904070ee00a7769EE7fe34](https://blockscout.moonbeam.network/address/0x40F1fEF0Fe68Fd10ff904070ee00a7769EE7fe34)
 * Factory: [0x663a07a2648296f1A3C02EE86A126fE1407888E5](https://blockscout.moonbeam.network/address/0x663a07a2648296f1A3C02EE86A126fE1407888E5)
 {% endtab %}
