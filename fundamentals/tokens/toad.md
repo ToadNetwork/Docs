@@ -1,5 +1,5 @@
 ---
-cover: ../.gitbook/assets/photo_2021-08-08_03-23-18.jpg
+cover: ../../.gitbook/assets/photo_2021-08-08_03-23-18.jpg
 coverY: 0
 ---
 
@@ -7,7 +7,7 @@ coverY: 0
 
 | Name          | Toad Network                                 |
 | ------------- | -------------------------------------------- |
-| Symbol/Ticker | ![](../.gitbook/assets/TOAD.symbol.svg) TOAD |
+| Symbol/Ticker | ![](../../.gitbook/assets/TOAD.symbol.svg) TOAD |
 
 ## Contracts
 
@@ -39,7 +39,7 @@ TOAD is a governance token, aiming to empower the TOAD.Network community to part
 
 | Max Supply                                 | 200k                                                                                                                         |
 | ------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------- |
-| Burn                                       | 5k burned at launch; 1% burn of TOAD-BNB LP tokens on the [toad-farms-old.md](../products/farms/toad-farms-old.md "mention") |
+| Burn                                       | 5k burned at launch; 1% burn of TOAD-BNB LP tokens on the [toad-farms-old.md](../../products/farms/toad-farms-old.md "mention") |
 | Fees / Tax (on sell, buy and transactions) | 0%                                                                                                                           |
 
 Launch Details:
@@ -66,15 +66,15 @@ TOAD is a standard token with mint and burn functions. All TOAD was minted at la
 The Vault takes 30% off all the fees it receives and buys TOAD with it. This adds significant buyback pressure, meaning, that the Vault generates demand for TOAD and thereby increasing the price. Since the Vault stores the bought TOAD, it basically removes them from circulation, which in turn decreases the supply.
 
 {% hint style="info" %}
-See [the-vault.md](../concepts/the-vault.md "mention") for more details.
+See [the-vault.md](../the-vault.md "mention") for more details.
 {% endhint %}
 
-There is burn through the 1% staking, reinvesting and unstaking fees on the TOAD solo farm, see [pad-farms.md](../products/farms/pad-farms.md "mention").
+There is burn through the 1% staking, reinvesting and unstaking fees on the TOAD solo farm, see [pad-farms.md](../../products/farms/pad-farms.md "mention").
 
 $TOAD is bridged to all chains and therefore, all actions like burns and buyback pressure on one chain effect $TOAD on all chains.&#x20;
 
 {% hint style="info" %}
-See [toad-bridge.md](../products/toad-bridge.md "mention") for more details.
+See [toad-bridge.md](../../products/toad-bridge.md "mention") for more details.
 {% endhint %}
 
 ## $TOAD in Perspective

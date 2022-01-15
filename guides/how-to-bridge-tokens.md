@@ -46,7 +46,7 @@ In this example we will bridge tokens from the Binance Smart Chain (BSC) to Moon
 
 ## Step 4: Select Token to Bridge
 
-You can now select a token you want to bridge from the BSC to Moonbeam. In this example we will choose [toad.md](../tokens/toad.md "mention").
+You can now select a token you want to bridge from the BSC to Moonbeam. In this example we will choose [toad.md](../fundamentals/tokens/toad.md "mention").
 
 ![Select token to bridge](../.gitbook/assets/select-token-to-bridge.png)
 

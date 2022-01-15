@@ -7,7 +7,7 @@ coverY: 0
 
 ## What is Yield Farming?
 
-Yield farming in the cryptoverse refers to the performance of a particular action for a platform or entity that justifies paying out an [#annual-percentage-yield-apy](../../concepts/glossary.md#annual-percentage-yield-apy "mention"). Often, this effort entails adding liquidity to a network, and then staking liquidity provider (LP) tokens, or adding liquidity to a market for borrowing and lending. Projects incentivize this behavior when it enables them to function more efficiently.
+Yield farming in the cryptoverse refers to the performance of a particular action for a platform or entity that justifies paying out an [#annual-percentage-yield-apy](../../fundamentals/glossary.md#annual-percentage-yield-apy "mention"). Often, this effort entails adding liquidity to a network, and then staking liquidity provider (LP) tokens, or adding liquidity to a market for borrowing and lending. Projects incentivize this behavior when it enables them to function more efficiently.
 
 ## Where can you earn yield?
 
@@ -35,7 +35,7 @@ What you should understand:
 
     Over time, a reward pool might dry up and rewards might reduce. This is the case for our [pad-farms.md](pad-farms.md "mention"), where the rewards pool will never fully dry up but the rewards will slowly decrease over the years (after 10 years they will be so low, that you can consider it as dried-up).\
     This is not the case for our [dplp-farms.md](dplp-farms.md "mention"), which have a continuous inflow of new rewards due to staking and unstaking fees.
-* If the underlying assets depreciate (their value decreases), your APY on your investment will also decrease. While the amount of tokens you get as reward stays the same, the total reward you get is worth less, thereby reducing your return on investment. While this is a rather obvious fact about how markets work, you should be careful with any [#inflationary-token](../../concepts/glossary.md#inflationary-token "mention"). Inflationary tokens will continuously increase the supply which in turn reduces the value and therefore also the APY.
+* If the underlying assets depreciate (their value decreases), your APY on your investment will also decrease. While the amount of tokens you get as reward stays the same, the total reward you get is worth less, thereby reducing your return on investment. While this is a rather obvious fact about how markets work, you should be careful with any [#inflationary-token](../../fundamentals/glossary.md#inflationary-token "mention"). Inflationary tokens will continuously increase the supply which in turn reduces the value and therefore also the APY.
 * Fees like transaction fees can eat your rewards. For example, you earned $1 in rewards and want to reinvest to profit from compounding, you will need to pay the respective chain transaction fees. Given you are on BSC, this might cost you around $0.30. This effectively eats 30% of your $1 rewards and even more in lost future rewards. So it might be worth to wait until the fees only make up an acceptable share of your rewards. For example if you wait until you earned $10 before reinvesting, the BSC transaction fees will only make up 3%. But note, that you lose compounding rewards for not yet reinvested funds.
 
 {% hint style="success" %}
@@ -44,4 +44,4 @@ Yield farming calculator has been created and can be found in the [Toolbox](http
 
 ## No Vesting, Less Risk
 
-Locking LP tokens for fixed periods is a common way to secure liquidity. See also [#vesting](../../concepts/glossary.md#vesting "mention"). For liquidity providers staking their LP tokens, locking is a significant risk. There are many reasons why you might want to withdraw your funds e.g. market conditions or personal needs. Locking your tokens for a fixed period takes this ability from you. All farms on the TOAD.Network do not have any vesting. You are in full control and are free to withdraw your funds when ever you like.
+Locking LP tokens for fixed periods is a common way to secure liquidity. See also [#vesting](../../fundamentals/glossary.md#vesting "mention"). For liquidity providers staking their LP tokens, locking is a significant risk. There are many reasons why you might want to withdraw your funds e.g. market conditions or personal needs. Locking your tokens for a fixed period takes this ability from you. All farms on the TOAD.Network do not have any vesting. You are in full control and are free to withdraw your funds when ever you like.

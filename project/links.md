@@ -56,11 +56,11 @@ coverY: 0
 
 ### $TOAD Contracts
 
-You can find all $TOAD contract addresses in the [#contracts](../tokens/toad.md#contracts "mention") section of our [toad.md](../tokens/toad.md "mention") documentation.
+You can find all $TOAD contract addresses in the [#contracts](../fundamentals/tokens/toad.md#contracts "mention") section of our [toad.md](../fundamentals/tokens/toad.md "mention") documentation.
 
 ### $PAD Contracts
 
-You can find all $PAD contract addresses in the [#contracts](../tokens/pad.md#contracts "mention") section of our [pad.md](../tokens/pad.md "mention") documentation.
+You can find all $PAD contract addresses in the [#contracts](../fundamentals/tokens/pad.md#contracts "mention") section of our [pad.md](../fundamentals/tokens/pad.md "mention") documentation.
 
 ### PADSwap Router and Factory Contracts
 
@@ -68,7 +68,7 @@ You can find all PADSwap router and factory contract addresses in the [#contract
 
 ### The Vault Contracts
 
-You can find all the Vault contract addresses in the [#contracts](../concepts/the-vault.md#contracts "mention") section of our [the-vault.md](../concepts/the-vault.md "mention") documentation.
+You can find all the Vault contract addresses in the [#contracts](../fundamentals/the-vault.md#contracts "mention") section of our [the-vault.md](../fundamentals/the-vault.md "mention") documentation.
 
 ### Overview
 

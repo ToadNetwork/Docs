@@ -14,7 +14,7 @@ Farm LP in our DPLP Farms on PADSwap
 TOAD.Network invented the Decentralized Perpetual Liquidity Protocol (DPLP) as a mechanism which ensures that there is always an incentive for users to provide liquidity. This user provided liquidity is a big benefit for projects using DPLP; like TOAD, PAD and other projects launched on the [launchpad.md](../launchpad.md "mention").
 
 {% hint style="info" %}
-This page focuses on the "incentive" aspect of DPLP, namely the DPLP farms. See [dplp.md](../../concepts/dplp.md "mention") for more details on the underlying concept.
+This page focuses on the "incentive" aspect of DPLP, namely the DPLP farms. See [dplp.md](../../fundamentals/dplp.md "mention") for more details on the underlying concept.
 {% endhint %}
 
 ## Rewards and Distribution
@@ -48,6 +48,6 @@ Rewards are not actively distributed and instead stay in the pool until they are
 
 ## Fees
 
-When you stake, reinvest or unstake your LP tokens in a DPLP farm, you pay a 10% fee. From that 10%, 7.5% of the LP tokens are returned to the reward pool and 2.5% of the LP tokens are sent to [the-vault.md](../../concepts/the-vault.md "mention") as backing for [pad.md](../../tokens/pad.md "mention"). Harvesting your LP tokens does not incur a fee (except transaction fees).
+When you stake, reinvest or unstake your LP tokens in a DPLP farm, you pay a 10% fee. From that 10%, 7.5% of the LP tokens are returned to the reward pool and 2.5% of the LP tokens are sent to [the-vault.md](../../fundamentals/the-vault.md "mention") as backing for [pad.md](../../fundamentals/tokens/pad.md "mention"). Harvesting your LP tokens does not incur a fee (except transaction fees).
 
 The 'unstake' fee functions as a form of soft locking. It incentivizes you to keep your LP tokens staked for longer periods of time and therefore locking liquidity. But you are always free to withdraw your funds. See also our notes on [#no-vesting-less-risk](./#no-vesting-less-risk "mention").
