@@ -25,9 +25,9 @@
   * [♾ DPLP Farms](products/farms/dplp-farms.md)
   * [🤝 Partner Farms](products/farms/partner-farms.md)
   * [🐸 TOAD Farms (old)](products/farms/toad-farms-old.md)
+* [🌉 Bridge](products/toad-bridge.md)
 * [🚀 LaunchPAD (soon)](products/launchpad.md)
 * [🏷 Perpetual Auctions (soon)](products/auctions.md)
-* [🌉 Bridge](products/toad-bridge.md)
 * [🖼 TOAD NFT (soon)](products/toad-nft.md)
 
 ## Games

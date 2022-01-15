@@ -28,7 +28,22 @@ Want to launch your project within the TOAD.Network or for any other business pr
 
 To interact with our products, please explore the links below:
 
-* [PADSwap Exchange on BSC](https://dapps.padswap.exchange)
-* [PADSwap Exchange on MOVR](https://movr.padswap.exchange)
-* [TOAD Academy](https://toad.academy)
-* [TOAD.Network](https://toad.network)
+{% content-ref url="products/padswap/" %}
+[padswap](products/padswap/)
+{% endcontent-ref %}
+
+{% content-ref url="products/farms/" %}
+[farms](products/farms/)
+{% endcontent-ref %}
+
+{% content-ref url="products/toad-bridge.md" %}
+[toad-bridge.md](products/toad-bridge.md)
+{% endcontent-ref %}
+
+{% content-ref url="products/launchpad.md" %}
+[launchpad.md](products/launchpad.md)
+{% endcontent-ref %}
+
+{% content-ref url="products/auctions.md" %}
+[auctions.md](products/auctions.md)
+{% endcontent-ref %}
