@@ -52,10 +52,14 @@ Launch Details:
 {% endtab %}
 
 {% tab title="Moonriver" %}
+* Launch Date: (updated soon)
+* Liquidity (Permanently locked): (updated soon)
 * Fair Launch: No Presale and no dev / team tokens at launch
 {% endtab %}
 
 {% tab title="Moonbeam" %}
+* Launch Date: Friday, 14th of January 2022
+* Liquidity (Permanently locked): (updated soon)
 * Fair Launch: No Presale and no dev / team tokens at launch
 {% endtab %}
 {% endtabs %}
