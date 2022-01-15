@@ -36,11 +36,11 @@ This works through the following two mechanisms:
 
 The interplay between 1. and 2. is a perpetual motion, always ensuring high APY.
 
-Getting this perpetual motion going requires some initial reward pool funds. These are usually donated by the project owners (e.g. projects launched on [launchpad.md](../launchpad.md "mention")). For TOAD and PAD DPLP farms, Snake and KT donated around $200k to the initial reward pool funds. By a drip of 1% per day, the donated rewards are mostly depleted after 1 year (3% left).
+Getting this perpetual motion going requires some initial reward pool funds. These are usually donated by the project owners (e.g. projects launched on [launchpad.md](../launchpad.md "mention")). For TOAD and PAD DPLP farms, Snake and KT donated around $200k to the initial reward pool funds. By a drip of 1% per day, the donated rewards are mostly depleted after 1 year (less than 3% left).
 
 ### How are rewards distributed?
 
-The DPLP farm distributes 1% of the reward pool per day to all stakers relative to their pool share. The 1% per day is distributed in one second intervals.
+The DPLP farm distributes 1% of the reward pool per day to all stakers relative to their pool share. The 1% per day is distributed in one second intervals. The default distribution percentage is 1%, which is currently used by all DPLP farms.
 
 {% hint style="info" %}
 Rewards are not actively distributed and instead stay in the pool until they are claimed. The UI just calculates and shows your claimable rewards.
