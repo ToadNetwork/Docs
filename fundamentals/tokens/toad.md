@@ -5,8 +5,8 @@ coverY: 0
 
 # 🐸 $TOAD
 
-| Name          | Toad Network                                 |
-| ------------- | -------------------------------------------- |
+| Name          | Toad Network                                    |
+| ------------- | ----------------------------------------------- |
 | Symbol/Ticker | ![](../../.gitbook/assets/TOAD.symbol.svg) TOAD |
 
 ## Contracts
@@ -37,17 +37,16 @@ TOAD is a governance token, aiming to empower the TOAD.Network community to part
 
 ## Tokenomics
 
-| Max Supply                                 | 200k                                                                                                                         |
-| ------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------- |
+| Max Supply                                 | 200k                                                                                                                            |
+| ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------- |
 | Burn                                       | 5k burned at launch; 1% burn of TOAD-BNB LP tokens on the [toad-farms-old.md](../../products/farms/toad-farms-old.md "mention") |
-| Fees / Tax (on sell, buy and transactions) | 0%                                                                                                                           |
+| Fees / Tax (on sell, buy and transactions) | 0%                                                                                                                              |
 
 Launch Details:
 
 {% tabs %}
 {% tab title="BSC (BEP-20)" %}
 * Launch Date: Friday, 26th of February 2021
-* Burn on Launch: 5k
 * Liquidity (Permanently locked): 200k BUSD donated by Snake and KingToad
 * Fair Launch: No Presale and no dev / team tokens at launch
 {% endtab %}
@@ -71,7 +70,7 @@ See [the-vault.md](../the-vault.md "mention") for more details.
 
 There is burn through the 1% staking, reinvesting and unstaking fees on the TOAD solo farm, see [pad-farms.md](../../products/farms/pad-farms.md "mention").
 
-$TOAD is bridged to all chains and therefore, all actions like burns and buyback pressure on one chain effect $TOAD on all chains.&#x20;
+$TOAD is bridged to all chains and therefore, all actions like burns and buyback pressure on one chain effect $TOAD on all chains.
 
 {% hint style="info" %}
 See [toad-bridge.md](../../products/toad-bridge.md "mention") for more details.

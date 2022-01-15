@@ -26,21 +26,21 @@
   * [🤝 Partner Farms](products/farms/partner-farms.md)
   * [🐸 TOAD Farms (old)](products/farms/toad-farms-old.md)
 * [🌉 Bridge](products/toad-bridge.md)
-* [Fiat On-ramp](products/fiat-on-ramp.md)
+* [💰 Fiat On-ramp](products/fiat-on-ramp.md)
 * [🚀 LaunchPAD (soon)](products/launchpad.md)
 * [🏷 Perpetual Auctions (soon)](products/auctions.md)
 * [🖼 TOAD NFT (soon)](products/toad-nft.md)
 
 ## Games
 
-* [🕹 TOAD Academy](games/toad-academy.md)
+* [🎮 TOAD Academy](games/toad-academy.md)
 * [🃏 TOADED (soon)](games/toaded.md)
 
 ## Fundamentals
 
 * [♾ DPLP](fundamentals/dplp.md)
 * [🔏 The Vault](fundamentals/the-vault.md)
-* [Tokens](fundamentals/tokens/README.md)
+* [🪙 Tokens](fundamentals/tokens/README.md)
   * [🐸 $TOAD](fundamentals/tokens/toad.md)
   * [🌺 $PAD](fundamentals/tokens/pad.md)
 * [📚 Glossary](fundamentals/glossary.md)
