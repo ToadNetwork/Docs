@@ -30,7 +30,7 @@ You can find all Partner farm contract addresses in the [#contracts](../products
 
 ## TOAD Farm Contracts
 
-You can find all TOAD farm contract addresses in the [#contracts](../products/farms/toad-farms.md#contracts "mention") section of our [toad-farms.md](../products/farms/toad-farms.md "mention") documentation.
+You can find all TOAD farm contract addresses in the [#contracts](../products/farms/toad-farms-old.md#contracts "mention") section of our [toad-farms-old.md](../products/farms/toad-farms-old.md "mention") documentation.
 
 ## Other
 
