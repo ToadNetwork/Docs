@@ -15,7 +15,7 @@ In Partner farms you can earn tokens of partner projects. This section describes
 
 ### Where do rewards come from?
 
-Why should I care, you may ask. High APY is better, right? Not necessarily! See our notes on [#high-vs.-stable-apy](./#high-vs.-stable-apy "mention").&#x20;
+Why should I care, you may ask. High APY is better, right? Not necessarily! See our notes on [#high-vs.-stable-apy](./#high-vs.-stable-apy "mention").
 
 {% hint style="info" %}
 Docs in progress
@@ -36,3 +36,19 @@ Rewards are not actively distributed and instead stay in the pool until they are
 {% hint style="info" %}
 Docs in progress
 {% endhint %}
+
+## Contracts
+
+{% tabs %}
+{% tab title="BSC (BEP-20)" %}
+*
+{% endtab %}
+
+{% tab title="Moonriver" %}
+*
+{% endtab %}
+
+{% tab title="Moonbeam" %}
+*
+{% endtab %}
+{% endtabs %}

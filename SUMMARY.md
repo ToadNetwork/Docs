@@ -45,3 +45,9 @@
   * [🐸 $TOAD](fundamentals/tokens/toad.md)
   * [🌺 $PAD](fundamentals/tokens/pad.md)
 * [📚 Glossary](fundamentals/glossary.md)
+
+## Technical Reference <a href="#reference" id="reference"></a>
+
+* [Smart Contracts Overview](reference/smart-contracts-overview.md)
+* [APIs](reference/apis.md)
+* [Logos](reference/logos.md)
