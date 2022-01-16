@@ -16,8 +16,25 @@ You can find all $TOAD contract addresses in the [#contracts](../fundamentals/to
 
 You can find all $PAD contract addresses in the [#contracts](../fundamentals/tokens/pad.md#contracts "mention") section of our [pad.md](../fundamentals/tokens/pad.md "mention") documentation.
 
-## Overview
+## PAD Farm Contracts
 
-We provide a running sheet of all contract addresses: [https://docs.google.com/spreadsheets/d/1aeEfSx7hW7bb1gR7lYD5ZvUSsPkXckHe-7oo7mnsgnQ/](https://docs.google.com/spreadsheets/d/1aeEfSx7hW7bb1gR7lYD5ZvUSsPkXckHe-7oo7mnsgnQ/edit#gid=0)
+You can find all PAD farm contract addresses in the [#contracts](../products/farms/pad-farms.md#contracts "mention") section of our [pad-farms.md](../products/farms/pad-farms.md "mention") documentation.
 
-{% embed url="https://docs.google.com/spreadsheets/d/1aeEfSx7hW7bb1gR7lYD5ZvUSsPkXckHe-7oo7mnsgnQ" %}
+## DPLP Farm Contracts
+
+You can find all DPLP farm contract addresses in the [#contracts](../products/farms/dplp-farms.md#contracts "mention") section of our [dplp-farms.md](../products/farms/dplp-farms.md "mention") documentation.
+
+## Partner Farm Contracts
+
+You can find all Partner farm contract addresses in the [#contracts](../products/farms/partner-farms.md#contracts "mention") section of our [partner-farms.md](../products/farms/partner-farms.md "mention") documentation.
+
+## TOAD Farm Contracts
+
+You can find all TOAD farm contract addresses in the [#contracts](../products/farms/toad-farms.md#contracts "mention") section of our [toad-farms.md](../products/farms/toad-farms.md "mention") documentation.
+
+## Other
+
+LP token pairs:
+
+* USDC-BNB: [0xce71f919daae7a2d0708f84c657af46f57cbde2b](https://info.padswap.exchange/pair/0xce71f919daae7a2d0708f84c657af46f57cbde2b)
+* USDC-BUSD: [0x88348dffc9797b7be0a88c5e7775ca9aa29ba6eb](https://info.padswap.exchange/pair/0x88348dffc9797b7be0a88c5e7775ca9aa29ba6eb)

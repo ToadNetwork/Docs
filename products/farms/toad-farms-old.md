@@ -41,14 +41,20 @@ The 'unstake' fee functions as a form of soft locking. It incentivizes you to ke
 
 {% tabs %}
 {% tab title="BSC (BEP-20)" %}
-*
+{% hint style="info" %}
+Docs in progress
+{% endhint %}
 {% endtab %}
 
 {% tab title="Moonriver" %}
-*
+{% hint style="info" %}
+Docs in progress
+{% endhint %}
 {% endtab %}
 
 {% tab title="Moonbeam" %}
-*
+{% hint style="info" %}
+Docs in progress
+{% endhint %}
 {% endtab %}
 {% endtabs %}
