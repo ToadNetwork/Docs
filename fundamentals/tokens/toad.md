@@ -77,7 +77,7 @@ There is burn through the 1% staking, reinvesting and unstaking fees on the TOAD
 $TOAD is bridged to all chains and therefore, all actions like burns and buyback pressure on one chain effect $TOAD on all chains.
 
 {% hint style="info" %}
-See [toad-bridge.md](../../products/toad-bridge.md "mention") for more details.
+See [toad-bridge](../../products/toad-bridge/ "mention") for more details.
 {% endhint %}
 
 ## $TOAD in Perspective

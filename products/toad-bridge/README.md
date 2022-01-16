@@ -1,5 +1,5 @@
 ---
-cover: ../.gitbook/assets/MoonRiver_BSC_Bridge_NEW.png
+cover: ../../.gitbook/assets/MoonRiver_BSC_Bridge_NEW.png
 coverY: 0
 ---
 
@@ -15,8 +15,8 @@ PADSwap operates on multiple chains like BSC, Moonriver and Moonbeam. The bridge
 
 The following guide walks you through the process of bridging a token from one chain to another:
 
-{% content-ref url="../guides/how-to-bridge-tokens.md" %}
-[how-to-bridge-tokens.md](../guides/how-to-bridge-tokens.md)
+{% content-ref url="../../guides/how-to-bridge-tokens.md" %}
+[how-to-bridge-tokens.md](../../guides/how-to-bridge-tokens.md)
 {% endcontent-ref %}
 
 ## Bridged Tokens

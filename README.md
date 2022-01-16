@@ -36,8 +36,8 @@ To interact with our products, please explore the links below:
 [farms](products/farms/)
 {% endcontent-ref %}
 
-{% content-ref url="products/toad-bridge.md" %}
-[toad-bridge.md](products/toad-bridge.md)
+{% content-ref url="products/toad-bridge/" %}
+[toad-bridge](products/toad-bridge/)
 {% endcontent-ref %}
 
 {% content-ref url="products/launchpad.md" %}

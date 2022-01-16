@@ -36,8 +36,8 @@ See also [#pegging](glossary.md#pegging "mention"), which is a similar concept.
 
 Please read the linked page to understand what a bridge is:
 
-{% content-ref url="../products/toad-bridge.md" %}
-[toad-bridge.md](../products/toad-bridge.md)
+{% content-ref url="../products/toad-bridge/" %}
+[toad-bridge](../products/toad-bridge/)
 {% endcontent-ref %}
 
 ## Burn
