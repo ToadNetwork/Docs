@@ -14,25 +14,16 @@ Beta coming soon! TM
 
 LaunchPAD beta will allow anyone to launch their own project without any coding experience. Any project created on LaunchPAD beta will start with:
 
-AUDITED Presale Contract
-
-AUDITED BEP20 | MOVR Token | GLMR Token
-
-AUDITED Farms (TOKEN-BNB|MOVR|GLMR, TOKEN-BUSD|USDC, TOKEN-PAD)
-
-AUDITED DPLP FARMS (DECENTRALIZED PERPETUAL LIQUIDITY PROTOCOL)
-
-Partner Farms available for whitelisted Projects
-
-RUG-PROOF Project Batch\
-\
-Auction Contract\
-\
-Full set of free BOGtools, Chart, Limit Orders, Telegram Bot
-
-Discounted Moonlight Bubble Maps List
-
-Free Unifaucet List for reflections.
+* AUDITED Presale Contract
+* AUDITED BEP20 | MOVR Token | GLMR Token
+* AUDITED Farms (TOKEN-BNB|MOVR|GLMR, TOKEN-BUSD|USDC, TOKEN-PAD)
+* AUDITED DPLP FARMS (DECENTRALIZED PERPETUAL LIQUIDITY PROTOCOL)
+* Partner Farms available for whitelisted Projects
+* RUG-PROOF Project Batch
+* Auction Contract
+* Full set of free BOGtools, Chart, Limit Orders, Telegram Bot
+* Discounted Moonlight Bubble Maps List
+* Free Unifaucet List for reflections.
 
 LaunchPAD beta will receive a percentage of every presale and a small fee for creating the project, those fees are going to be converted to TOAD/BNB | TOAD/MOVR | TOAD/GLMR and donated to DPLP.
 

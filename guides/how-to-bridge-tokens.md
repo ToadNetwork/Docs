@@ -77,5 +77,5 @@ Congrats! You have now bridged your tokens onto another chain. On this chain you
 {% endhint %}
 
 {% hint style="info" %}
-If you bridged to a chain you were not on before, you are most likely missing the chain native token to pay gas fees for transactions. You can ask in our community on [telegram](https://t.me/toadnetwork), if anyone can lend you a small amount to cover for gas fees.
+If you bridged to a chain you were not on before, you are most likely missing the chain native token to pay gas fees for transactions. You can checkout our [faucet.md](../products/toad-bridge/faucet.md "mention") to get a small amount of tokens to pay for your first transaction.
 {% endhint %}

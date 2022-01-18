@@ -42,28 +42,6 @@ TOAD is a governance token, aiming to empower the TOAD.Network community to part
 | Burn                                       | 5k burned at launch; 1% burn of TOAD-BNB LP tokens on the [toad-farms-old.md](../../products/farms/toad-farms-old.md "mention") |
 | Fees / Tax (on sell, buy and transactions) | 0%                                                                                                                              |
 
-Launch Details:
-
-{% tabs %}
-{% tab title="BSC (BEP-20)" %}
-* Launch Date: Friday, 26th of February 2021
-* Liquidity (Permanently locked): 200k BUSD donated by Snake and KingToad
-* Fair Launch: No Presale and no dev / team tokens at launch
-{% endtab %}
-
-{% tab title="Moonriver" %}
-* Launch Date: (updated soon)
-* Liquidity (Permanently locked): (updated soon)
-* Fair Launch: No Presale and no dev / team tokens at launch
-{% endtab %}
-
-{% tab title="Moonbeam" %}
-* Launch Date: Friday, 14th of January 2022
-* Liquidity (Permanently locked): (updated soon)
-* Fair Launch: No Presale and no dev / team tokens at launch
-{% endtab %}
-{% endtabs %}
-
 TOAD is a standard token with mint and burn functions. All TOAD was minted at launch and there is no possibility to mint more TOAD.
 
 The Vault takes 30% off all the fees it receives and buys TOAD with it. This adds significant buyback pressure, meaning, that the Vault generates demand for TOAD and thereby increasing the price. Since the Vault stores the bought TOAD, it basically removes them from circulation, which in turn decreases the supply.
@@ -98,3 +76,39 @@ The TOAD.Network competes with other Dex and their line of products. Comparing t
 | QuickSwap      |                      $741 |                      x104 |
 
 _The calculation is based on data from 02.01.2022. The underlying market cap data of the Dex tokens was taken from_ [_coinmarketcap.com_](https://coinmarketcap.com)_. The $TOAD market cap was $1,043,346 based on a price of $7.14 and a circulating supply of 146.2k._
+
+## Launch Details
+
+{% tabs %}
+{% tab title="BSC (BEP-20)" %}
+* **Launch Date:** Friday, 26th of February 2021
+* **Fair Launch:** No dev / team tokens at launch
+* **Pre-sale:**
+  * Amount: 70K TOAD
+  * Softcap: 150 BNB (\~$33.3k) - reached in less than 10 minutes
+  * Hardcap: 350 BNB (\~$77.7k)
+  * Price: 0.005 BNB (\~$1.11) per TOAD (listing price on pancake swap: 0.0058 BNB)
+  * Min/Max cap per person : No Min / Max 10 BNB (\~$2k)
+* **Liquidity:** The \~$77.7k pre-sale gain and \~$20k out of pocket were donated by Snake and KT to the reward pools of the [toad-farms-old.md](../../products/farms/toad-farms-old.md "mention"). Around $25k each to the TOAD-BUSD, TOAD-BNB and TOAD-BNB DPLP farms and around $20k to the TOAD solo farm.
+{% endtab %}
+
+{% tab title="Moonriver" %}
+* **Launch Date:** (updated soon)
+* **Fair Launch:** No Presale and no dev / team tokens at launch
+* **Liquidity:** (updated soon)
+
+{% hint style="info" %}
+Docs in progress
+{% endhint %}
+{% endtab %}
+
+{% tab title="Moonbeam" %}
+* **Launch Date:** Friday, 14th of January 2022
+* **Fair Launch:** No Presale and no dev / team tokens at launch
+* **Liquidity:** (updated soon)
+
+{% hint style="info" %}
+Docs in progress
+{% endhint %}
+{% endtab %}
+{% endtabs %}

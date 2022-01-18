@@ -5,8 +5,8 @@ coverY: -28.333333333333357
 
 # 🌺 $PAD
 
-| Name          | Lily Pad                                   |
-| ------------- | ------------------------------------------ |
+| Name          | Lily Pad                                      |
+| ------------- | --------------------------------------------- |
 | Symbol/Ticker | ![](../../.gitbook/assets/PAD.symbol.svg) PAD |
 
 ## Contracts
@@ -31,35 +31,10 @@ PAD is the native token of PADSwap. It acts as basis of many farms, is used as s
 
 ## Tokenomics
 
-| Max Supply                                 | 200 billion                                                                 |
-| ------------------------------------------ | --------------------------------------------------------------------------- |
+| Max Supply                                 | 200 billion                                                        |
+| ------------------------------------------ | ------------------------------------------------------------------ |
 | Burn                                       | Yes, on claim of [the-vault.md](../the-vault.md "mention") backing |
-| Fees / Tax (on sell, buy and transactions) | 0%                                                                          |
-
-Launch Details:
-
-{% tabs %}
-{% tab title="BSC (BEP-20)" %}
-* Launch Date: May 8, 2021 03:58:26 AM (UTC)
-* Pre-mint: 10B
-* Liquidity (Permanently locked): 200k BUSD in pre-minted PAD donated by Snake and KingToad
-* Fair Launch: No Presale and no dev / team tokens at launch
-{% endtab %}
-
-{% tab title="Moonriver" %}
-* Launch Date: Nov 1, 2021 04:22:42 AM (UTC)
-* Pre-mint: 20B
-* Fair Launch: No Presale and no dev / team tokens at launch
-{% endtab %}
-
-{% tab title="Moonbeam" %}
-* Launch Date: January 11, 2022 07:12:42 PM (UTC)
-* Pre-mint: [20B](https://blockscout.moonbeam.network/tx/0x101207fe1e1f889f7b1212b786c25f60e4721143d41dc45597c46cdc2db5d5b7/token-transfers)
-* Liquidity (Permanently locked): 118k BUSD in pre-minted PAD donated by Snake and KingToad (preliminary information - will be updated soon)
-* Fair Launch: No Presale and no dev / team tokens at launch
-* Presale price: 833K PAD per GLMR (6000 GLMR hardcap)
-{% endtab %}
-{% endtabs %}
+| Fees / Tax (on sell, buy and transactions) | 0%                                                                 |
 
 PAD is a standard token with mint and burn functions, the mint function can only be used by the minter contract. The minter mints an exponentially decreasing percentage of the remaining supply and distributes them to the [pad-farms.md](../../products/farms/pad-farms.md "mention") and development funds. See [#continuous-minter-formula-pad-drip](pad.md#continuous-minter-formula-pad-drip "mention") for details on the minter.
 
@@ -139,3 +114,38 @@ PADSwap competes with other Dex on the market. Comparing the market cap of PADSw
 | QuickSwap      | $0,00132                 |                     x237 |
 
 _The calculation is based on data from 02.01.2022. The underlying market cap data of the Dex tokens was taken from_ [_coinmarketcap.com_](https://coinmarketcap.com)_. The $PAD market cap was assumed to be_ $457,068 _based on a price of_ $0,0000055740 _and a circulating supply of 82B after 356 days of drip._
+
+## Launch Details
+
+{% tabs %}
+{% tab title="BSC (BEP-20)" %}
+* **Launch Date:** May 8, 2021 03:58:26 AM (UTC)
+* **Pre-mint:** 10B
+* **Fair Launch:** No dev / team tokens at launch; No presale and no auction
+* **Liquidity:** The 10B pre-minted PAD were paired with 2000 TOAD and donated as LP to the reward pool of the TOAD-PAD [dplp-farms.md](../../products/farms/dplp-farms.md "mention"). The 2000 TOAD were worth around $105 per TOAD at the time with a total value of $200k with equal parts donated by Snake and KT.
+{% endtab %}
+
+{% tab title="Moonriver" %}
+* **Launch Date:** Nov 1, 2021 04:22:42 AM (UTC)
+* **Pre-mint:** 20B
+* **Fair Launch:** No dev / team tokens at launch
+
+{% hint style="info" %}
+Docs in progress
+{% endhint %}
+{% endtab %}
+
+{% tab title="Moonbeam" %}
+* **Launch Date:** January 11, 2022 07:12:42 PM (UTC)
+* **Pre-mint:** [20B](https://blockscout.moonbeam.network/tx/0x101207fe1e1f889f7b1212b786c25f60e4721143d41dc45597c46cdc2db5d5b7/token-transfers)
+* **Fair Launch:** No dev / team tokens at launch
+* **Pre-sale:**
+  * Hardcap: 6000 GLMR
+  * Price: 833K PAD per GLMR
+* **Liquidity:** 118k BUSD in pre-minted PAD donated by Snake and KingToad (preliminary information - will be updated soon)
+
+{% hint style="info" %}
+Docs in progress
+{% endhint %}
+{% endtab %}
+{% endtabs %}

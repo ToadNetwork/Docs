@@ -22,7 +22,7 @@ The following documentation details the functional and technical aspects of the 
 
 If you simply want to dive into the TOAD.Network, check out our [guides](guides/) and our [🕹 TOAD Academy](games/toad-academy.md).
 
-Get more involved in the TOAD.Network ecosystem by joining our fun and informative [telegram](https://t.me/toadnetwork) or any of our other [communities](project/community.md).
+Get more involved in the TOAD.Network ecosystem by joining our fun and informative [Discord](https://discord.gg/hTQ4z4Zn9p) or any of our other [communities](project/community.md).
 
 Want to launch your project within the TOAD.Network or for any other business proposal, contact a member of our [core team](project/team.md).
 
