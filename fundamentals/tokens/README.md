@@ -1,4 +1,4 @@
-# 🪙 Tokens
+# 💎 Tokens
 
 The Toad.Network makes use of two tokens. [toad.md](toad.md "mention") is a scarce governance token bridged to all supported chains. [pad.md](pad.md "mention") is the utility token of [padswap](../../products/padswap/ "mention") and is independent on every supported chain.
 

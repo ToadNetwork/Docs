@@ -1,4 +1,4 @@
-# 💰 Fiat On-ramp
+# 💱 Fiat On-ramp
 
 {% embed url="https://padswap.exchange/onramp" %}
 Use our fiat on-ramp

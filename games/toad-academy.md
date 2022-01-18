@@ -4,7 +4,7 @@ cover: ../.gitbook/assets/TOAD_Academy_Cover.png
 coverY: 0
 ---
 
-# 🎮 TOAD Academy
+# 🕹 TOAD Academy
 
 [Toad Academy](https://toad.academy) is a side project of TOAD Network, aimed at combining **education** and **fun**.
 
