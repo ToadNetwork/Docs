@@ -210,10 +210,3 @@ Docs in progress
 {% endtabs %}
 
 You can also find all TOAD farm contract addresses in the [#contracts](../products/farms/toad-farms-old.md#contracts "mention") section of our [toad-farms-old.md](../products/farms/toad-farms-old.md "mention") documentation.
-
-## Other
-
-LP token pairs:
-
-* USDC-BNB: [0xce71f919daae7a2d0708f84c657af46f57cbde2b](https://info.padswap.exchange/pair/0xce71f919daae7a2d0708f84c657af46f57cbde2b)
-* USDC-BUSD: [0x88348dffc9797b7be0a88c5e7775ca9aa29ba6eb](https://info.padswap.exchange/pair/0x88348dffc9797b7be0a88c5e7775ca9aa29ba6eb)
