@@ -5,8 +5,12 @@ coverY: 5
 
 # 🏷 Perpetual Auctions (soon)
 
-{% hint style="info" %}
+{% hint style="success" %}
 Coming soon! TM
+{% endhint %}
+
+{% hint style="warning" %}
+The following information is preliminary and subject to change!
 {% endhint %}
 
 TOAD.Network Auctions will allow projects to raise liquidity for their protocols. Auctions can be integrated with the decentralized perpetual liquidity protocol ([DPLP](../fundamentals/dplp.md)).
