@@ -1,5 +1,7 @@
 ---
-description: Use our launch pad to buy tokens during pre-sale or to launch your own project. Take off with fair systems!
+description: >-
+  Use our launch pad to buy tokens during pre-sale or to launch your own
+  project. Take off with fair systems!
 cover: ../.gitbook/assets/LaunchPAD_NEW.png
 coverY: 0
 ---
@@ -16,9 +18,9 @@ The following information is preliminary and subject to change!
 
 ## What is the LaunchPAD?
 
-The LaunchPAD is a service for projects to launch a token via a pre-sale. Users can participate in the pre-sale to support the project.
+The LaunchPAD is a service for projects to launch a token via a presale IDO. Users can participate in the presale to support the project.
 
-The purpose of the LaunchPAD is to make token launches as safe as possible for users and as easy as possible for developers. It will also offer a large variety of tools to boost projects' liquidity and utility. Developers should be able to focus on their products and the community. This will set a industry standard where they feel safe Developers will not be able to rug or act maliciously with LP. Obviously, this is not a magic solution- some projects that do not offer anything new are still going to only perform as well as the market allows. However, this is leaps above current protocols and eliminates rug pulling altogether.
+The purpose of the LaunchPAD is to make token launches as safe as possible for users and as easy as possible for developers. Take care of your community and let TOAD handle the rest! LaunchPAD also offers a large variety of tools to boost projects' liquidity and utility. We believe developers should be able to focus entirely their products and the community as we know first hand how many obstacles there can be in this space to growth. We hope to set an industry standard where users feel safe that Developers will not be able to rug or act maliciously with LP. Obviously, this is not a magic solution- some projects that do not offer anything new are still going to only perform as well as the market allows. However, this is leaps above current protocols and eliminates rug pulling altogether.
 
 ## Invest in a Project
 
@@ -34,7 +36,7 @@ Guide documentation coming soon
 
 ## Referral Program
 
-If you refer someone to an on-going pre-sale through your referral link, you will earn 1% of their pre-sale investment.
+If you refer someone to an on-going presale through your referral link, you will earn 1% of their pre-sale investment.
 
 {% hint style="info" %}
 Of every pre-sale investment, a 4% platform fee is deduced. The 1% referral reward is cut from these platform fees. It is taken from PADSwaps share and not from the project or investor.
@@ -55,39 +57,39 @@ Launch your own token on PADSwap via a pre-sale.
 Projects launched on PADSwaps LaunchPAD will be provided with tools and systems to take off:
 
 * You will get a [dplp.md](../fundamentals/dplp.md "mention") farm with an LP pair of your token and the native chain token (e.g. BNB, MOVR, or GLMR) ensuring that your token has liquidity forever.
-* Our referral program allows users to earn fees by referring others to your token's pre-sale.\
+* Our referral program allows users to earn fees by referring others to your token's presale.\
   The referral rewards are taken from PADSwap's platform fees, so you don't lose anything by enabling referrals.
-* Unlike other platforms, launching a pre-sale on PADSwap is free - we don't take any upfront fee to launch your pre-sale.
+* Unlike other platforms, launching a presale IDO on PADSwap is free - we don't take any upfront fee to launch your project.
 
 ### Distribution of Raised Funds
 
-The funds raised during your pre-sale will be distributed like this:
+The funds raised during your presale will be distributed as follows:
 
-* 80% of raised funds will be added to liquidity and donated to your DPLP farm to incentivize users to stake even more liquidity for your token.
-* 16% will go to you, the pre-sale owner.
-* 4% (minus referral rewards) will go to PADSwap's [the-vault.md](../fundamentals/the-vault.md "mention") (via the treasury).
+* **80% of raised funds** will be added to liquidity and donated to your projects' [DPLP](farms/dplp-farms.md) farm to incentivize users to stake even more liquidity for your token.
+* **16% of raised funds** will go to you, the presale owner.
+* **4% (minus referral rewards)** of raised funds will go to PADSwap's [the-vault.md](../fundamentals/the-vault.md "mention") (via the treasury).
 
 ### Workflow
 
-For now you will have to deploy your token contract yourself. We will release a fully automatic token factory in the future, which will enable token launches with zero coding.
+For now you will have to deploy your token contract yourself. We will release a fully automatic token factory in the near future, which will enable token launches with zero coding. **DYOR DYOR DYOR**
 
 {% hint style="danger" %}
 Do not add any liquidity for your token on PADSwap until the pre-sale is over. Adding liquidity before the pre-sale is over may cause your pre-sale to fail.
 {% endhint %}
 
-The following guide walks you through the process of launching your token via a pre-sale on PADSwap:
+The following guide walks you through the process of launching your token via a presale on PADSwap:
 
 {% hint style="info" %}
 Guide documentation coming soon
 {% endhint %}
 
-You can cancel a running pre-sale at any time. This might be necessary if you find any issues with your token.
+You can cancel a running presale at any time. This might be necessary if you find any issues with your token.
 
 If your pre-sale does not reach the soft cap, the pre-sale will be canceled.
 
-In case of a canceled pre-sale, users can visit the pre-sale page and withdraw their contribution. The provided tokens for the pre-sale are returned to the project owner.
+In case of a canceled presale, users can visit the pre-sale page and withdraw their contribution. The provided tokens for the pre-sale are returned to the project owner.
 
-If your pre-sale failed or was cancelled, you can try again as many times as you want.
+If your presale failed or was cancelled, you can try again as many times as you want.
 
 {% hint style="info" %}
 If you've already had a successful pre-sale and want to distribute the rest of the supply, our [auctions.md](auctions.md "mention") are made just for that.
