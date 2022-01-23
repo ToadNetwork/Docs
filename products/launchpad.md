@@ -1,5 +1,5 @@
 ---
-description: Take off with fair systems!
+description: Use our launch pad to buy tokens during pre-sale or to launch your own project. Take off with fair systems!
 cover: ../.gitbook/assets/LaunchPAD_NEW.png
 coverY: 0
 ---
