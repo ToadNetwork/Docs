@@ -22,63 +22,71 @@ First you have to navigate to the farms on the PADSwap platform trough the follo
 Farm PAD in our PAD Farms on PADSwap
 {% endembed %}
 
-## Step 2: Choose a Farm Type
+## Step 2: Choose your preferred network
 
-Choose in which type of farm you want to invest. For this guide we will go with the PAD farms.
+Select the chain where you have your LP tokens.
+
+![Choose your network](../.gitbook/assets/chooseYourDesiredNetwork.png)
+
+## Step 3: Connect your Wallet
+
+Connect your wallet to the site. In this guide we are using MetaMask but you can use any other wallet like Trust Wallet.
+
+![connect your preferred wallet](../.gitbook/assets/connectYourWallet.png)
+
+## &#x20;Step 4: Choose a Farm Type
+
+Choose in which type of farm you want to invest. For this guide we will go with the DPLP farms.
+
+![use the button to select between standard, dplp or partner farms](../.gitbook/assets/chooseYourFarmType.png)
 
 {% hint style="info" %}
-The PAD, DPLP and Partner farms have different rewards, reward sources and fees. See our [farms](../products/farms/ "mention") documentation for more information.
+The **PAD, DPLP** and **Partner** farms have different rewards, reward sources and fees. See our [farms](../products/farms/ "mention") documentation for more information.
 {% endhint %}
 
-## Step 3: Choose a Farm
+## Step 5: Choose your desired Farm
 
-Choose a token pair to farm. For this guide we will go with the PAD-TOAD farm.
+Choose a token pair to farm. For this guide we will go with the PAD-TOAD DPLP farm.
 
 {% hint style="info" %}
 To farm a certain token pair you first need to provide liquidity for that token pair to receive the respective LP tokens to stake. See also our docs on [liquidity-pools.md](../products/padswap/liquidity-pools.md "mention") and our guide on [how-to-provide-liquidity.md](how-to-provide-liquidity.md "mention").
 {% endhint %}
 
-![View of the PAD-TOAD farm](https://github.com/ToadNetwork/Docs/blob/main/docs/\_media/howtos/PadSwapAddingLiquidity16\_putLPTokensOnFarm.png?raw=true)
+![Choose your preferred farm](../.gitbook/assets/EnableYourFarms.png)
 
-## Step 4: Connect your Wallet
+## Step 6: Approve the Farm Contract
 
-Connect your wallet to the site. In this guide we are using MetaMask but you can use any other wallet like Trust Wallet.
+### Step 6.1: Click Enable
 
-![Connect wallet to DApp](https://github.com/ToadNetwork/Docs/blob/main/docs/\_media/howtos/AddingLiquidity13\_connectWallet.png?raw=true)
+For you to be able to deposit your LP tokens to the farm, you will need to approve the farm contract of your chosen farm first. Click on "enable" to approve the farm contract.
 
-## Step 5: Approve the Farm Contract
-
-### Step 5.1: Click Approve
-
-For you to be able to deposit your LP tokens to the farm, you will need to approve the farm contract of your chosen farm first. Click on "Approve" to approve the farm contract.
-
-![View of the PAD-TOAD farm showing the "Approve" button](https://github.com/ToadNetwork/Docs/blob/main/docs/\_media/howtos/PadSwapAddingLiquidity18\_navigateToChoosenFarm.png?raw=true)
-
-### Step 5.2: Confirm Approval
+### Step 6.2: Confirm Approval
 
 Your wallet will ask you to confirm the contract approval. This will cost you a small fee.
 
 ![Confirm approval on wallet](https://github.com/ToadNetwork/Docs/blob/main/docs/\_media/howtos/PadSwapAddingLiquidity19\_approveFarmOnWallet.png?raw=true)
 
-## Step 6: Deposit LP Tokens
+## Step 7: Deposit LP Tokens
 
-### Step 6.1: Click Deposit
+### Step 7.1: Click Deposit
 
 Once you have approved the contract in your wallet, you will be able to enter the amount of LP tokens you want to deposit. Enter the values and click on "Deposit" to deposit that amount to the farm.
 
-![Deposit LP tokens](https://github.com/ToadNetwork/Docs/blob/main/docs/\_media/howtos/PadSwapAddingLiquidity20\_depositLPTokens.png?raw=true)
+Alternatively, you can use the "max" button to select all the amount of LP of the corresponding LP that you hold on your wallet.
 
-### Step 6.2: Confirm Deposit
+![select the amount to deposit](../.gitbook/assets/DepositTokens.png)
+
+### Step 7.2: Confirm Deposit
 
 Your wallet will ask you to confirm the deposit. This will cost you a small fee.
 
 ![Confirm deposit on wallet](https://github.com/ToadNetwork/Docs/blob/main/docs/\_media/howtos/PadSwapAddingLiquidity21\_confirmDepositOnWallet.png?raw=true)
 
-## Step 7: View your LP tokens in the Farm
+## Step 8: View your LP tokens in the Farm
 
 Once the transaction has been confirmed on the BSC, you will see your deposited LP tokens on the farm.
 
-![Check deposited LP tokens](https://github.com/ToadNetwork/Docs/blob/main/docs/\_media/howtos/PadSwapAddingLiquidity22\_checkDepositedTokens.png?raw=true)
+![verify staked LP tokens](../.gitbook/assets/CheckToVerifyDeposit.png)
 
 {% hint style="success" %}
 Congrats! You have now deposited your LP tokens into a farm and you'll be earning rewards by the second! You can continue by reading more about [farms](../products/farms/ "mention").
