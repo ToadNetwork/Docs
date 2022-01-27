@@ -6,10 +6,10 @@ cover: ../.gitbook/assets/LaunchPAD_NEW.png
 coverY: 0
 ---
 
-# 🚀 LaunchPAD (soon)
+# 🚀 LaunchPAD
 
 {% hint style="success" %}
-Beta coming soon! TM
+[https://padswap.exchange/launchpad](https://padswap.exchange/launchpad)
 {% endhint %}
 
 {% hint style="warning" %}

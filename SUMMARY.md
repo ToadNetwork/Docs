@@ -28,7 +28,7 @@
 * [🌉 Bridge](products/toad-bridge/README.md)
   * [💧 Faucet](products/toad-bridge/faucet.md)
 * [💱 Fiat On-ramp](products/fiat-on-ramp.md)
-* [🚀 LaunchPAD (soon)](products/launchpad.md)
+* [🚀 LaunchPAD](products/launchpad.md)
 * [🏷 Perpetual Auctions (soon)](products/auctions.md)
 * [🖼 TOAD NFT (soon)](products/toad-nft.md)
 
