@@ -16,6 +16,15 @@
 * [🫂 Community](project/community.md)
 * [🔗 Links](project/links.md)
 
+## Fundamentals
+
+* [♾ DPLP](fundamentals/dplp.md)
+* [🔏 The Vault](fundamentals/the-vault.md)
+* [💎 Tokens](fundamentals/tokens/README.md)
+  * [🐸 $TOAD](fundamentals/tokens/toad.md)
+  * [🌺 $PAD](fundamentals/tokens/pad.md)
+* [📚 Glossary](fundamentals/glossary.md)
+
 ## Products
 
 * [🍄 PADSwap](products/padswap/README.md)
@@ -36,15 +45,6 @@
 
 * [🕹 TOAD Academy](games/toad-academy.md)
 * [🃏 TOADED (soon)](games/toaded.md)
-
-## Fundamentals
-
-* [♾ DPLP](fundamentals/dplp.md)
-* [🔏 The Vault](fundamentals/the-vault.md)
-* [💎 Tokens](fundamentals/tokens/README.md)
-  * [🐸 $TOAD](fundamentals/tokens/toad.md)
-  * [🌺 $PAD](fundamentals/tokens/pad.md)
-* [📚 Glossary](fundamentals/glossary.md)
 
 ## Technical Reference <a href="#reference" id="reference"></a>
 

@@ -139,7 +139,7 @@ Docs in progress
 * **Launch Date:** January 11, 2022 07:12:42 PM (UTC)
 * **Pre-mint:** [20B](https://blockscout.moonbeam.network/tx/0x101207fe1e1f889f7b1212b786c25f60e4721143d41dc45597c46cdc2db5d5b7/token-transfers)
 * **Fair Launch:** No dev / team tokens at launch
-* **Pre-sale:**
+* **Presale:**
   * Hardcap: 6000 GLMR
   * Price: 833K PAD per GLMR
 * **Liquidity:** 118k BUSD in pre-minted PAD donated by Snake and KingToad (preliminary information - will be updated soon)

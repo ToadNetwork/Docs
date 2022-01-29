@@ -1,6 +1,6 @@
 ---
 description: >-
-  Use our launch pad to buy tokens during pre-sale or to launch your own
+  Use our launch pad to buy tokens during presale or to launch your own
   project. Take off with fair systems!
 cover: ../.gitbook/assets/LaunchPAD_NEW.png
 coverY: 0
@@ -25,10 +25,10 @@ The purpose of the LaunchPAD is to make token launches as safe as possible for u
 ## Invest in a Project
 
 {% embed url="https://padswap.exchange/launchpad" %}
-Buy your favorite project' token during their pre-sale.
+Buy your favorite project' token during their presale.
 {% endembed %}
 
-The following guide walks you through the process of buying a token in pre-sale on PADSwap:
+The following guide walks you through the process of buying a token in presale on PADSwap:
 
 {% hint style="info" %}
 Guide documentation coming soon
@@ -36,10 +36,10 @@ Guide documentation coming soon
 
 ## Referral Program
 
-If you refer someone to an on-going presale through your referral link, you will earn 1% of their pre-sale investment.
+If you refer someone to an on-going presale through your referral link, you will earn 1% of their presale investment.
 
 {% hint style="info" %}
-Of every pre-sale investment, a 4% platform fee is deduced. The 1% referral reward is cut from these platform fees. It is taken from PADSwaps share and not from the project or investor.
+Of every presale investment, a 4% platform fee is deduced. The 1% referral reward is cut from these platform fees. It is taken from PADSwaps share and not from the project or investor.
 {% endhint %}
 
 ## Launch your Project
@@ -49,7 +49,7 @@ If your token is already tradeable on PADSwap, you can use our [auctions.md](auc
 {% endhint %}
 
 {% embed url="https://padswap.exchange/launch-token" %}
-Launch your own token on PADSwap via a pre-sale.
+Launch your own token on PADSwap via a presale.
 {% endembed %}
 
 ### Why you should launch on PADSwap's LaunchPAD?
@@ -74,7 +74,7 @@ The funds raised during your presale will be distributed as follows:
 For now you will have to deploy your token contract yourself. We will release a fully automatic token factory in the near future, which will enable token launches with zero coding. **DYOR DYOR DYOR**
 
 {% hint style="danger" %}
-Do not add any liquidity for your token on PADSwap until the pre-sale is over. Adding liquidity before the pre-sale is over may cause your pre-sale to fail.
+Do not add any liquidity for your token on PADSwap until the presale is over. Adding liquidity before the presale is over may cause your presale to fail.
 {% endhint %}
 
 The following guide walks you through the process of launching your token via a presale on PADSwap:
@@ -85,38 +85,32 @@ Guide documentation coming soon
 
 You can cancel a running presale at any time. This might be necessary if you find any issues with your token.
 
-If your pre-sale does not reach the soft cap, the pre-sale will be canceled.
+If your presale does not reach the soft cap, the presale will be canceled.
 
-In case of a canceled presale, users can visit the pre-sale page and withdraw their contribution. The provided tokens for the pre-sale are returned to the project owner.
+In case of a canceled presale, users can visit the presale page and withdraw their contribution. The provided tokens for the presale are returned to the project owner.
 
 If your presale failed or was cancelled, you can try again as many times as you want.
 
 {% hint style="info" %}
-If you've already had a successful pre-sale and want to distribute the rest of the supply, our [auctions.md](auctions.md "mention") are made just for that.
+If you've already had a successful presale and want to distribute the rest of the supply, our [auctions.md](auctions.md "mention") are made just for that.
 {% endhint %}
 
 ## Contracts
 
 {% tabs %}
 {% tab title="BSC (BEP-20)" %}
-{% hint style="info" %}
-Soon also on BSC!
-{% endhint %}
+* Presale: [0x4a7FDf96fDBd1F7ef9892Dae34F47125D2A6AEB0](https://bscscan.com/address/0x4a7FDf96fDBd1F7ef9892Dae34F47125D2A6AEB0)
+* Token factory: (coming soon)
 {% endtab %}
 
 {% tab title="Moonriver" %}
-{% hint style="info" %}
-Soon also on Moonriver!
-{% endhint %}
+* Presale: [0x7b7b667905d6503cb9b47D1ceB8F71ae3A1Db3B9](https://moonriver.moonscan.io/address/0x7b7b667905d6503cb9b47D1ceB8F71ae3A1Db3B9)
+* Token factory: (coming soon)
 {% endtab %}
 
 {% tab title="Moonbeam" %}
-* Pre-sale: (updated soon)
+* Presale: [0x6f4439eFF3f5872db1b5BFd41F75ca7574546097](https://blockscout.moonbeam.network/address/0x6f4439eFF3f5872db1b5BFd41F75ca7574546097)
 * Token factory: (coming soon)
-
-{% hint style="info" %}
-Docs in progress
-{% endhint %}
 {% endtab %}
 {% endtabs %}
 

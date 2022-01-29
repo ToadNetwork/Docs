@@ -83,13 +83,13 @@ _The calculation is based on data from 02.01.2022. The underlying market cap dat
 {% tab title="BSC (BEP-20)" %}
 * **Launch Date:** Friday, 26th of February 2021
 * **Fair Launch:** No dev / team tokens at launch
-* **Pre-sale:**
+* **Presale:**
   * Amount: 70K TOAD
   * Softcap: 150 BNB (\~$33.3k) - reached in less than 10 minutes
   * Hardcap: 350 BNB (\~$77.7k)
   * Price: 0.005 BNB (\~$1.11) per TOAD (listing price on pancake swap: 0.0058 BNB)
   * Min/Max cap per person : No Min / Max 10 BNB (\~$2k)
-* **Liquidity:** The \~$77.7k pre-sale gain and \~$20k out of pocket were donated by Snake and KT to the reward pools of the [toad-farms-old.md](../../products/farms/toad-farms-old.md "mention"). Around $25k each to the TOAD-BUSD, TOAD-BNB and TOAD-BNB DPLP farms and around $20k to the TOAD solo farm.
+* **Liquidity:** The \~$77.7k presale gain and \~$20k out of pocket were donated by Snake and KT to the reward pools of the [toad-farms-old.md](../../products/farms/toad-farms-old.md "mention"). Around $25k each to the TOAD-BUSD, TOAD-BNB and TOAD-BNB DPLP farms and around $20k to the TOAD solo farm.
 {% endtab %}
 
 {% tab title="Moonriver" %}

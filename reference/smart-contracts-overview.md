@@ -4,7 +4,7 @@
 
 {% tabs %}
 {% tab title="BSC (BEP-20)" %}
-* Router: [0x76437234D29f84D9A12820A137c6c6A719138C24](https://bscscan.com/address/0x76437234d29f84d9a12820a137c6c6a719138c24#code)
+* Router: [0x76437234D29f84D9A12820A137c6c6A719138C24](https://bscscan.com/address/0x76437234d29f84d9a12820a137c6c6a719138c24)
 * Factory: [0xB836017ACf10b8A7c6c6C9e99eFE0f5B0250FC45](https://bscscan.com/address/0xb836017acf10b8a7c6c6c9e99efe0f5b0250fc45)
 {% endtab %}
 
@@ -43,6 +43,27 @@ Docs in progress
 {% endtabs %}
 
 You can also find all the Vault contract addresses in the [#contracts](../fundamentals/the-vault.md#contracts "mention") section of our [the-vault.md](../fundamentals/the-vault.md "mention") documentation.
+
+## LaunchPAD Contracts
+
+{% tabs %}
+{% tab title="BSC (BEP-20)" %}
+* Presale: [0x4a7FDf96fDBd1F7ef9892Dae34F47125D2A6AEB0](https://bscscan.com/address/0x4a7FDf96fDBd1F7ef9892Dae34F47125D2A6AEB0)
+* Token factory: (coming soon)
+{% endtab %}
+
+{% tab title="Moonriver" %}
+* Presale: [0x7b7b667905d6503cb9b47D1ceB8F71ae3A1Db3B9](https://moonriver.moonscan.io/address/0x7b7b667905d6503cb9b47D1ceB8F71ae3A1Db3B9)
+* Token factory: (coming soon)
+{% endtab %}
+
+{% tab title="Moonbeam" %}
+* Presale: [0x6f4439eFF3f5872db1b5BFd41F75ca7574546097](https://blockscout.moonbeam.network/address/0x6f4439eFF3f5872db1b5BFd41F75ca7574546097)
+* Token factory: (coming soon)
+{% endtab %}
+{% endtabs %}
+
+You can also find all the Vault contract addresses in the [#contracts](../products/launchpad.md#contracts "mention") section of our [launchpad.md](../products/launchpad.md "mention") documentation.
 
 ## $TOAD Contracts
 
