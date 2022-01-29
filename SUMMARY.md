@@ -6,6 +6,8 @@
   * [How to Provide Liquidity?](guides/how-to-provide-liquidity.md)
   * [How to Farm?](guides/how-to-farm.md)
   * [How to Bridge Tokens?](guides/how-to-bridge-tokens.md)
+  * [How to Launch a Token?](guides/how-to-launch-a-token.md)
+  * [How to Invest in Presale?](guides/how-to-invest-in-presale.md)
 
 ## Project
 
@@ -37,13 +39,15 @@
 * [🌉 Bridge](products/toad-bridge/README.md)
   * [💧 Faucet](products/toad-bridge/faucet.md)
 * [💱 Fiat On-ramp](products/fiat-on-ramp.md)
-* [🚀 LaunchPAD](products/launchpad.md)
+* [🚀 LaunchPAD](products/launchpad/README.md)
+  * [🏭 Token Factory](products/launchpad/token-factory.md)
+  * [🗓 Token Presale](products/launchpad/token-presale.md)
 * [🏷 Perpetual Auctions (soon)](products/auctions.md)
 * [🖼 TOAD NFT (soon)](products/toad-nft.md)
 
 ## Games
 
-* [🕹 TOAD Academy](games/toad-academy.md)
+* [🎓 TOAD Academy](games/toad-academy.md)
 * [🃏 TOADED (soon)](games/toaded.md)
 
 ## Technical Reference <a href="#reference" id="reference"></a>

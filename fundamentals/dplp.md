@@ -44,4 +44,4 @@ By charging a higher fee to get in and out (that goes right back to the rewards 
 
 In long, this works as follows: Let’s say that some users want to remove their tokens from the contract as they have reached their expected gains or the pool is not as attractive for them anymore. Once these users withdraw, the rewards pool will grow from the exit fees these users paid to withdraw. This means that the rewards for users who remain in the contract will be larger, making it more attractive to other people looking to provide liquidity.
 
-This DPLP mechanism will ensure that TOAD, PAD or projects launching on our [launchpad.md](../products/launchpad.md "mention") will always have liquidity.
+This DPLP mechanism will ensure that TOAD, PAD or projects launching on our [launchpad](../products/launchpad/ "mention") will always have liquidity.

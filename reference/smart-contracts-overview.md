@@ -44,26 +44,47 @@ Docs in progress
 
 You can also find all the Vault contract addresses in the [#contracts](../fundamentals/the-vault.md#contracts "mention") section of our [the-vault.md](../fundamentals/the-vault.md "mention") documentation.
 
-## LaunchPAD Contracts
+## LaunchPAD Token Factory Contracts
 
 {% tabs %}
 {% tab title="BSC (BEP-20)" %}
-* Presale: [0x4a7FDf96fDBd1F7ef9892Dae34F47125D2A6AEB0](https://bscscan.com/address/0x4a7FDf96fDBd1F7ef9892Dae34F47125D2A6AEB0)
-* Token factory: (coming soon)
+{% hint style="success" %}
+Coming soon!
+{% endhint %}
 {% endtab %}
 
 {% tab title="Moonriver" %}
-* Presale: [0x7b7b667905d6503cb9b47D1ceB8F71ae3A1Db3B9](https://moonriver.moonscan.io/address/0x7b7b667905d6503cb9b47D1ceB8F71ae3A1Db3B9)
-* Token factory: (coming soon)
+{% hint style="success" %}
+Already deployed. Docs in progress.
+{% endhint %}
 {% endtab %}
 
 {% tab title="Moonbeam" %}
-* Presale: [0x6f4439eFF3f5872db1b5BFd41F75ca7574546097](https://blockscout.moonbeam.network/address/0x6f4439eFF3f5872db1b5BFd41F75ca7574546097)
-* Token factory: (coming soon)
+{% hint style="success" %}
+Coming soon!
+{% endhint %}
 {% endtab %}
 {% endtabs %}
 
-You can also find all the Vault contract addresses in the [#contracts](../products/launchpad.md#contracts "mention") section of our [launchpad.md](../products/launchpad.md "mention") documentation.
+You can also find all the LaunchPAD token factory contract addresses in the [#contracts](../products/launchpad/token-factory.md#contracts "mention") section of our [token-factory.md](../products/launchpad/token-factory.md "mention") documentation.
+
+## LaunchPAD Presale Contracts
+
+{% tabs %}
+{% tab title="BSC (BEP-20)" %}
+[0x4a7FDf96fDBd1F7ef9892Dae34F47125D2A6AEB0](https://bscscan.com/address/0x4a7FDf96fDBd1F7ef9892Dae34F47125D2A6AEB0)
+{% endtab %}
+
+{% tab title="Moonriver" %}
+[0x7b7b667905d6503cb9b47D1ceB8F71ae3A1Db3B9](https://moonriver.moonscan.io/address/0x7b7b667905d6503cb9b47D1ceB8F71ae3A1Db3B9)
+{% endtab %}
+
+{% tab title="Moonbeam" %}
+[0x6f4439eFF3f5872db1b5BFd41F75ca7574546097](https://blockscout.moonbeam.network/address/0x6f4439eFF3f5872db1b5BFd41F75ca7574546097)
+{% endtab %}
+{% endtabs %}
+
+You can also find all the LaunchPAD presale contract addresses in the [#contracts](../products/launchpad/token-presale.md#contracts "mention") section of our [token-presale.md](../products/launchpad/token-presale.md "mention") documentation.
 
 ## $TOAD Contracts
 

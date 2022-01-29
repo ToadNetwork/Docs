@@ -11,7 +11,7 @@ Farm LP in our DPLP Farms on PADSwap
 
 ## DPLP
 
-TOAD.Network invented the Decentralized Perpetual Liquidity Protocol (DPLP) as a mechanism which ensures that there is always an incentive for users to provide liquidity. This user provided liquidity is a big benefit for projects using DPLP; like TOAD, PAD and other projects launched on the [launchpad.md](../launchpad.md "mention").
+TOAD.Network invented the Decentralized Perpetual Liquidity Protocol (DPLP) as a mechanism which ensures that there is always an incentive for users to provide liquidity. This user provided liquidity is a big benefit for projects using DPLP; like TOAD, PAD and other projects launched on the [launchpad](../launchpad/ "mention").
 
 {% hint style="info" %}
 This page focuses on the "incentive" aspect of DPLP, namely the DPLP farms. See [dplp.md](../../fundamentals/dplp.md "mention") for more details on the underlying concept.
@@ -36,7 +36,7 @@ This works through the following two mechanisms:
 
 The interplay between 1. and 2. is a perpetual motion, always ensuring high APY.
 
-Getting this perpetual motion going requires some initial reward pool funds. These are usually donated by the project owners (e.g. projects launched on [launchpad.md](../launchpad.md "mention")). For TOAD and PAD DPLP farms, Snake and KT donated around $200k to the initial reward pool funds. By a drip of 1% per day, the donated rewards are mostly depleted after 1 year (less than 3% left).
+Getting this perpetual motion going requires some initial reward pool funds. These are usually donated by the project owners (e.g. projects launched on [launchpad](../launchpad/ "mention")). For TOAD and PAD DPLP farms, Snake and KT donated around $200k to the initial reward pool funds. By a drip of 1% per day, the donated rewards are mostly depleted after 1 year (less than 3% left).
 
 ### How are rewards distributed?
 
@@ -56,14 +56,14 @@ The 'unstake' fee functions as a form of soft locking. It incentivizes you to ke
 
 {% tabs %}
 {% tab title="BSC (BEP-20)" %}
-* PAD-TOAD:	[0x816ed1589b7783d7DD820bA4ebDef5899515dC76](https://bscscan.com/address/0x816ed1589b7783d7DD820bA4ebDef5899515dC76)
-* KISH-BNB:	[0xe70e0aBDa4FE7A744cCbCd8Ee5E7336477349555](https://bscscan.com/address/0xe70e0aBDa4FE7A744cCbCd8Ee5E7336477349555)
-* CZATS-BNB:	[0x73F41FB2121D4810316ba28f5fDC2EE07db28A1D](https://bscscan.com/address/0x73F41FB2121D4810316ba28f5fDC2EE07db28A1D)
-* PXBSC-BNB:	[0xE878bc2efA5961a515968F175568bc1AA6EE4C9F](https://bscscan.com/address/0xE878bc2efA5961a515968F175568bc1AA6EE4C9F)
-* FUK-BNB:	[0xe8d79DCc9B0B2285ac47EE9CCd4bE5925fB4B273](https://bscscan.com/address/0xe8d79DCc9B0B2285ac47EE9CCd4bE5925fB4B273)
-* GAL-BNB:	[0x00ae3d7eC0D75D0423BEffBCC7b53DaDA6aB04e4](https://bscscan.com/address/0x00ae3d7eC0D75D0423BEffBCC7b53DaDA6aB04e4)
-* BJT-BNB:	[0x51270eAF64D08b50858E385FA751e3C89cF27118](https://bscscan.com/address/0x51270eAF64D08b50858E385FA751e3C89cF27118)
-* MRBTC-BNB:	[0x50A90CbCBfb896306cC29f6EFef89f528Cf88E30](https://bscscan.com/address/0x50A90CbCBfb896306cC29f6EFef89f528Cf88E30)
+* PAD-TOAD: [0x816ed1589b7783d7DD820bA4ebDef5899515dC76](https://bscscan.com/address/0x816ed1589b7783d7DD820bA4ebDef5899515dC76)
+* KISH-BNB: [0xe70e0aBDa4FE7A744cCbCd8Ee5E7336477349555](https://bscscan.com/address/0xe70e0aBDa4FE7A744cCbCd8Ee5E7336477349555)
+* CZATS-BNB: [0x73F41FB2121D4810316ba28f5fDC2EE07db28A1D](https://bscscan.com/address/0x73F41FB2121D4810316ba28f5fDC2EE07db28A1D)
+* PXBSC-BNB: [0xE878bc2efA5961a515968F175568bc1AA6EE4C9F](https://bscscan.com/address/0xE878bc2efA5961a515968F175568bc1AA6EE4C9F)
+* FUK-BNB: [0xe8d79DCc9B0B2285ac47EE9CCd4bE5925fB4B273](https://bscscan.com/address/0xe8d79DCc9B0B2285ac47EE9CCd4bE5925fB4B273)
+* GAL-BNB: [0x00ae3d7eC0D75D0423BEffBCC7b53DaDA6aB04e4](https://bscscan.com/address/0x00ae3d7eC0D75D0423BEffBCC7b53DaDA6aB04e4)
+* BJT-BNB: [0x51270eAF64D08b50858E385FA751e3C89cF27118](https://bscscan.com/address/0x51270eAF64D08b50858E385FA751e3C89cF27118)
+* MRBTC-BNB: [0x50A90CbCBfb896306cC29f6EFef89f528Cf88E30](https://bscscan.com/address/0x50A90CbCBfb896306cC29f6EFef89f528Cf88E30)
 {% endtab %}
 
 {% tab title="Moonriver" %}
