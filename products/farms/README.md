@@ -21,7 +21,7 @@ Take a look at our farms:
 
 APY can be a misleading measure in crypto. First of, you need to understand that it is only an estimate and by no means a guaranteed return on investment. The accuracy of this estimate depends on the factors the individual project takes into account. Often, this only takes compounding into account (increased rewards due to reinvesting). More people staking in a farm, decreasing rewards, depreciation of the underlying assets and fees like transaction fees reduce the effective APY and are often not taken into account.
 
-Why should you care? If a project's rewards are not stable, the shown APY can be 1000% today but 1% tomorrow. In this case, the A (annual) in APY is meaningless.
+Why should you care? If a projects' rewards are not stable, the shown APY can be 1000% today but 1% tomorrow. In this case, the A (annual) in APY is meaningless.
 
 What you should understand:
 

@@ -1,14 +1,24 @@
+---
+description: Use our presale systems to invest in your favorit project or to launch your token on PADSwap.
+cover: ../../.gitbook/assets/LaunchPAD_NEW.png
+coverY: 0
+---
+
 # 🗓 Token Presale
+
+{% embed url="https://padswap.exchange/launchpad" %}
+Invest in a projects' presale on PADSwap
+{% endembed %}
+
+{% embed url="https://padswap.exchange/launch" %}
+Launch your own token on PADSwap via a presale.
+{% endembed %}
 
 {% hint style="warning" %}
 The following information is preliminary and subject to change!
 {% endhint %}
 
 ## Invest in a Project
-
-{% embed url="https://padswap.exchange/launchpad" %}
-Buy your favorite project' token during their presale.
-{% endembed %}
 
 The following guide walks you through the process of buying a token in presale on PADSwap:
 
@@ -30,9 +40,11 @@ Of every presale investment, a 4% platform fee is deduced. The 1% referral rewar
 If your token is already tradeable on PADSwap, you can use our [auctions.md](../auctions.md "mention") instead.
 {% endhint %}
 
-{% embed url="https://padswap.exchange/launch" %}
-Launch your own token on PADSwap via a presale.
-{% endembed %}
+The following guide walks you through the process of launching your project on PADSwap:
+
+{% content-ref url="../../guides/how-to-launch-a-token.md" %}
+[how-to-launch-a-token.md](../../guides/how-to-launch-a-token.md)
+{% endcontent-ref %}
 
 ### Why you should launch on PADSwap's LaunchPAD?
 
@@ -92,5 +104,3 @@ If you've already had a successful presale and want to distribute the rest of th
 [0x6f4439eFF3f5872db1b5BFd41F75ca7574546097](https://blockscout.moonbeam.network/address/0x6f4439eFF3f5872db1b5BFd41F75ca7574546097)
 {% endtab %}
 {% endtabs %}
-
-##
