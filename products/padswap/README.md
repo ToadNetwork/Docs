@@ -49,16 +49,16 @@ With liquidity that is supplied by other users. This means that new projects can
 
 ### On BSC
 
-|                                   |                       PancakeSwap                      |                               SushiSwap                              |                        PADSwap                       |   |
-| --------------------------------- | :----------------------------------------------------: | :------------------------------------------------------------------: | :--------------------------------------------------: | - |
-| Swap fee distribution             | <p>0.17% to LP providers<br>0.03% to devs' pockets</p> |        <p>0.25% to LP providers<br>0.05% to SUSHI holders</p>        | <p>0.25% to LP providers<br>0.05% to PAD backing</p> |   |
-| Reward token tokenomics           |                    Infinitely minted                   |                             Capped supply                            |                     Capped supply                    |   |
-| Reward token backing              |                          None                          |                                 None                                 |     Backed by the Vault of accumulated swap fees     |   |
-| Multi-chain                       |                        BSC only                        |                              Multi-chain                             |               BSC, Moonriver, Moonbeam               |   |
-| In-house cross-chain bridge       |                           No                           |                                  No                                  |                          Yes                         |   |
-| Launchpad                         |                           No                           |                                  No                                  |                          Yes                         |   |
-| Partner farms (earn other tokens) |        <p>Partially<br>(you must stake CAKE)</p>       | <p>Partially<br>(earning half in SUSHI and half in other tokens)</p> |                          Yes                         |   |
-| LP as staking reward              |                           No                           |                                  No                                  |                          Yes                         |   |
+|                                   |                        PADSwap                       |                       PancakeSwap                      |                               SushiSwap                              | 
+| --------------------------------- | :--------------------------------------------------: | :----------------------------------------------------: | :------------------------------------------------------------------: | 
+| Swap fee distribution             | <p>0.25% to LP providers<br>0.05% to PAD backing</p> | <p>0.17% to LP providers<br>0.03% to devs' pockets</p> |        <p>0.25% to LP providers<br>0.05% to SUSHI holders</p>        | 
+| Reward token tokenomics           |                     Capped supply                    |                    Infinitely minted                   |                             Capped supply                            | 
+| Reward token backing              |     Backed by the Vault of accumulated swap fees     |                          None                          |                                 None                                 | 
+| Multi-chain                       |               BSC, Moonriver, Moonbeam               |                        BSC only                        |                              Multi-chain                             | 
+| In-house cross-chain bridge       |                          Yes                         |                           No                           |                                  No                                  | 
+| Launchpad                         |                          Yes                         |                           No                           |                                  No                                  | 
+| Partner farms (earn other tokens) |                          Yes                         |        <p>Partially<br>(you must stake CAKE)</p>       | <p>Partially<br>(earning half in SUSHI and half in other tokens)</p> | 
+| LP as staking reward              |                          Yes                         |                           No                           |                                  No                                  | 
 
 ### On Moonbeam
 
