@@ -1,5 +1,5 @@
 ---
-cover: ../../.gitbook/assets/PADSwap_New.png
+cover: broken-reference
 coverY: 0
 ---
 
@@ -47,21 +47,32 @@ With liquidity that is supplied by other users. This means that new projects can
 
 ## How does PADSwap compare to other decentralized exchanges?
 
-{% hint style="info" %}
-Docs in progress
-{% endhint %}
+### On BSC
 
-|                                          |                       PancakeSwap                      |                               SushiSwap                              |                        PADSwap                       |
-| ---------------------------------------- | :----------------------------------------------------: | :------------------------------------------------------------------: | :--------------------------------------------------: |
-| Swap fee distribution                    | <p>0.17% to LP providers<br>0.03% to devs' pockets</p> |        <p>0.25% to LP providers<br>0.05% to SUSHI holders</p>        | <p>0.25% to LP providers<br>0.05% to PAD backing</p> |
-| Reward token tokenomics                  |                    Infinitely minted                   |                             Capped supply                            |                     Capped supply                    |
-| Reward token backing                     |                          None                          |                                 None                                 |     Backed by the Vault of accumulated swap fees     |
-| Multi-chain?                             |                        BSC only                        |                              Multi-chain                             |                      Multi-chain                     |
-| Regular farms (earn native reward token) |                           Yes                          |                                  Yes                                 |                          Yes                         |
-| Partner farms (earn other tokens)        |        <p>Partially<br>(you must stake CAKE)</p>       | <p>Partially<br>(earning half in SUSHI and half in other tokens)</p> |                          Yes                         |
-| LP farms (stake LP, get more LP)         |                           No                           |                                  No                                  |                          Yes                         |
-| Own cross-chain bridge                   |                           No                           |                                  No                                  |                          Yes                         |
-| Own token launchpad                      |                           No                           |                                  No                                  |                          Yes                         |
+|                                   |                       PancakeSwap                      |                               SushiSwap                              |                        PADSwap                       |   |
+| --------------------------------- | :----------------------------------------------------: | :------------------------------------------------------------------: | :--------------------------------------------------: | - |
+| Swap fee distribution             | <p>0.17% to LP providers<br>0.03% to devs' pockets</p> |        <p>0.25% to LP providers<br>0.05% to SUSHI holders</p>        | <p>0.25% to LP providers<br>0.05% to PAD backing</p> |   |
+| Reward token tokenomics           |                    Infinitely minted                   |                             Capped supply                            |                     Capped supply                    |   |
+| Reward token backing              |                          None                          |                                 None                                 |     Backed by the Vault of accumulated swap fees     |   |
+| Multi-chain                       |                        BSC only                        |                              Multi-chain                             |               BSC, Moonriver, Moonbeam               |   |
+| In-house cross-chain bridge       |                           No                           |                                  No                                  |                          Yes                         |   |
+| Launchpad                         |                           No                           |                                  No                                  |                          Yes                         |   |
+| Partner farms (earn other tokens) |        <p>Partially<br>(you must stake CAKE)</p>       | <p>Partially<br>(earning half in SUSHI and half in other tokens)</p> |                          Yes                         |   |
+| LP as staking reward              |                           No                           |                                  No                                  |                          Yes                         |   |
+
+### On Moonbeam
+
+|                             |                        PADSwap                       |                     SOLARFLARE                    |                    StellaSwap                    |  Dusty Dunes  |                      Thorus                      |                     Zenlink                    |                    Beamswap                    |    LunarDEX   |
+| --------------------------- | :--------------------------------------------------: | :-----------------------------------------------: | :----------------------------------------------: | :-----------: | :----------------------------------------------: | :--------------------------------------------: | :--------------------------------------------: | :-----------: |
+| Swap fee distribution       | <p>0.25% to LP providers<br>0.05% to PAD backing</p> | <p>0.20% to LP providers<br>0.05% to Treasury</p> | <p>0.25% to LP providers<br>0.05% to B.Vault</p> |               | <p>0.03% to LP providers<br>0.07% to Reserve</p> | <p>0.15% to LP providers<br>0.15% to Misc.</p> | <p>0.17% to LP providers<br>0.13% to Misc.</p> |               |
+| Reward token tokenomics     |                     Capped supply                    |                   Capped supply                   |                   Capped supply                  | Capped supply |                   Capped supply                  |                  Capped supply                 |                  Capped supply                 | Capped supply |
+| Reward token backing        |     Backed by the Vault of accumulated swap fees     |                                                   |                                                  |               |                  $STATIK > $0.99                 |                                                |                                                |               |
+| Multi-chain                 |               BSC, Moonriver, Moonbeam               |                Moonriver, Moonbeam                |                        No                        |       No      |                Moonbeam, Avalanche               |               Moonriver, Moonbeam              |                       No                       |       No      |
+| In-house cross-chain bridge |                          Yes                         |                        Yes                        |                        Yes                       |               |                                                  |                       Yes                      |                       Yes                      |               |
+| Faucet                      |                          Yes                         |               "3% Fee" gas-less swap              |                        Yes                       |               |                                                  |                                                |                       Yes                      |               |
+| Launchpad                   |                          Yes                         |                                                   |               TBD Targeting Jun 22               |               |                        TBD                       |                                                |                       TBD                      |               |
+| LP as staking reward        |                          Yes                         |                                                   |                                                  |               |                                                  |                                                |                                                |               |
+| Solo Staking $GLMR          |                          Yes                         |                        Yes                        |                        Yes                       |      Yes      |                                                  |                       Yes                      |                       Yes                      |               |
 
 ## Contracts
 

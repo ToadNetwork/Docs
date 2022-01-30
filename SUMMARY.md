@@ -54,4 +54,4 @@
 
 * [Smart Contracts Overview](reference/smart-contracts-overview.md)
 * [APIs](reference/apis.md)
-* [Logos](reference/logos.md)
+* [Media Kit (Logos)](reference/logos.md)
