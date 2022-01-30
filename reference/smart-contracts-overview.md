@@ -4,7 +4,7 @@
 
 {% tabs %}
 {% tab title="BSC (BEP-20)" %}
-* Router: [0x76437234D29f84D9A12820A137c6c6A719138C24](https://bscscan.com/address/0x76437234d29f84d9a12820a137c6c6a719138c24)
+* Router: 0x76437234D29f84D9A12820A137c6c6A719138C24 [(view explorer)](https://bscscan.com/address/0x76437234d29f84d9a12820a137c6c6a719138c24)
 * Factory: [0xB836017ACf10b8A7c6c6C9e99eFE0f5B0250FC45](https://bscscan.com/address/0xb836017acf10b8a7c6c6c9e99efe0f5b0250fc45)
 {% endtab %}
 
