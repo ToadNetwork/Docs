@@ -56,14 +56,14 @@ The 'unstake' fee functions as a form of soft locking. It incentivizes you to ke
 
 {% tabs %}
 {% tab title="BSC (BEP-20)" %}
-* PAD-TOAD: [0x816ed1589b7783d7DD820bA4ebDef5899515dC76](https://bscscan.com/address/0x816ed1589b7783d7DD820bA4ebDef5899515dC76)
-* KISH-BNB: [0xe70e0aBDa4FE7A744cCbCd8Ee5E7336477349555](https://bscscan.com/address/0xe70e0aBDa4FE7A744cCbCd8Ee5E7336477349555)
-* CZATS-BNB: [0x73F41FB2121D4810316ba28f5fDC2EE07db28A1D](https://bscscan.com/address/0x73F41FB2121D4810316ba28f5fDC2EE07db28A1D)
-* PXBSC-BNB: [0xE878bc2efA5961a515968F175568bc1AA6EE4C9F](https://bscscan.com/address/0xE878bc2efA5961a515968F175568bc1AA6EE4C9F)
-* FUK-BNB: [0xe8d79DCc9B0B2285ac47EE9CCd4bE5925fB4B273](https://bscscan.com/address/0xe8d79DCc9B0B2285ac47EE9CCd4bE5925fB4B273)
-* GAL-BNB: [0x00ae3d7eC0D75D0423BEffBCC7b53DaDA6aB04e4](https://bscscan.com/address/0x00ae3d7eC0D75D0423BEffBCC7b53DaDA6aB04e4)
-* BJT-BNB: [0x51270eAF64D08b50858E385FA751e3C89cF27118](https://bscscan.com/address/0x51270eAF64D08b50858E385FA751e3C89cF27118)
-* MRBTC-BNB: [0x50A90CbCBfb896306cC29f6EFef89f528Cf88E30](https://bscscan.com/address/0x50A90CbCBfb896306cC29f6EFef89f528Cf88E30)
+* PAD-TOAD: 0x816ed1589b7783d7DD820bA4ebDef5899515dC76 [(view explorer)](https://bscscan.com/address/0x816ed1589b7783d7DD820bA4ebDef5899515dC76)
+* KISH-BNB: 0xe70e0aBDa4FE7A744cCbCd8Ee5E7336477349555 [(view explorer)](https://bscscan.com/address/0xe70e0aBDa4FE7A744cCbCd8Ee5E7336477349555)
+* CZATS-BNB: 0x73F41FB2121D4810316ba28f5fDC2EE07db28A1D [(view explorer)](https://bscscan.com/address/0x73F41FB2121D4810316ba28f5fDC2EE07db28A1D)
+* PXBSC-BNB: 0xE878bc2efA5961a515968F175568bc1AA6EE4C9F [(view explorer)](https://bscscan.com/address/0xE878bc2efA5961a515968F175568bc1AA6EE4C9F)
+* FUK-BNB: 0xe8d79DCc9B0B2285ac47EE9CCd4bE5925fB4B273 [(view explorer)](https://bscscan.com/address/0xe8d79DCc9B0B2285ac47EE9CCd4bE5925fB4B273)
+* GAL-BNB: 0x00ae3d7eC0D75D0423BEffBCC7b53DaDA6aB04e4 [(view explorer)](https://bscscan.com/address/0x00ae3d7eC0D75D0423BEffBCC7b53DaDA6aB04e4)
+* BJT-BNB: 0x51270eAF64D08b50858E385FA751e3C89cF27118 [(view explorer)](https://bscscan.com/address/0x51270eAF64D08b50858E385FA751e3C89cF27118)
+* MRBTC-BNB: 0x50A90CbCBfb896306cC29f6EFef89f528Cf88E30 [(view explorer)](https://bscscan.com/address/0x50A90CbCBfb896306cC29f6EFef89f528Cf88E30)
 {% endtab %}
 
 {% tab title="Moonriver" %}

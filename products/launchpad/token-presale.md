@@ -93,14 +93,14 @@ If you've already had a successful presale and want to distribute the rest of th
 
 {% tabs %}
 {% tab title="BSC (BEP-20)" %}
-[0x4a7FDf96fDBd1F7ef9892Dae34F47125D2A6AEB0](https://bscscan.com/address/0x4a7FDf96fDBd1F7ef9892Dae34F47125D2A6AEB0)
+0x4a7FDf96fDBd1F7ef9892Dae34F47125D2A6AEB0 [(view explorer)](https://bscscan.com/address/0x4a7FDf96fDBd1F7ef9892Dae34F47125D2A6AEB0)
 {% endtab %}
 
 {% tab title="Moonriver" %}
-[0x7b7b667905d6503cb9b47D1ceB8F71ae3A1Db3B9](https://moonriver.moonscan.io/address/0x7b7b667905d6503cb9b47D1ceB8F71ae3A1Db3B9)
+0x7b7b667905d6503cb9b47D1ceB8F71ae3A1Db3B9 [(view explorer)](https://moonriver.moonscan.io/address/0x7b7b667905d6503cb9b47D1ceB8F71ae3A1Db3B9)
 {% endtab %}
 
 {% tab title="Moonbeam" %}
-[0x6f4439eFF3f5872db1b5BFd41F75ca7574546097](https://blockscout.moonbeam.network/address/0x6f4439eFF3f5872db1b5BFd41F75ca7574546097)
+0x6f4439eFF3f5872db1b5BFd41F75ca7574546097 [(view explorer)](https://blockscout.moonbeam.network/address/0x6f4439eFF3f5872db1b5BFd41F75ca7574546097)
 {% endtab %}
 {% endtabs %}

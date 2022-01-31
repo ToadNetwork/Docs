@@ -13,17 +13,17 @@ coverY: 0
 
 {% tabs %}
 {% tab title="BSC (BEP-20)" %}
-[0x463e737d8f740395abf44f7aac2d9531d8d539e9](https://bscscan.com/token/0x463e737d8f740395abf44f7aac2d9531d8d539e9)
+0x463e737d8f740395abf44f7aac2d9531d8d539e9 [(view explorer)](https://bscscan.com/token/0x463e737d8f740395abf44f7aac2d9531d8d539e9)
 {% endtab %}
 
 {% tab title="Moonriver" %}
 Wrapped TOAD on Moonriver (There is only ever 1 TOAD):\
-[0x165dbb08de0476271714952c3c1f068693bd60d7](https://moonriver.moonscan.io/token/0x165dbb08de0476271714952c3c1f068693bd60d7)
+0x165dbb08de0476271714952c3c1f068693bd60d7 [(view explorer)](https://moonriver.moonscan.io/token/0x165dbb08de0476271714952c3c1f068693bd60d7)
 {% endtab %}
 
 {% tab title="Moonbeam" %}
 Wrapped TOAD on Moonbeam (There is only ever 1 TOAD):\
-[0xF480f38C366dAaC4305dC484b2Ad7a496FF00CeA](https://blockscout.moonbeam.network/tokens/0xF480f38C366dAaC4305dC484b2Ad7a496FF00CeA)
+0xF480f38C366dAaC4305dC484b2Ad7a496FF00CeA [(view explorer)](https://blockscout.moonbeam.network/tokens/0xF480f38C366dAaC4305dC484b2Ad7a496FF00CeA)
 {% endtab %}
 {% endtabs %}
 

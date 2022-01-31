@@ -71,8 +71,8 @@ An example for burning Pad with easy numbers. Say the circulating supply of PAD 
 
 {% tabs %}
 {% tab title="BSC (BEP-20)" %}
-* Gnosis Safe: [0x201B8b73E2D5F03606081e48205bB97306BEbd65](https://bscscan.com/address/0x201b8b73e2d5f03606081e48205bb97306bebd65)
-* Vault: [0x6bEee53eFa847ec426707693c83836E359E92609](https://bscscan.com/address/0x6beee53efa847ec426707693c83836e359e92609)
+* Gnosis Safe: 0x201B8b73E2D5F03606081e48205bB97306BEbd65 [(view explorer)](https://bscscan.com/address/0x201b8b73e2d5f03606081e48205bb97306bebd65)
+* Vault: 0x6bEee53eFa847ec426707693c83836E359E92609 [(view explorer)](https://bscscan.com/address/0x6beee53efa847ec426707693c83836e359e92609)
 {% endtab %}
 
 {% tab title="Moonriver" %}

@@ -13,15 +13,15 @@ coverY: -28.333333333333357
 
 {% tabs %}
 {% tab title="BSC (BEP-20)" %}
-[0xc0888d80ee0abf84563168b3182650c0addeb6d5](https://bscscan.com/token/0xc0888d80ee0abf84563168b3182650c0addeb6d5)
+0xc0888d80ee0abf84563168b3182650c0addeb6d5 [(view explorer)](https://bscscan.com/token/0xc0888d80ee0abf84563168b3182650c0addeb6d5)
 {% endtab %}
 
 {% tab title="Moonriver" %}
-[0x45488c50184ce2092756ba7cdf85731fd17e6f3d](https://moonriver.moonscan.io/token/0x45488c50184ce2092756ba7cdf85731fd17e6f3d)
+0x45488c50184ce2092756ba7cdf85731fd17e6f3d [(view explorer)](https://moonriver.moonscan.io/token/0x45488c50184ce2092756ba7cdf85731fd17e6f3d)
 {% endtab %}
 
 {% tab title="Moonbeam" %}
-[0x59193512877E2EC3bB27C178A8888Cfac62FB32D](https://blockscout.moonbeam.network/address/0x59193512877E2EC3bB27C178A8888Cfac62FB32D)
+0x59193512877E2EC3bB27C178A8888Cfac62FB32D [(view explorer)](https://blockscout.moonbeam.network/address/0x59193512877E2EC3bB27C178A8888Cfac62FB32D)
 {% endtab %}
 {% endtabs %}
 

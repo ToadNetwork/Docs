@@ -27,21 +27,21 @@ Tokens currently whitelisted:
 
 {% tabs %}
 {% tab title="BSC (BEP-20)" %}
-* **TOAD:** [0x463e737d8f740395abf44f7aac2d9531d8d539e9](https://bscscan.com/token/0x463e737d8f740395abf44f7aac2d9531d8d539e9)
-* **BNB:** [0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c](https://bscscan.com/token/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c)
-* **BUSD:** [0xe9e7cea3dedca5984780bafc599bd69add087d56](https://bscscan.com/token/0xe9e7cea3dedca5984780bafc599bd69add087d56)
+* **TOAD:** 0x463e737d8f740395abf44f7aac2d9531d8d539e9 [(view explorer)](https://bscscan.com/token/0x463e737d8f740395abf44f7aac2d9531d8d539e9)
+* **BNB:** 0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c [(view explorer)](https://bscscan.com/token/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c)
+* **BUSD:** 0xe9e7cea3dedca5984780bafc599bd69add087d56 [(view explorer)](https://bscscan.com/token/0xe9e7cea3dedca5984780bafc599bd69add087d56)
 {% endtab %}
 
 {% tab title="Moonriver" %}
-* **TOAD:** [0x165dbb08de0476271714952c3c1f068693bd60d7](https://moonriver.moonscan.io/token/0x165dbb08de0476271714952c3c1f068693bd60d7)
-* **BNB:** [0x2bf9b864cdc97b08b6d79ad4663e71b8ab65c45c](https://moonriver.moonscan.io/token/0x2bf9b864cdc97b08b6d79ad4663e71b8ab65c45c)
-* **BUSD:** [0x5d9ab5522c64e1f6ef5e3627eccc093f56167818](https://moonriver.moonscan.io/token/0x5d9ab5522c64e1f6ef5e3627eccc093f56167818)
+* **TOAD:** 0x165dbb08de0476271714952c3c1f068693bd60d7 [(view explorer)](https://moonriver.moonscan.io/token/0x165dbb08de0476271714952c3c1f068693bd60d7)
+* **BNB:** 0x2bf9b864cdc97b08b6d79ad4663e71b8ab65c45c [(view explorer)](https://moonriver.moonscan.io/token/0x2bf9b864cdc97b08b6d79ad4663e71b8ab65c45c)
+* **BUSD:** 0x5d9ab5522c64e1f6ef5e3627eccc093f56167818 [(view explorer)](https://moonriver.moonscan.io/token/0x5d9ab5522c64e1f6ef5e3627eccc093f56167818)
 {% endtab %}
 
 {% tab title="Moonbeam" %}
-* **TOAD:** [0xF480f38C366dAaC4305dC484b2Ad7a496FF00CeA](https://blockscout.moonbeam.network/tokens/0xF480f38C366dAaC4305dC484b2Ad7a496FF00CeA)
-* **BNB:** [0xc9BAA8cfdDe8E328787E29b4B078abf2DaDc2055](https://blockscout.moonbeam.network/tokens/0xc9BAA8cfdDe8E328787E29b4B078abf2DaDc2055)
-* **BUSD:** [0xA649325Aa7C5093d12D6F98EB4378deAe68CE23F](https://blockscout.moonbeam.network/tokens/0xA649325Aa7C5093d12D6F98EB4378deAe68CE23F)
+* **TOAD:** 0xF480f38C366dAaC4305dC484b2Ad7a496FF00CeA [(view explorer)](https://blockscout.moonbeam.network/tokens/0xF480f38C366dAaC4305dC484b2Ad7a496FF00CeA)
+* **BNB:** 0xc9BAA8cfdDe8E328787E29b4B078abf2DaDc2055 [(view explorer)](https://blockscout.moonbeam.network/tokens/0xc9BAA8cfdDe8E328787E29b4B078abf2DaDc2055)
+* **BUSD:** 0xA649325Aa7C5093d12D6F98EB4378deAe68CE23F [(view explorer)](https://blockscout.moonbeam.network/tokens/0xA649325Aa7C5093d12D6F98EB4378deAe68CE23F)
 {% endtab %}
 {% endtabs %}
 
