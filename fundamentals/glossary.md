@@ -174,6 +174,14 @@ Docs in progress
 Docs in progress
 {% endhint %}
 
+## Total Value Locked (TVL)
+
+Is used to measure the overall health of a DeFi market. Tokens supplied as liquidity in [#liquidity-pool](glossary.md#liquidity-pool "mention")s can be removed at any time. Staking in yield farms gives an incentive to leave the tokens in the liquidity pool. This can be done by providing rewards and also by incurring yield farm exit fees. This is referred to as "locking" the liquidity. The total value locked (TVL) on a yield farm is the total value staked in this yield farm.
+
+{% hint style="info" %}
+See also [#farming](glossary.md#farming "mention") and [#liquidity-pool](glossary.md#liquidity-pool "mention") to learn more.
+{% endhint %}
+
 ## Vesting
 
 {% hint style="info" %}
