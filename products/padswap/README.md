@@ -13,10 +13,6 @@ Use PADSwap to swap tokens
 
 [PADSwap](https://dapps.padswap.exchange) is a decentralized exchange (or DEX, for short). PADSwap is also multi-chain, currently on BSC, Moonriver and Moonbeam with more to come.
 
-{% hint style="info" %}
-Docs in progress
-{% endhint %}
-
 ![System Overview Written in a Fever Dream](<../../.gitbook/assets/TOAD PAD ECOSYSTEM MAP.jpg>)
 
 ## How does PADSwap compare to centralized exchanges?
@@ -39,26 +35,26 @@ On PADSwap anyone can use our swap, provide liquidity or stake in our farms. TOA
 
 ### Automated Market Maker (AMM)
 
-{% hint style="info" %}
-Docs in progress
-{% endhint %}
+Centralized exchanges usually use an [#order-book](../../fundamentals/glossary.md#order-book "mention") to facilitate trades. Buyers and sellers announce their interest in a trade and if bids and asks match, the trade is performed. The middle between buyers and sellers defines the price.
 
-With liquidity that is supplied by other users. This means that new projects can easily connect to their desired markets as long as some entity is willing to provide the liquidity.
+PADSwap uses a so called Automated Market Maker (AMM) to facilitate trades. At its core are the [liquidity-pools.md](liquidity-pools.md "mention") which replace the order book. Buyers and sellers no longer trade with each other but instead directly trade their assets with the pool. You can think of a liquidity pool as a vending machine which holds two items, e.g. apples and oranges. To get apples, you put oranges in and to get oranges you put apples in, trading one against the other. The ratio between two assets in a liquidity pool defines the exchange ratio (commonly referred to as price). If you take out apples, they become more scares. For you to get even more apples, you would need to supply more oranges per apples than you did before. The recalculation of the ratio takes place for every single asset leaving or entering the liquidity pool. Thus, for large trades (relative to the liquidity in the pool), the change in exchange ratio will also effect your trade, this is known as price impact. If the trades of others have a negative impact on your trade, this is referred to as [#slippage](../../fundamentals/glossary.md#slippage "mention"). Since the exchange ratio is defined by the pool, there are no buyers and sellers in the traditional sense. Given the vending machine example, you can probably see why the action of trading with a liquidity pool is referred to as swapping.&#x20;
+
+As long as there is liquidity in the pool, you can trade at any point in time. With the [dplp.md](../../fundamentals/dplp.md "mention"), PADSwap ensures that there is always an incentive for users to provide liquidity. This means that new projects can easily connect to their desired markets by using our [launchpad](../launchpad/ "mention") which provides them with a [DPLP farm](../farms/dplp-farms.md).
 
 ## How does PADSwap compare to other decentralized exchanges?
 
 ### On BSC
 
-|                                   |                        PADSwap                       |                       PancakeSwap                      |                               SushiSwap                              | 
-| --------------------------------- | :--------------------------------------------------: | :----------------------------------------------------: | :------------------------------------------------------------------: | 
-| Swap fee distribution             | <p>0.25% to LP providers<br>0.05% to PAD backing</p> | <p>0.17% to LP providers<br>0.03% to devs' pockets</p> |        <p>0.25% to LP providers<br>0.05% to SUSHI holders</p>        | 
-| Reward token tokenomics           |                     Capped supply                    |                    Infinitely minted                   |                             Capped supply                            | 
-| Reward token backing              |     Backed by the Vault of accumulated swap fees     |                          None                          |                                 None                                 | 
-| Multi-chain                       |               BSC, Moonriver, Moonbeam               |                        BSC only                        |                              Multi-chain                             | 
-| In-house cross-chain bridge       |                          Yes                         |                           No                           |                                  No                                  | 
-| Launchpad                         |                          Yes                         |                           No                           |                                  No                                  | 
-| Partner farms (earn other tokens) |                          Yes                         |        <p>Partially<br>(you must stake CAKE)</p>       | <p>Partially<br>(earning half in SUSHI and half in other tokens)</p> | 
-| LP as staking reward              |                          Yes                         |                           No                           |                                  No                                  | 
+|                                   |                        PADSwap                       |                       PancakeSwap                      |                               SushiSwap                              |
+| --------------------------------- | :--------------------------------------------------: | :----------------------------------------------------: | :------------------------------------------------------------------: |
+| Swap fee distribution             | <p>0.25% to LP providers<br>0.05% to PAD backing</p> | <p>0.17% to LP providers<br>0.03% to devs' pockets</p> |        <p>0.25% to LP providers<br>0.05% to SUSHI holders</p>        |
+| Reward token tokenomics           |                     Capped supply                    |                    Infinitely minted                   |                             Capped supply                            |
+| Reward token backing              |     Backed by the Vault of accumulated swap fees     |                          None                          |                                 None                                 |
+| Multi-chain                       |               BSC, Moonriver, Moonbeam               |                        BSC only                        |                              Multi-chain                             |
+| In-house cross-chain bridge       |                          Yes                         |                           No                           |                                  No                                  |
+| Launchpad                         |                          Yes                         |                           No                           |                                  No                                  |
+| Partner farms (earn other tokens) |                          Yes                         |        <p>Partially<br>(you must stake CAKE)</p>       | <p>Partially<br>(earning half in SUSHI and half in other tokens)</p> |
+| LP as staking reward              |                          Yes                         |                           No                           |                                  No                                  |
 
 ### On Moonbeam
 
