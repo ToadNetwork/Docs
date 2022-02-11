@@ -149,7 +149,7 @@ See also [#backing](glossary.md#backing "mention"), which is a similar concept.
 
 ## Price Impact
 
-In&#x20;
+In an [#automated-market-maker-amm](../products/padswap/#automated-market-maker-amm "mention"), swapping assets changes the ratio in a liquidity pool which results in a change in the exchange rate. This recalculation of the exchange rate is done for every unit of the underlying assets. Price impact is when your effective exchange rate is increased by your own trade.
 
 ## Rug Pulling
 
