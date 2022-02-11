@@ -6,10 +6,6 @@ description: >-
 
 # 📚 Glossary
 
-{% hint style="info" %}
-Docs in progress
-{% endhint %}
-
 ## Annual Percentage Yield (APY)
 
 The rate of return earned on an investment, taking into account the effect of compounding interest. Compounding with respect to [farms](../products/farms/ "mention") means, that your rewards will increase when you reinvest your received rewards.
@@ -23,6 +19,10 @@ You will only receive the shown APY if you always reinvest. The APY does not tak
 {% hint style="info" %}
 Docs in progress
 {% endhint %}
+
+## ATH / ATL
+
+The all time high (ATH) and all time low (ATL) is referring to the time points where a token had the highest or lowest recorded price.
 
 ## Automated Market Maker (AMM)
 
@@ -57,6 +57,14 @@ There are several reasons to burn tokens:
 Docs in progress
 {% endhint %}
 
+## DCA
+
+Dollar-Cost Averaging (DCA) — a common term in crypto, referring to an investment strategy.
+Instead of trying to predict when/if the market is up or down and buying accordingly, the DCA strategy suggest to simply split your investment into smaller investments which you perform over time independent of the current market conditions.
+By doing so, you will most likely not get the best price but you will get an average price.
+With the volatility of crypto this can be a good strategy to reduce regret of having missed the ATL or having bought at an ATH.
+If someone suggests you to DCA down, they mean that you should frequently buy smaller portions while the price of a token is on a downwards trend instead of gambling on hitting the lowest point.
+
 ## Deflationary Token
 
 Token with decreasing circulating supply.
@@ -73,7 +81,7 @@ Docs in progress
 
 ## DYOR
 
-Do your own research - a common term in crypto, prompting others to form their own view on a crypto project.
+Do your own research — a common term in crypto, prompting others to form their own view on a crypto project.
 
 ## Farming
 
@@ -107,7 +115,7 @@ Docs in progress
 
 ## KYC
 
-Know Your Customer - process of customer identity verification. This is a common process in finance and also in the crypto space to prevent illegal activities or to avoid liability for customer's activities.
+Know Your Customer — process of customer identity verification. This is a common process in finance and also in the crypto space to prevent illegal activities or to avoid liability for customer's activities.
 
 ## Liquidity Pool
 
@@ -118,6 +126,12 @@ Please read the linked page to understand what a liquidity pool is:
 {% endcontent-ref %}
 
 ## Locking
+
+{% hint style="info" %}
+Docs in progress
+{% endhint %}
+
+## Market Cap
 
 {% hint style="info" %}
 Docs in progress
@@ -141,7 +155,7 @@ An order book records the interest of buyers and sellers. They respectively can 
 
 ## Pegging
 
-If the price of one asset is bound to the price of another asset(s).
+The price of one asset being bound to the price of another asset(s).
 
 Stable coins like BUSD are one example of pegging. Since BUSD is pegged by USD, you expect 1 BUSD will always have the same value as 1 USD.
 
@@ -151,6 +165,12 @@ See also [#backing](glossary.md#backing "mention"), which is a similar concept.
 
 In an [#automated-market-maker-amm](../products/padswap/#automated-market-maker-amm "mention"), swapping assets changes the ratio in a liquidity pool which results in a change in the exchange rate. This recalculation of the exchange rate is done for every unit of the underlying assets. Price impact is when your effective exchange rate is increased by your own trade.
 
+## Reflections
+
+{% hint style="info" %}
+Docs in progress
+{% endhint %}
+
 ## Rug Pulling
 
 If someone takes away important support of a project, this is known as rug pulling. This can make a token worthless due to a severe price reduction or by removing the ability to sell.
@@ -158,7 +178,7 @@ If someone takes away important support of a project, this is known as rug pulli
 There are many forms of rug pulling, e.g.:
 
 1. Removing large portions of a liquidity pool, which removes the ability to sell.
-2. Selling high percentages of the circulating token supply in a short period of time, which drastically reduces the token price.
+2. Selling high percentages of the circulating token supply in a short period, which drastically reduces the token price.
 
 ## Slippage
 
@@ -174,15 +194,16 @@ When trading fails, people are quick to suggest setting a high slippage. In most
 
 ## Staking
 
-If you put your tokens into a pool (e.g. a farm) then you effectively own a share of that pool. In other words, you have a stake in the pool. The process of you suppling your tokens to the pool is therefore called staking.
+If you put your tokens into a pool (e.g. a farm), then you effectively own a share of that pool. In other words, you have a stake in the pool. The process of you supplying your tokens to the pool is therefore called staking.
 
 See also [#farming](glossary.md#farming "mention").
 
 ## Tokenomics
 
-{% hint style="info" %}
-Docs in progress
-{% endhint %}
+Tokenomics is a wordplay on token and economics. 
+It usually refers to different properties and mechanics of a token.
+Properties can things like a max supply.
+Mechanics can be things like sell, buy or transaction taxes, reflections or minter functionalities.
 
 ## Total Supply
 
