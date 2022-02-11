@@ -14,7 +14,7 @@ Head to the [token factory on PADSwap](https://padswap.exchange/tokenfactory), c
 
 ## Step 1: Navigate to the Token Factory on PADSwap
 
-First you have to navigate to the token factory trough the following link:
+First you have to navigate to the token factory through the following link:
 
 {% embed url="https://padswap.exchange/tokenfactory" %}
 Deploy token contract via PADSwaps token factory.
@@ -28,7 +28,7 @@ Docs in progress.
 
 ## Step 3: Navigate to the Presale Form on PADSwap
 
-You have to navigate to the presale form trough the following link:
+You have to navigate to the presale form through the following link:
 
 {% embed url="https://padswap.exchange/launch" %}
 Launch your own token on PADSwap via a presale.

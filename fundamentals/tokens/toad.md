@@ -9,7 +9,7 @@ coverY: 0
 | ------------- | ----------------------------------------------- |
 | Symbol/Ticker | ![](../../.gitbook/assets/TOAD.symbol.svg) TOAD |
 
-## Contracts
+## $TOAD Contracts
 
 {% tabs %}
 {% tab title="BSC (BEP-20)" %}

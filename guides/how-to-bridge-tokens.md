@@ -16,7 +16,7 @@ Head to the bridge on PADSwap, select the chains you want to bridge and the toke
 
 ## Step 1: Navigate to Bridge on PADSwap
 
-First you have to navigate to the bridge on the PADSwap platform trough the following link:
+First you have to navigate to the bridge on the PADSwap platform through the following link:
 
 {% embed url="https://dapps.padswap.exchange/bridge" %}
 Bridge tokens from one chain to another on PADSwap

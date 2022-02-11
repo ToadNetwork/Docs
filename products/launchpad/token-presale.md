@@ -1,5 +1,5 @@
 ---
-description: Use our presale systems to invest in your favorit project or to launch your token on PADSwap.
+description: Use our presale systems to invest in your favorite project or to launch your token on PADSwap.
 cover: ../../.gitbook/assets/LaunchPAD_NEW.png
 coverY: 0
 ---
@@ -89,7 +89,7 @@ If your presale failed or was cancelled, you can try again as many times as you 
 If you've already had a successful presale and want to distribute the rest of the supply, our [auctions.md](../auctions.md "mention") are made just for that.
 {% endhint %}
 
-## Contracts
+## LaunchPAD Presale Contracts
 
 {% tabs %}
 {% tab title="BSC (BEP-20)" %}

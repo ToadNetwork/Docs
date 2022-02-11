@@ -41,7 +41,7 @@ When you stake, reinvest or unstake your LP tokens in a PAD farm, you pay a 1% f
 
 The 'unstake' fee functions as a form of soft locking. It incentivizes you to keep your LP tokens staked for longer periods of time and therefore locking liquidity. But you are always free to withdraw your funds. See also our notes on [#no-vesting-less-risk](./#no-vesting-less-risk "mention").
 
-## Contracts
+## PAD Farm Contracts
 
 {% tabs %}
 {% tab title="BSC (BEP-20)" %}

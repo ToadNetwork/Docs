@@ -9,7 +9,7 @@ coverY: -28.333333333333357
 | ------------- | --------------------------------------------- |
 | Symbol/Ticker | ![](../../.gitbook/assets/PAD.symbol.svg) PAD |
 
-## Contracts
+## $PAD Contracts
 
 {% tabs %}
 {% tab title="BSC (BEP-20)" %}

@@ -14,7 +14,7 @@ Head to the [swap on PADSwap](https://padswap.exchange/#/swap), connect your wal
 
 ## Step 1: Navigate to the Swap on PADSwap
 
-First you have to navigate to the PADSwap platform trough the following link:
+First you have to navigate to the PADSwap platform through the following link:
 
 {% embed url="https://padswap.exchange/swap" %}
 Swap tokens on PADSwap

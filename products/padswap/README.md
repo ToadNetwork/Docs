@@ -74,7 +74,7 @@ With liquidity that is supplied by other users. This means that new projects can
 | LP as staking reward        |                          Yes                         |                                                   |                                                  |               |                                                  |                                                |                                                |               |
 | Solo Staking $GLMR          |                          Yes                         |                        Yes                        |                        Yes                       |      Yes      |                                                  |                       Yes                      |                       Yes                      |               |
 
-## Contracts
+## PADSwap Router and Factory Contracts
 
 {% tabs %}
 {% tab title="BSC (BEP-20)" %}

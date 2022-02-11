@@ -32,7 +32,7 @@ We will soon deploy it for BSC and Moonbeam as well.
 We are also working on a fully automatic system which integrates the token presale.
 {% endhint %}
 
-## Contracts
+## LaunchPAD Token Factory Contracts
 
 {% tabs %}
 {% tab title="BSC (BEP-20)" %}

@@ -19,12 +19,12 @@ We are working on a way for you to differentiate between tokens deployed via our
 {% hint style="success" %}
 **TL;DR**
 
-Head to the [LaunchPAD on PADSwap](https://padswap.exchange/launchpad), connect your wallet, select your favorit project and participate in the presale.
+Head to the [LaunchPAD on PADSwap](https://padswap.exchange/launchpad), connect your wallet, select your favorite project and participate in the presale.
 {% endhint %}
 
 ## Step 1: Navigate to the LaunchPAD on PADSwap
 
-First you have to navigate to the LaunchPAD platform trough the following link:
+First you have to navigate to the LaunchPAD platform through the following link:
 
 {% embed url="https://padswap.exchange/launchpad" %}
 Buy your favorite projects' token during their presale.

@@ -37,7 +37,7 @@ Rewards are not actively distributed and instead stay in the pool until they are
 Docs in progress
 {% endhint %}
 
-## Contracts
+## Partner Farms Contracts
 
 {% tabs %}
 {% tab title="BSC (BEP-20)" %}
