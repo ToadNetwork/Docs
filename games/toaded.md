@@ -1,12 +1,8 @@
-# 🃏 MEME Guardians (soon)
-
-{% hint style="info" %}
-Coming soon! TM
-{% endhint %}
+# 🃏 MEME Guardians
 
 ## Meme Guardians
 
-Free-to-play, community-driven roguelike RPG\
+Free-to-play, community-driven roguelike RPG with NFT integration\
 \
 [https://meme-guardians.com/](https://meme-guardians.com)\
 [https://meme-guardians.com/faq/](https://meme-guardians.com/faq/)
