@@ -23,7 +23,7 @@ Wrapped TOAD on Moonriver (There is only ever 1 TOAD):\
 
 {% tab title="Moonbeam" %}
 Wrapped TOAD on Moonbeam (There is only ever 1 TOAD):\
-0xF480f38C366dAaC4305dC484b2Ad7a496FF00CeA [(view explorer)](https://blockscout.moonbeam.network/tokens/0xF480f38C366dAaC4305dC484b2Ad7a496FF00CeA)
+0xF480f38C366dAaC4305dC484b2Ad7a496FF00CeA [(view explorer)](https://moonscan.io/address/0xF480f38C366dAaC4305dC484b2Ad7a496FF00CeA)
 {% endtab %}
 {% endtabs %}
 

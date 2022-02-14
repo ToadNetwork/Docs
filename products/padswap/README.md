@@ -84,7 +84,7 @@ As long as there is liquidity in the pool, you can trade at any point in time. W
 {% endtab %}
 
 {% tab title="Moonbeam" %}
-* Router: 0x40F1fEF0Fe68Fd10ff904070ee00a7769EE7fe34 [(view explorer)](https://blockscout.moonbeam.network/address/0x40F1fEF0Fe68Fd10ff904070ee00a7769EE7fe34)
-* Factory: 0x663a07a2648296f1A3C02EE86A126fE1407888E5 [(view explorer)](https://blockscout.moonbeam.network/address/0x663a07a2648296f1A3C02EE86A126fE1407888E5)
+* Router: 0x40F1fEF0Fe68Fd10ff904070ee00a7769EE7fe34 [(view explorer)](https://moonscan.io/address/0x40F1fEF0Fe68Fd10ff904070ee00a7769EE7fe34)
+* Factory: 0x663a07a2648296f1A3C02EE86A126fE1407888E5 [(view explorer)](https://moonscan.io/address/0x663a07a2648296f1A3C02EE86A126fE1407888E5)
 {% endtab %}
 {% endtabs %}

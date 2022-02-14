@@ -21,7 +21,7 @@ coverY: -28.333333333333357
 {% endtab %}
 
 {% tab title="Moonbeam" %}
-0x59193512877E2EC3bB27C178A8888Cfac62FB32D [(view explorer)](https://blockscout.moonbeam.network/address/0x59193512877E2EC3bB27C178A8888Cfac62FB32D)
+0x59193512877E2EC3bB27C178A8888Cfac62FB32D [(view explorer)](https://moonscan.io/address/0x59193512877E2EC3bB27C178A8888Cfac62FB32D)
 {% endtab %}
 {% endtabs %}
 
@@ -137,7 +137,7 @@ Docs in progress
 
 {% tab title="Moonbeam" %}
 * **Launch Date:** January 11, 2022 07:12:42 PM (UTC)
-* **Pre-mint:** [20B](https://blockscout.moonbeam.network/tx/0x101207fe1e1f889f7b1212b786c25f60e4721143d41dc45597c46cdc2db5d5b7/token-transfers)
+* **Pre-mint:** [20B](https://moonscan.io/tx/0x101207fe1e1f889f7b1212b786c25f60e4721143d41dc45597c46cdc2db5d5b7)
 * **Fair Launch:** No dev / team tokens at launch
 * **Presale:**
   * Hardcap: 6000 GLMR

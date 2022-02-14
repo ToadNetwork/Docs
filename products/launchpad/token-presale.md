@@ -101,6 +101,6 @@ If you've already had a successful presale and want to distribute the rest of th
 {% endtab %}
 
 {% tab title="Moonbeam" %}
-0x6f4439eFF3f5872db1b5BFd41F75ca7574546097 [(view explorer)](https://blockscout.moonbeam.network/address/0x6f4439eFF3f5872db1b5BFd41F75ca7574546097)
+0x6f4439eFF3f5872db1b5BFd41F75ca7574546097 [(view explorer)](https://moonscan.io/address/0x6f4439eFF3f5872db1b5BFd41F75ca7574546097)
 {% endtab %}
 {% endtabs %}

@@ -39,9 +39,9 @@ Tokens currently whitelisted:
 {% endtab %}
 
 {% tab title="Moonbeam" %}
-* **TOAD:** 0xF480f38C366dAaC4305dC484b2Ad7a496FF00CeA [(view explorer)](https://blockscout.moonbeam.network/tokens/0xF480f38C366dAaC4305dC484b2Ad7a496FF00CeA)
-* **BNB:** 0xc9BAA8cfdDe8E328787E29b4B078abf2DaDc2055 [(view explorer)](https://blockscout.moonbeam.network/tokens/0xc9BAA8cfdDe8E328787E29b4B078abf2DaDc2055)
-* **BUSD:** 0xA649325Aa7C5093d12D6F98EB4378deAe68CE23F [(view explorer)](https://blockscout.moonbeam.network/tokens/0xA649325Aa7C5093d12D6F98EB4378deAe68CE23F)
+* **TOAD:** 0xF480f38C366dAaC4305dC484b2Ad7a496FF00CeA [(view explorer)](https://moonscan.io/address/0xF480f38C366dAaC4305dC484b2Ad7a496FF00CeA)
+* **BNB:** 0xc9BAA8cfdDe8E328787E29b4B078abf2DaDc2055 [(view explorer)](https://moonscan.io/address/0xc9BAA8cfdDe8E328787E29b4B078abf2DaDc2055)
+* **BUSD:** 0xA649325Aa7C5093d12D6F98EB4378deAe68CE23F [(view explorer)](https://moonscan.io/address/0xA649325Aa7C5093d12D6F98EB4378deAe68CE23F)
 {% endtab %}
 {% endtabs %}
 

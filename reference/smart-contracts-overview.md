@@ -14,8 +14,8 @@
 {% endtab %}
 
 {% tab title="Moonbeam" %}
-* Router: 0x40F1fEF0Fe68Fd10ff904070ee00a7769EE7fe34 [(view explorer)](https://blockscout.moonbeam.network/address/0x40F1fEF0Fe68Fd10ff904070ee00a7769EE7fe34)
-* Factory: 0x663a07a2648296f1A3C02EE86A126fE1407888E5 [(view explorer)](https://blockscout.moonbeam.network/address/0x663a07a2648296f1A3C02EE86A126fE1407888E5)
+* Router: 0x40F1fEF0Fe68Fd10ff904070ee00a7769EE7fe34 [(view explorer)](https://moonscan.io/address/0x40F1fEF0Fe68Fd10ff904070ee00a7769EE7fe34)
+* Factory: 0x663a07a2648296f1A3C02EE86A126fE1407888E5 [(view explorer)](https://moonscan.io/address/0x663a07a2648296f1A3C02EE86A126fE1407888E5)
 {% endtab %}
 {% endtabs %}
 
@@ -79,7 +79,7 @@ You can also find all the LaunchPAD token factory contract addresses in the [#co
 {% endtab %}
 
 {% tab title="Moonbeam" %}
-0x6f4439eFF3f5872db1b5BFd41F75ca7574546097 [(view explorer)](https://blockscout.moonbeam.network/address/0x6f4439eFF3f5872db1b5BFd41F75ca7574546097)
+0x6f4439eFF3f5872db1b5BFd41F75ca7574546097 [(view explorer)](https://moonscan.io/address/0x6f4439eFF3f5872db1b5BFd41F75ca7574546097)
 {% endtab %}
 {% endtabs %}
 
@@ -99,7 +99,7 @@ Wrapped TOAD on Moonriver (There is only ever 1 TOAD):\
 
 {% tab title="Moonbeam" %}
 Wrapped TOAD on Moonbeam (There is only ever 1 TOAD):\
-0xF480f38C366dAaC4305dC484b2Ad7a496FF00CeA [(view explorer)](https://blockscout.moonbeam.network/tokens/0xF480f38C366dAaC4305dC484b2Ad7a496FF00CeA)
+0xF480f38C366dAaC4305dC484b2Ad7a496FF00CeA [(view explorer)](https://moonscan.io/address/0xF480f38C366dAaC4305dC484b2Ad7a496FF00CeA)
 {% endtab %}
 {% endtabs %}
 
@@ -117,7 +117,7 @@ You can also find all $TOAD contract addresses in the [#contracts](../fundamenta
 {% endtab %}
 
 {% tab title="Moonbeam" %}
-0x59193512877E2EC3bB27C178A8888Cfac62FB32D [(view explorer)](https://blockscout.moonbeam.network/address/0x59193512877E2EC3bB27C178A8888Cfac62FB32D)
+0x59193512877E2EC3bB27C178A8888Cfac62FB32D [(view explorer)](https://moonscan.io/address/0x59193512877E2EC3bB27C178A8888Cfac62FB32D)
 {% endtab %}
 {% endtabs %}
 
