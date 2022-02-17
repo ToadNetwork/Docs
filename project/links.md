@@ -14,6 +14,7 @@ coverY: 0
 * [GitHub](https://github.com/ToadNetwork)
 * [YouTube](https://www.youtube.com/channel/UCI\_vUc-HrJWtKXj-Re-hTSw)
 * [Linktree](https://linktr.ee/TOAD.Network)
+* [Marketing Multisig Wallet](https://padswap.exchange/donate)
 
 ## Audits
 

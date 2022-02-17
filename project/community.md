@@ -21,4 +21,6 @@ We encourage contributions in terms of community engagement and marketing e.g. i
 
 You can also help us improve our documentation to better explain the TOAD.Network ecosystem by suggesting improvements in our [Discord](https://discord.gg/hTQ4z4Zn9p) group or even by directly contributing changes to the [docs GitHub repository](https://github.com/ToadNetwork/Docs).
 
+If you wish to help us promote TOAD, you can donate to the [multisig wallet](https://padswap.exchange/donate) managed by our marketing team.
+
 While major structural changes are voted on by the community, the day-to-day operations, rebalancing of pools and ratios, business strategy, and overall development is ultimately decided on by the [Core Team](team.md).
