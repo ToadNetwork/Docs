@@ -82,8 +82,23 @@ The 'unstake' fee functions as a form of soft locking. It incentivizes you to ke
 {% endtab %}
 
 {% tab title="Moonbeam" %}
-{% hint style="info" %}
-Docs in progress
-{% endhint %}
+* Pad: 0x8597caE71536655B2B2bed008C5Ee1B8D412E3eC [(view explorer)](https://moonscan.io/address/0x8597caE71536655B2B2bed008C5Ee1B8D412E3eC)
+* Toad: 0x2AfFDf2dCf47a9D16155A87992Ba79b88e6AA770 [(view explorer)](https://moonscan.io/address/0x2AfFDf2dCf47a9D16155A87992Ba79b88e6AA770)
+* WGLMR 0x3ec74Cf5F69efa0778c1aB98AeA31BC54d579518 [(view explorer)](https://moonscan.io/address/0x3ec74Cf5F69efa0778c1aB98AeA31BC54d579518)
+* AVAX-WGLMR: 0xf34574cC8C60db71e9b57aFD1B03503a060E4c85 [(view explorer)](https://moonscan.io/address/0xf34574cC8C60db71e9b57aFD1B03503a060E4c85)
+* BUSD-BNB 0xC13cF29b7d07471527dEf097b31f4ccFAb1de18C [(view explorer)](https://moonscan.io/address/0xC13cF29b7d07471527dEf097b31f4ccFAb1de18C)
+* BUSD-TOAD: 0xdc8aFfc2B45Ff86b17ab430a90eaa8053AFEC79d [(view explorer)](https://moonscan.io/address/0xdc8aFfc2B45Ff86b17ab430a90eaa8053AFEC79d)
+* BUSD-WGLMR: 0xf617c077D1C47429366f08f3E99a6dc6448F1047 [(view explorer)](https://moonscan.io/address/0xf617c077D1C47429366f08f3E99a6dc6448F1047)
+* PAD-TOAD: 0x4f738bE7f861645d1B001E152796E4508781225E [(view explorer)](https://moonscan.io/address/0x4f738bE7f861645d1B001E152796E4508781225E)
+* PAD-USDC: 0x4d86dae4E6b2cce94c1C2Cb371529B4B98443c7e [(view explorer)](https://moonscan.io/address/0x4d86dae4E6b2cce94c1C2Cb371529B4B98443c7e)
+* PAD-USDT: 0x7a06dbaE8666e7DbdCf26A37be020dfedC782176 [(view explorer)](https://moonscan.io/address/0x7a06dbaE8666e7DbdCf26A37be020dfedC782176)
+* PAD-WGLMR: 0xb54229144504FC3FC916820eBd69Efc5BB897188 [(view explorer)](https://moonscan.io/address/0xb54229144504FC3FC916820eBd69Efc5BB897188)
+* USDC-BUSD: 0xB695FDACF48d3038AAAe419DF597Fa8089cc2939 [(view explorer)](https://moonscan.io/address/0xB695FDACF48d3038AAAe419DF597Fa8089cc2939)
+* USDC-TOAD: 0x7E24C2785a76086D3bC1e8E2878a55e0B3Fc3b57 [(view explorer)](https://moonscan.io/address/0x7E24C2785a76086D3bC1e8E2878a55e0B3Fc3b57)
+* USDC-WGLMR: 0xc2092b6dF7fc766D6A4C7bBFaEE14695B2e0fbDa [(view explorer)](https://moonscan.io/address/0xc2092b6dF7fc766D6A4C7bBFaEE14695B2e0fbDa)
+* USDT-USDC: 0x45488C50184Ce2092756ba7CdF85731fD17e6f3d [(view explorer)](https://moonscan.io/address/0x45488C50184Ce2092756ba7CdF85731fD17e6f3d)
+* USDT-WGLMR: 0x603b8a9E84e7E2c715f423CBd488125647C8022b [(view explorer)](https://moonscan.io/address/0x603b8a9E84e7E2c715f423CBd488125647C8022b)
+* WGLMR-ETH: 0x7D17A9a892Ad5ED16214805678F2581D88a58Ba1 [(view explorer)](https://moonscan.io/address/0x7D17A9a892Ad5ED16214805678F2581D88a58Ba1)
+* WGLMR-TOAD: 0xeee6BA4189E33D4339e99b12913c581Ec99ec665 [(view explorer)](https://moonscan.io/address/0xeee6BA4189E33D4339e99b12913c581Ec99ec665)
 {% endtab %}
 {% endtabs %}

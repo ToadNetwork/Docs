@@ -73,6 +73,7 @@ Docs in progress
 {% endtab %}
 
 {% tab title="Moonbeam" %}
+* WGLMR-TOAD: 0xcc95d3C739497BBe739D0232D0446aB573d3c3A5 [(view explorer)](https://moonscan.io/address/0xcc95d3C739497BBe739D0232D0446aB573d3c3A5)
 {% hint style="info" %}
 Docs in progress
 {% endhint %}
