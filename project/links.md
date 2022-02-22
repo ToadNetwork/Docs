@@ -52,3 +52,5 @@ coverY: 0
   [https://toadguy.medium.com/a-letter-to-the-community-8be0116b6e9](https://toadguy.medium.com/a-letter-to-the-community-8be0116b6e9)
 * Creation of PADSwap and The Vault by Snake\
   [https://medium.com/@SnakePlisken/hi-im-pad-4b06686c8508](https://medium.com/@SnakePlisken/hi-im-pad-4b06686c8508)
+* The Foundation: A Year of TOAD\
+  [https://medium.com/@SnakePlisken/the-foundation-a-year-of-toad-a6dc9447ee35](https://medium.com/@SnakePlisken/the-foundation-a-year-of-toad-a6dc9447ee35)
