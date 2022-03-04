@@ -11,7 +11,7 @@ coverY: 0
 * [TOAD.Network](https://toad.network)
 * [PADSwap.exchange](https://padswap.exchange/#/swap)
 * [Announcements on Telegram](https://t.me/TOADnPAD)
-* [GitHub](https://github.com/ToadNetwork)
+* [GitHub](https://github.com/ToadNetwork) *(Most of the code is maintained in private repositories right now)*
 * [YouTube](https://www.youtube.com/channel/UCI\_vUc-HrJWtKXj-Re-hTSw)
 * [Linktree](https://linktr.ee/TOAD.Network)
 * [Marketing Multisig Wallet](https://padswap.exchange/donate)
