@@ -9,22 +9,6 @@ coverY: -28.333333333333357
 | ------------- | --------------------------------------------- |
 | Symbol/Ticker | ![](../../.gitbook/assets/PAD.symbol.svg) PAD |
 
-## $PAD Contracts
-
-{% tabs %}
-{% tab title="BSC (BEP-20)" %}
-0xc0888d80ee0abf84563168b3182650c0addeb6d5 [(view explorer)](https://bscscan.com/token/0xc0888d80ee0abf84563168b3182650c0addeb6d5)
-{% endtab %}
-
-{% tab title="Moonriver" %}
-0x45488c50184ce2092756ba7cdf85731fd17e6f3d [(view explorer)](https://moonriver.moonscan.io/token/0x45488c50184ce2092756ba7cdf85731fd17e6f3d)
-{% endtab %}
-
-{% tab title="Moonbeam" %}
-0x59193512877E2EC3bB27C178A8888Cfac62FB32D [(view explorer)](https://moonscan.io/address/0x59193512877E2EC3bB27C178A8888Cfac62FB32D)
-{% endtab %}
-{% endtabs %}
-
 ## Usage
 
 PAD is the native token of PADSwap. It acts as basis of many farms, is used as staking reward in PAD farms and provides a share for development funds.

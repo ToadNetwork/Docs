@@ -66,24 +66,3 @@ $$
 This function will be executed for all tokens in the vault $$V$$.
 
 An example for burning Pad with easy numbers. Say the circulating supply of PAD is 100 PAD and you are holding 1 PAD which you want to burn, then you will get 1% (1/100) of all tokens in the Vault at that time. If there were 100 TOAD, 1 BTC, 10 ETH, and 1000 BUSD, you would get 1 Toad, 0.01 BTC, 0.1 ETH and 10 BUSD (ignoring transaction fees). The supply of PAD will be forever reduced to 99 and all future fees and value in the vault is now shared among fewer PAD tokens.
-
-## The Vault Contracts
-
-{% tabs %}
-{% tab title="BSC (BEP-20)" %}
-* Gnosis Safe: 0x201B8b73E2D5F03606081e48205bB97306BEbd65 [(view explorer)](https://bscscan.com/address/0x201b8b73e2d5f03606081e48205bb97306bebd65)
-* Vault: 0x6bEee53eFa847ec426707693c83836E359E92609 [(view explorer)](https://bscscan.com/address/0x6beee53efa847ec426707693c83836e359e92609)
-{% endtab %}
-
-{% tab title="Moonriver" %}
-{% hint style="info" %}
-Docs in progress
-{% endhint %}
-{% endtab %}
-
-{% tab title="Moonbeam" %}
-{% hint style="info" %}
-Docs in progress
-{% endhint %}
-{% endtab %}
-{% endtabs %}

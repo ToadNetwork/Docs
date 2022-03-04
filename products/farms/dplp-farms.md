@@ -51,31 +51,3 @@ Rewards are not actively distributed and instead stay in the pool until they are
 When you stake, reinvest or unstake your LP tokens in a DPLP farm, you pay a 10% fee. From that 10%, 7.5% of the LP tokens are returned to the reward pool and 2.5% of the LP tokens are sent to [the-vault.md](../../fundamentals/the-vault.md "mention") as backing for [pad.md](../../fundamentals/tokens/pad.md "mention"). Harvesting your LP tokens does not incur a fee (except transaction fees).
 
 The 'unstake' fee functions as a form of soft locking. It incentivizes you to keep your LP tokens staked for longer periods of time and therefore locking liquidity. But you are always free to withdraw your funds. See also our notes on [#no-vesting-less-risk](./#no-vesting-less-risk "mention").
-
-## DPLP Farm Contracts
-
-{% tabs %}
-{% tab title="BSC (BEP-20)" %}
-* BJT-BNB: 0x51270eAF64D08b50858E385FA751e3C89cF27118 [(view explorer)](https://bscscan.com/address/0x51270eAF64D08b50858E385FA751e3C89cF27118)
-* CZATS-BNB: 0x73F41FB2121D4810316ba28f5fDC2EE07db28A1D [(view explorer)](https://bscscan.com/address/0x73F41FB2121D4810316ba28f5fDC2EE07db28A1D)
-* FUK-BNB: 0xe8d79DCc9B0B2285ac47EE9CCd4bE5925fB4B273 [(view explorer)](https://bscscan.com/address/0xe8d79DCc9B0B2285ac47EE9CCd4bE5925fB4B273)
-* GAL-BNB: 0x00ae3d7eC0D75D0423BEffBCC7b53DaDA6aB04e4 [(view explorer)](https://bscscan.com/address/0x00ae3d7eC0D75D0423BEffBCC7b53DaDA6aB04e4)
-* KISH-BNB: 0xe70e0aBDa4FE7A744cCbCd8Ee5E7336477349555 [(view explorer)](https://bscscan.com/address/0xe70e0aBDa4FE7A744cCbCd8Ee5E7336477349555)
-* MRBTC-BNB: 0x50A90CbCBfb896306cC29f6EFef89f528Cf88E30 [(view explorer)](https://bscscan.com/address/0x50A90CbCBfb896306cC29f6EFef89f528Cf88E30)
-* PAD-TOAD: 0x816ed1589b7783d7DD820bA4ebDef5899515dC76 [(view explorer)](https://bscscan.com/address/0x816ed1589b7783d7DD820bA4ebDef5899515dC76)
-* PXBSC-BNB: 0xE878bc2efA5961a515968F175568bc1AA6EE4C9F [(view explorer)](https://bscscan.com/address/0xE878bc2efA5961a515968F175568bc1AA6EE4C9F)
-{% endtab %}
-
-{% tab title="Moonriver" %}
-{% hint style="info" %}
-Docs in progress
-{% endhint %}
-{% endtab %}
-
-{% tab title="Moonbeam" %}
-* WGLMR-TOAD: 0xcc95d3C739497BBe739D0232D0446aB573d3c3A5 [(view explorer)](https://moonscan.io/address/0xcc95d3C739497BBe739D0232D0446aB573d3c3A5)
-{% hint style="info" %}
-Docs in progress
-{% endhint %}
-{% endtab %}
-{% endtabs %}

@@ -36,25 +36,3 @@ Rewards are not actively distributed and instead stay in the pool until they are
 When you stake, reinvest or unstake your LP tokens in a TOAD farm, you pay a 10% fee. From that 10%, 9% of the LP tokens are returned to the reward pool and 1% of the LP tokens burned. Harvesting your LP tokens does not incur a fee (except transaction fees).
 
 The 'unstake' fee functions as a form of soft locking. It incentivizes you to keep your LP tokens staked for longer periods of time and therefore locking liquidity. But you are always free to withdraw your funds. See also our notes on [#no-vesting-less-risk](./#no-vesting-less-risk "mention").
-
-## TOAD Farm Contracts
-
-{% tabs %}
-{% tab title="BSC (BEP-20)" %}
-{% hint style="info" %}
-Docs in progress
-{% endhint %}
-{% endtab %}
-
-{% tab title="Moonriver" %}
-{% hint style="info" %}
-Docs in progress
-{% endhint %}
-{% endtab %}
-
-{% tab title="Moonbeam" %}
-{% hint style="info" %}
-Docs in progress
-{% endhint %}
-{% endtab %}
-{% endtabs %}

@@ -19,8 +19,6 @@
 {% endtab %}
 {% endtabs %}
 
-You can also find all PADSwap router and factory contract addresses in the [#contracts](../products/padswap/#contracts "mention") section of our [padswap](../products/padswap/ "mention") documentation.
-
 ## The Vault Contracts
 
 {% tabs %}
@@ -41,8 +39,6 @@ Docs in progress
 {% endhint %}
 {% endtab %}
 {% endtabs %}
-
-You can also find all the Vault contract addresses in the [#contracts](../fundamentals/the-vault.md#contracts "mention") section of our [the-vault.md](../fundamentals/the-vault.md "mention") documentation.
 
 ## LaunchPAD Token Factory Contracts
 
@@ -65,8 +61,6 @@ Coming soon!
 {% endtab %}
 {% endtabs %}
 
-You can also find all the LaunchPAD token factory contract addresses in the [#contracts](../products/launchpad/token-factory.md#contracts "mention") section of our [token-factory.md](../products/launchpad/token-factory.md "mention") documentation.
-
 ## LaunchPAD Presale Contracts
 
 {% tabs %}
@@ -82,8 +76,6 @@ You can also find all the LaunchPAD token factory contract addresses in the [#co
 0x6f4439eFF3f5872db1b5BFd41F75ca7574546097 [(view explorer)](https://moonscan.io/address/0x6f4439eFF3f5872db1b5BFd41F75ca7574546097)
 {% endtab %}
 {% endtabs %}
-
-You can also find all the LaunchPAD presale contract addresses in the [#contracts](../products/launchpad/token-presale.md#contracts "mention") section of our [token-presale.md](../products/launchpad/token-presale.md "mention") documentation.
 
 ## $TOAD Contracts
 
@@ -103,8 +95,6 @@ Wrapped TOAD on Moonbeam (There is only ever 1 TOAD):\
 {% endtab %}
 {% endtabs %}
 
-You can also find all $TOAD contract addresses in the [#contracts](../fundamentals/tokens/toad.md#contracts "mention") section of our [toad.md](../fundamentals/tokens/toad.md "mention") documentation.
-
 ## $PAD Contracts
 
 {% tabs %}
@@ -120,8 +110,6 @@ You can also find all $TOAD contract addresses in the [#contracts](../fundamenta
 0x59193512877E2EC3bB27C178A8888Cfac62FB32D [(view explorer)](https://moonscan.io/address/0x59193512877E2EC3bB27C178A8888Cfac62FB32D)
 {% endtab %}
 {% endtabs %}
-
-You can also find all $PAD contract addresses in the [#contracts](../fundamentals/tokens/pad.md#contracts "mention") section of our [pad.md](../fundamentals/tokens/pad.md "mention") documentation.
 
 ## PAD Farm Contracts
 
@@ -185,8 +173,6 @@ You can also find all $PAD contract addresses in the [#contracts](../fundamental
 {% endtab %}
 {% endtabs %}
 
-You can also find all PAD farm contract addresses in the [#contracts](../products/farms/pad-farms.md#contracts "mention") section of our [pad-farms.md](../products/farms/pad-farms.md "mention") documentation.
-
 ## DPLP Farm Contracts
 
 {% tabs %}
@@ -215,8 +201,6 @@ Docs in progress
 {% endtab %}
 {% endtabs %}
 
-You can also find all DPLP farm contract addresses in the [#contracts](../products/farms/dplp-farms.md#contracts "mention") section of our [dplp-farms.md](../products/farms/dplp-farms.md "mention") documentation.
-
 ## Partner Farm Contracts
 
 {% tabs %}
@@ -242,8 +226,6 @@ Docs in progress
 {% endtab %}
 {% endtabs %}
 
-You can also find all Partner farm contract addresses in the [#contracts](../products/farms/partner-farms.md#contracts "mention") section of our [partner-farms.md](../products/farms/partner-farms.md "mention") documentation.
-
 ## TOAD Farm Contracts
 
 {% tabs %}
@@ -265,5 +247,3 @@ Docs in progress
 {% endhint %}
 {% endtab %}
 {% endtabs %}
-
-You can also find all TOAD farm contract addresses in the [#contracts](../products/farms/toad-farms-old.md#contracts "mention") section of our [toad-farms-old.md](../products/farms/toad-farms-old.md "mention") documentation.
