@@ -1,4 +1,4 @@
-# Smart Contracts Overview
+# Contract Addresses
 
 ## PADSwap Router and Factory Contracts
 

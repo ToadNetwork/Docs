@@ -52,6 +52,9 @@
 
 ## Technical Reference <a href="#reference" id="reference"></a>
 
-* [Smart Contracts Overview](reference/smart-contracts-overview.md)
+* [Contract Addresses](reference/contract-addresses.md)
 * [APIs](reference/apis.md)
+* [Software Architecture](reference/architecture.md)
+* [Audits](reference/audits.md)
+* [Admin Control](reference/control.md)
 * [Media Kit (Logos)](reference/logos.md)

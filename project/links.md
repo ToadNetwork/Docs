@@ -16,11 +16,6 @@ coverY: 0
 * [Linktree](https://linktr.ee/TOAD.Network)
 * [Marketing Multisig Wallet](https://padswap.exchange/donate)
 
-## Audits
-
-* [TOAD.Network by SpadeTech](https://spadetech.io/wp-content/uploads/2021/06/toad\_network\_audit\_report.pdf)
-* [PADSwap by SpadeTech](https://spadetech.io/wp-content/uploads/2021/06/toad\_Padswap\_audit\_report.pdf)
-
 ## Listings
 
 * [Coin Market Cap](https://coinmarketcap.com/currencies/toad-network/)

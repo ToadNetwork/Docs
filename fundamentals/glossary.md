@@ -57,14 +57,6 @@ There are several reasons to burn tokens:
 Docs in progress
 {% endhint %}
 
-## DCA
-
-Dollar-Cost Averaging (DCA) — a common term in crypto, referring to an investment strategy.
-Instead of trying to predict when/if the market is up or down and buying accordingly, the DCA strategy suggest to simply split your investment into smaller investments which you perform over time independent of the current market conditions.
-By doing so, you will most likely not get the best price but you will get an average price.
-With the volatility of crypto this can be a good strategy to reduce regret of having missed the ATL or having bought at an ATH.
-If someone suggests you to DCA down, they mean that you should frequently buy smaller portions while the price of a token is on a downwards trend instead of gambling on hitting the lowest point.
-
 ## Deflationary Token
 
 Token with decreasing circulating supply.
@@ -72,6 +64,20 @@ Token with decreasing circulating supply.
 {% hint style="info" %}
 Docs in progress
 {% endhint %}
+
+## Decentralized Autonomous Organization (DAO)
+
+{% hint style="info" %}
+Docs in progress
+{% endhint %}
+
+## Dollar-Cost Averaging (DCA)
+
+Dollar-Cost Averaging (DCA) — a common term in crypto, referring to an investment strategy.
+Instead of trying to predict when/if the market is up or down and buying accordingly, the DCA strategy suggest to simply split your investment into smaller investments which you perform over time independent of the current market conditions.
+By doing so, you will most likely not get the best price but you will get an average price.
+With the volatility of crypto this can be a good strategy to reduce regret of having missed the ATL or having bought at an ATH.
+If someone suggests you to DCA down, they mean that you should frequently buy smaller portions while the price of a token is on a downwards trend instead of gambling on hitting the lowest point.
 
 ## Dripping
 
@@ -149,6 +155,11 @@ Increasing the total supply of a token by releasing new tokens. If a token has a
 
 See also [#total-supply](glossary.md#total-supply "mention"), [#max-supply](glossary.md#max-supply "mention"), [#inflationary-token](glossary.md#inflationary-token "mention")
 
+## Multisig
+
+A multisig is generally a wallet which requires multiple signatures for transactions to be executed.
+They increase the security by requiring multiple persons to confirm.
+
 ## Order Book
 
 An order book records the interest of buyers and sellers. They respectively can announce for what price they are willig to trade a certain amount. If the interest between buyers and sellers matches, the order book facilitates a trade. The middle between bids (buyer) and asks (seller) defines the price of the asset.&#x20;
@@ -197,6 +208,12 @@ When trading fails, people are quick to suggest setting a high slippage. In most
 If you put your tokens into a pool (e.g. a farm), then you effectively own a share of that pool. In other words, you have a stake in the pool. The process of you supplying your tokens to the pool is therefore called staking.
 
 See also [#farming](glossary.md#farming "mention").
+
+## Timelock
+
+A timelock refers to how smart contract changes are enacted. For example, there can be a 48h period until contract changes take effect. This gives users the option to opt-out before an upcoming change if they disagree with the change.
+
+This should not be confused with locking / vesting.
 
 ## Tokenomics
 
