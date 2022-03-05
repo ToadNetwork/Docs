@@ -67,17 +67,15 @@ Docs in progress
 
 ## Decentralized Autonomous Organization (DAO)
 
-{% hint style="info" %}
-Docs in progress
-{% endhint %}
+Please read the linked page to understand what a DAO is:
+
+{% content-ref url="../project/toadao.md" %}
+[toadao.md](../project/toadao.md)
+{% endcontent-ref %}
 
 ## Dollar-Cost Averaging (DCA)
 
-Dollar-Cost Averaging (DCA) — a common term in crypto, referring to an investment strategy.
-Instead of trying to predict when/if the market is up or down and buying accordingly, the DCA strategy suggest to simply split your investment into smaller investments which you perform over time independent of the current market conditions.
-By doing so, you will most likely not get the best price but you will get an average price.
-With the volatility of crypto this can be a good strategy to reduce regret of having missed the ATL or having bought at an ATH.
-If someone suggests you to DCA down, they mean that you should frequently buy smaller portions while the price of a token is on a downwards trend instead of gambling on hitting the lowest point.
+Common term in crypto, referring to an investment strategy. Instead of trying to predict when/if the market is up or down and buying accordingly, the DCA strategy suggest to simply split your investment into smaller investments which you perform over time independent of the current market conditions. By doing so, you will most likely not get the best price but you will get an average price. With the volatility of crypto this can be a good strategy to reduce regret of having missed the ATL or having bought at an ATH. If someone suggests you to DCA down, they mean that you should frequently buy smaller portions while the price of a token is on a downwards trend instead of gambling on hitting the lowest point.
 
 ## Dripping
 
@@ -99,9 +97,11 @@ Please read the linked page to understand what farming is:
 
 ## Faucet
 
-{% hint style="info" %}
-Docs in progress
-{% endhint %}
+Please read the linked page to understand what a Faucet is:
+
+{% content-ref url="../products/toad-bridge/faucet.md" %}
+[faucet.md](../products/toad-bridge/faucet.md)
+{% endcontent-ref %}
 
 ## Index
 
@@ -157,12 +157,11 @@ See also [#total-supply](glossary.md#total-supply "mention"), [#max-supply](glos
 
 ## Multisig
 
-A multisig is generally a wallet which requires multiple signatures for transactions to be executed.
-They increase the security by requiring multiple persons to confirm.
+A multisig is generally a wallet which requires multiple signatures for transactions to be executed. They increase the security by requiring multiple persons to confirm.
 
 ## Order Book
 
-An order book records the interest of buyers and sellers. They respectively can announce for what price they are willig to trade a certain amount. If the interest between buyers and sellers matches, the order book facilitates a trade. The middle between bids (buyer) and asks (seller) defines the price of the asset.&#x20;
+An order book records the interest of buyers and sellers. They respectively can announce for what price they are willig to trade a certain amount. If the interest between buyers and sellers matches, the order book facilitates a trade. The middle between bids (buyer) and asks (seller) defines the price of the asset.
 
 ## Pegging
 
@@ -213,14 +212,11 @@ See also [#farming](glossary.md#farming "mention").
 
 A timelock refers to how smart contract changes are enacted. For example, there can be a 48h period until contract changes take effect. This gives users the option to opt-out before an upcoming change if they disagree with the change.
 
-This should not be confused with locking / vesting.
+This should not be confused with [#locking](glossary.md#locking "mention") / [#vesting](glossary.md#vesting "mention").
 
 ## Tokenomics
 
-Tokenomics is a wordplay on token and economics. 
-It usually refers to different properties and mechanics of a token.
-Properties can things like a max supply.
-Mechanics can be things like sell, buy or transaction taxes, reflections or minter functionalities.
+Tokenomics is a wordplay on token and economics. It usually refers to different properties and mechanics of a token. Properties can things like a max supply. Mechanics can be things like sell, buy or transaction taxes, reflections or minter functionalities.
 
 ## Total Supply
 

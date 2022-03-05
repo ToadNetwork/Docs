@@ -13,7 +13,7 @@
 
 * [💡 Vision and Values](project/vision-and-values.md)
 * [🎯 TOADmap](project/roadmap.md)
-* [🗳 TOADao (soon)](project/toadao.md)
+* [🗳 TOADao](project/toadao.md)
 * [☕ Core Team](project/team.md)
 * [🫂 Community](project/community.md)
 * [🔗 Links](project/links.md)
@@ -47,7 +47,7 @@
 
 ## Games
 
-* [🕹 TOAD Academy](games/toad-academy.md)
+* [🎓 TOAD Academy](games/toad-academy.md)
 * [🃏 MEME Guardians](games/toaded.md)
 
 ## Technical Reference <a href="#reference" id="reference"></a>
