@@ -79,9 +79,7 @@ Common term in crypto, referring to an investment strategy. Instead of trying to
 
 ## Dripping
 
-{% hint style="info" %}
-Docs in progress
-{% endhint %}
+A continous release of small portions of a fixed sum. This usually refers to some reward pool which is distributed continously in small portions.
 
 ## DYOR
 
