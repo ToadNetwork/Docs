@@ -1,7 +1,7 @@
 ---
 description: Use our token factory to deploy your token with zero coding.
-cover: ../../.gitbook/assets/LaunchPAD_NEW.png
-coverY: 0
+cover: ../../.gitbook/assets/tokenfactory.png
+coverY: -47.95117698343506
 ---
 
 # 🏭 Token Factory

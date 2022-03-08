@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/memeguardians2.png
+coverY: 247.60244115082824
+---
+
 # 🃏 MEME Guardians
 
 ## Meme Guardians

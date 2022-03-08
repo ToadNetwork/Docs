@@ -36,18 +36,18 @@
   * [♾ DPLP Farms](products/farms/dplp-farms.md)
   * [🤝 Partner Farms](products/farms/partner-farms.md)
   * [🐸 TOAD Farms (old)](products/farms/toad-farms-old.md)
-* [🌉 Bridge](products/toad-bridge/README.md)
-  * [💧 Faucet](products/toad-bridge/faucet.md)
-* [💱 Fiat On-ramp](products/fiat-on-ramp.md)
 * [🚀 LaunchPAD](products/launchpad/README.md)
   * [🏭 Token Factory](products/launchpad/token-factory.md)
   * [🗓 Token Presale](products/launchpad/token-presale.md)
+* [🌉 Bridge](products/toad-bridge/README.md)
+  * [💧 Faucet](products/toad-bridge/faucet.md)
 * [🏷 Perpetual Auctions (soon)](products/auctions.md)
 * [🖼 TOAD NFT (soon)](products/toad-nft.md)
+* [💱 Fiat On-ramp](products/fiat-on-ramp.md)
 
 ## Games
 
-* [🎓 TOAD Academy](games/toad-academy.md)
+* [🕹 TOAD Academy](games/toad-academy.md)
 * [🃏 MEME Guardians](games/toaded.md)
 
 ## Technical Reference <a href="#reference" id="reference"></a>

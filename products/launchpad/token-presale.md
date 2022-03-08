@@ -1,7 +1,9 @@
 ---
-description: Use our presale systems to invest in your favorite project or to launch your token on PADSwap.
-cover: ../../.gitbook/assets/LaunchPAD_NEW.png
-coverY: 0
+description: >-
+  Use our presale systems to invest in your favorite project or to launch your
+  token on PADSwap.
+cover: ../../.gitbook/assets/moonbeamlaunch.png
+coverY: 1059.2850915431563
 ---
 
 # 🗓 Token Presale
