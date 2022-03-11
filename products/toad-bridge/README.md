@@ -62,7 +62,7 @@ We currently bridge three chains:
 
 {% tab title="Moonriver" %}
 * **Network Name**: Moonriver
-* **RPC URL**: [https://rpc.moonriver.moonbeam.network](https://rpc.moonriver.moonbeam.network)
+* **RPC URL**: [https://rpc.api.moonriver.moonbeam.network](https://rpc.api.moonriver.moonbeam.network)
 * **ChainID**: 1285 (hex: 0x505)
 * **Symbol**: MOVR
 * **Block Explorer URL**: [https://moonriver.moonscan.io/](https://moonriver.moonscan.io)
@@ -73,7 +73,7 @@ We currently bridge three chains:
 * **RPC URL**: [https://rpc.api.moonbeam.network](https://rpc.api.moonbeam.network)
 * **ChainID**: 1284 (hex: 0x504)
 * **Symbol**: GLMR
-* **Block Explorer URL**: [https://moonscan.io](https://moonscan.io)
+* **Block Explorer URL**: [https://blockscout.moonbeam.network/](https://blockscout.moonbeam.network/)
 {% endtab %}
 {% endtabs %}
 
