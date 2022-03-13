@@ -26,7 +26,7 @@ The following guide walks you through the process of creating a token on PADSwap
 
 ## Modular Tokenomics
 
-The token factory has a modular set of tokenomics you can choose for your token. This will be continuously extended in the future. If there are any tokenomics you are missing, feel free to bring it up in our [community.md](../project/community.md "mention").
+The token factory has a modular set of tokenomics you can choose for your token. This will be continuously extended in the future. If there are any tokenomics you are missing, feel free to bring it up in our [community.md](../../project/community.md "mention").
 
 ### Basic Token
 
