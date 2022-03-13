@@ -42,7 +42,7 @@ Of every presale investment, a 4% platform fee is deduced. The 1% referral rewar
 If your token is already tradeable on PADSwap, you can use our [auctions.md](../auctions.md "mention") instead.
 {% endhint %}
 
-The following guide walks you through the process of launching your project on PADSwap:
+The following guide walks you through the process of launching a token presale on PADSwap:
 
 {% content-ref url="../../guides/how-to-launch-a-token.md" %}
 [how-to-launch-a-token.md](../../guides/how-to-launch-a-token.md)
@@ -67,7 +67,7 @@ The funds raised during your presale will be distributed as follows:
 
 ### Workflow
 
-For now you will have to deploy your token contract yourself. We offer a [token-factory.md](token-factory.md "mention") which allows you to deploy a token contract with zero coding.
+You can deploy your own token contract or use our zero coding [token-factory.md](token-factory.md "mention").
 
 {% hint style="danger" %}
 Do not add any liquidity for your token on PADSwap until the presale is over. Adding liquidity before the presale is over may cause your presale to fail.

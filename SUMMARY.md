@@ -6,8 +6,8 @@
   * [How to Provide Liquidity?](guides/how-to-provide-liquidity.md)
   * [How to Farm?](guides/how-to-farm.md)
   * [How to Bridge Tokens?](guides/how-to-bridge-tokens.md)
-  * [How to Create a Token?](guides/how-to-launch-a-token.md)
-  * [How to Launch a Token?](guides/how-to-launch-a-token-1.md)
+  * [How to Create a Token?](guides/how-to-create-a-token.md)
+  * [How to Launch a Token?](guides/how-to-launch-a-token.md)
   * [How to Invest in Presale?](guides/how-to-invest-in-presale.md)
 
 ## Project

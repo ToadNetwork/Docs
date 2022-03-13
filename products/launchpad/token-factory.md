@@ -10,24 +10,34 @@ coverY: -47.95117698343506
 Deploy token contract via PADSwaps token factory.
 {% endembed %}
 
-{% hint style="warning" %}
-The following information is preliminary and subject to change!
-{% endhint %}
-
 ## Deploy your Token
 
-We offer a token factory which allows you to deploy a token contract with zero coding.
-
-The following guide walks you through the process of buying a token in presale on PADSwap:
-
-{% content-ref url="../../guides/how-to-launch-a-token.md" %}
-[how-to-launch-a-token.md](../../guides/how-to-launch-a-token.md)
-{% endcontent-ref %}
+We offer a token factory which allows you to deploy a token contract to BSC, Moonriver, or Moonbeam with zero coding.
 
 {% hint style="info" %}
-For now the token factory only works on Moonriver!
-
-We will soon deploy it for BSC and Moonbeam as well.
-
-We are also working on a fully automatic system which integrates the token presale.
+To avoid scammers, we are charging a small fee of 1 TOAD for the token creation.
 {% endhint %}
+
+The following guide walks you through the process of creating a token on PADSwap:
+
+{% content-ref url="../../guides/how-to-create-a-token.md" %}
+[how-to-create-a-token.md](../../guides/how-to-create-a-token.md)
+{% endcontent-ref %}
+
+## Modular Tokenomics
+
+The token factory has a modular set of tokenomics you can choose for your token. This will be continuously extended in the future. If there are any tokenomics you are missing, feel free to bring it up in our [community.md](../project/community.md "mention").
+
+### Basic Token
+
+The Basic token has standard tokenomics, no transaction fees and a capped supply. If you are planning on getting your token listed on CEXs, this is the more compatible option.
+
+### Advanced Token
+
+The Advanced token gives you more options with respect to tokenomics.
+The current set of tokenomics:
+
+* Reflections: Transaction fee that is distributed to all token holders.
+* Burn: Transaction fee that is burned.
+* Liquidity: Transaction fee that is split for a pair to buy LP tokens.
+* Dev share: Transaction fee that is send to the wallet of the token creator.
