@@ -32,9 +32,9 @@ If you refer a project to launch their token on PADSwaps launchpad, you are rewa
 
 The project referral reward is only payed out if the following conditions are met:
 
-* Proof of referral: You have to have contacted one of our [core team](../../project/team.md) **prior** to the project launching on PADSwap or/and the project owner can confirm your referral.
-* Successful presale: The tokens presale on PADSwaps launchpad needs to have at least reached the soft-cap.
-* No project relation: You are not the project owner and not a project team member except if you can prove that you convinced the project owner to choose PADSwap over other options.
+* **Proof of referral:** You have to have contacted one of our [core team](../../project/team.md) **prior** to the project launching on PADSwap or/and the project owner can confirm your referral.
+* **Successful presale:** The tokens presale on PADSwaps launchpad needs to have at least reached the soft-cap.
+* **No project relation:** You are not the project owner and not a project team member except if you can prove that you convinced the project owner to choose PADSwap over other options.
 
 {% hint style="info" %}
 Paying out the project referral reward is a manual process and you need to claim it from our [core team](../../project/team.md). While we have no interest in withholding rewards for a valid claim, you should be aware that there is no guarantee and that PADSwap has no obligation to pay out the reward.
