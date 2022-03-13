@@ -44,20 +44,21 @@ Docs in progress
 
 {% tabs %}
 {% tab title="BSC (BEP-20)" %}
-{% hint style="success" %}
-Coming soon!
-{% endhint %}
+* Token Factory: 0xDed45CcAe0CE904CadA2bF7165A6eE891A8C6399 [(view explorer)](https://bscscan.com/address/0xded45ccae0ce904cada2bf7165a6ee891a8c6399)
+* Standard Token Deployer: 0xeb2D2CbbEcBE4a403C3aB8112Af5dD1394e7B329 [(view explorer)](https://bscscan.com/address/0xeb2d2cbbecbe4a403c3ab8112af5dd1394e7b329)
+* Reflections Token Deployer: 0xd654d9ED960a09aCF291469a9c3359FCcEE4C6Af [(view explorer)](https://bscscan.com/address/0xd654d9ed960a09acf291469a9c3359fccee4c6af)
 {% endtab %}
 
 {% tab title="Moonriver" %}
-* Token Factory: 0x92A505f25CBc135E591f85f0bBd2dcb5c3B19257 [(view explorer)](https://moonriver.moonscan.io/address/0x92a505f25cbc135e591f85f0bbd2dcb5c3b19257)
-* Standard Token Deployer: 0xd6487bF10B086187e45247A7F577acd70D823ea8 [(view explorer)](https://moonriver.moonscan.io/address/0xd6487bf10b086187e45247a7f577acd70d823ea8)
+* Token Factory: 0x4A891F2CBa00cf8442a1d5A9219463453d326ba8 [(view explorer)](https://moonriver.moonscan.io/address/0x4a891f2cba00cf8442a1d5a9219463453d326ba8)
+* Standard Token Deployer: 0x6B3C61e207107C177d3aB928108DDFC6c6059211 [(view explorer)](https://moonriver.moonscan.io/address/0x6b3c61e207107c177d3ab928108ddfc6c6059211)
+* Reflections Token Deployer: 0x05dDc2F0e1Fb0c75E834c1729E5C3783312Ee0E3 [(view explorer)](https://moonriver.moonscan.io/address/0x05ddc2f0e1fb0c75e834c1729e5c3783312ee0e3)
 {% endtab %}
 
 {% tab title="Moonbeam" %}
-{% hint style="success" %}
-Coming soon!
-{% endhint %}
+* Token Factory: 0x9774e20244004A9dFe9dc1a252495dCf6930Ca27 [(view explorer)](https://moonscan.io/address/0x9774e20244004a9dfe9dc1a252495dcf6930ca27)
+* Standard Token Deployer: 0xF165e8f8bbA01862E8FA25126a4B172Af20fC0A8 [(view explorer)](https://moonscan.io/address/0xf165e8f8bba01862e8fa25126a4b172af20fc0a8)
+* Reflections Token Deployer: 0xF1Ed607a0a74ce12447682A0523BF1b0C8E531F2 [(view explorer)](https://moonscan.io/address/0xf1ed607a0a74ce12447682a0523bf1b0c8e531f2)
 {% endtab %}
 {% endtabs %}
 
@@ -195,6 +196,7 @@ Docs in progress
 
 {% tab title="Moonbeam" %}
 * WGLMR-TOAD: 0xcc95d3C739497BBe739D0232D0446aB573d3c3A5 [(view explorer)](https://moonscan.io/address/0xcc95d3C739497BBe739D0232D0446aB573d3c3A5)
+
 {% hint style="info" %}
 Docs in progress
 {% endhint %}

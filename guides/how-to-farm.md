@@ -34,7 +34,7 @@ Connect your wallet to the site. In this guide we are using MetaMask but you can
 
 ![connect your preferred wallet](../.gitbook/assets/connectYourWallet.png)
 
-## &#x20;Step 4: Choose a Farm Type
+## Step 4: Choose a Farm Type
 
 Choose in which type of farm you want to invest. For this guide we will go with the DPLP farms.
 
@@ -52,7 +52,7 @@ Choose a token pair to farm. For this guide we will go with the PAD-TOAD DPLP fa
 To farm a certain token pair you first need to provide liquidity for that token pair to receive the respective LP tokens to stake. See also our docs on [liquidity-pools.md](../products/padswap/liquidity-pools.md "mention") and our guide on [how-to-provide-liquidity.md](how-to-provide-liquidity.md "mention").
 {% endhint %}
 
-![Choose your preferred farm](../.gitbook/assets/EnableYourFarms.png)
+![Choose your preferred farm](<../.gitbook/assets/EnableYourFarms (1).png>)
 
 ## Step 6: Approve the Farm Contract
 
