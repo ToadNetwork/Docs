@@ -50,7 +50,7 @@
 
 ## Games
 
-* [🃏 MEME Guardians](games/toaded.md)
+* [🃏 Meme Guardians](games/meme-guardians.md)
 * [🎓 TOAD Academy](games/toad-academy.md)
 
 ## Technical Reference <a href="#reference" id="reference"></a>
