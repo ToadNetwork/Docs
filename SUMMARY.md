@@ -9,6 +9,8 @@
   * [How to Create a Token?](guides/how-to-create-a-token.md)
   * [How to Launch a Token?](guides/how-to-launch-a-token.md)
   * [How to Invest in Presale?](guides/how-to-invest-in-presale.md)
+  * [How to Start a Crypto Project?](guides/how-to-start-a-crypto-project/README.md)
+    * [How to Create a Telegram Group?](guides/how-to-start-a-crypto-project/how-to-create-a-telegram-group.md)
 
 ## Project
 

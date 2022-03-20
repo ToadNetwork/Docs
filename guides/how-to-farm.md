@@ -52,7 +52,7 @@ Choose a token pair to farm. For this guide we will go with the PAD-TOAD DPLP fa
 To farm a certain token pair you first need to provide liquidity for that token pair to receive the respective LP tokens to stake. See also our docs on [liquidity-pools.md](../products/padswap/liquidity-pools.md "mention") and our guide on [how-to-provide-liquidity.md](how-to-provide-liquidity.md "mention").
 {% endhint %}
 
-![Choose your preferred farm](<../.gitbook/assets/EnableYourFarms (1).png>)
+![Choose your preferred farm](../.gitbook/assets/EnableYourFarms.png)
 
 ## Step 6: Approve the Farm Contract
 

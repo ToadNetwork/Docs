@@ -34,15 +34,15 @@ At the moment, Trust Wallet does not support the Moonriver and Moonbeam chains. 
 
 As of writing this guide, the token factory supports the three chains BSC, Moonriver, and Moonbeam. You can decide on which chain you want to launch your token. There can be various decision factors, e.g.:
 
-* You community is already primarily on one chain.
+* Your community is already primarily on one chain.
 * You personally believe in the future of a chain.
 * You prefer lower transactions fees.
 
 For this guide we will deploy a token on Moonbeam.
 
-![Chain selection for token creation.](<../.gitbook/assets/image (8).png>)
+![Chain selection for token creation.](<../.gitbook/assets/image (8) (1).png>)
 
-Check the lower left corner to confirm that the correct chain is selected. You might also need to switch to the respective chain in your wallet.&#x20;
+Check the lower left corner to confirm that the correct chain is selected. You might also need to switch to the respective chain in your wallet.
 
 Press continue to confirm the selected chain.
 
@@ -52,9 +52,9 @@ The [token-factory.md](../products/launchpad/token-factory.md "mention") has a m
 
 Here you can choose between a Basic token or an Advanced token. The Basic token has standard tokenomics, no transaction fees and a capped supply. If you are planning on getting your token listed on CEXs, this is the more compatible option. If you want to have more advanced tokenomics, you can choose the second option. For this guide we will go with the second option.
 
-![Select a general token type.](<../.gitbook/assets/image (3).png>)
+![Select a general token type.](<../.gitbook/assets/image (3) (1).png>)
 
-Check the lower right corner to confirm that the correct token type is selected.&#x20;
+Check the lower right corner to confirm that the correct token type is selected.
 
 Press continue to confirm the selected token type.
 
@@ -66,11 +66,11 @@ For the token details you need to set a name, a symbol, the total supply and the
 
 In this guide we will create a token called "How to Guide" with the symbol "HTG" and a total supply of 100k.
 
-![Specify token details](<../.gitbook/assets/image (4).png>)
+![Specify token details](<../.gitbook/assets/image (4) (1).png>)
 
 You can choose a number of tokenomics. For this guide we will choose all currently available options, that is a 1% reflection, 0.5% burn, 1% liquidity and 0.5% dev share.
 
-![Specify tokenomics](<../.gitbook/assets/image (5).png>)
+![Specify tokenomics](<../.gitbook/assets/image (5) (1).png>)
 
 Pressing continue will show you a summary of your specified token details and tokenomics. Press continue again if everything is correct.
 
@@ -78,25 +78,25 @@ Pressing continue will show you a summary of your specified token details and to
 
 You are now ready to create your own token! To avoid scammers, we are charging a small fee of 1 TOAD for the token creation. Approve to spend TOAD for the creation fee.
 
-![Approve TOAD for creation fee](<../.gitbook/assets/image (1).png>)
+![Approve TOAD for creation fee](<../.gitbook/assets/image (1) (1).png>)
 
 Your wallet will ask you to confirm this approval. This will cost you a small fee but no TOAD will be deduced yet.
 
-![Confirm spending of TOAD via wallet](../.gitbook/assets/image.png)
+![Confirm spending of TOAD via wallet](<../.gitbook/assets/image (10).png>)
 
 After the approval was confirmed, you can finally create your own token. Click create token to perform the token creation.
 
-![Create your token](<../.gitbook/assets/image (2).png>)
+![Create your token](<../.gitbook/assets/image (2) (1).png>)
 
 Your wallet will ask you to confirm the token contract creation. This will cost you a small fee and the 1 TOAD creation fee.
 
-![Confirm spending for token creation via wallet](<../.gitbook/assets/image (7).png>)
+![Confirm spending for token creation via wallet](<../.gitbook/assets/image (7) (1).png>)
 
 After the token contract creation was confirmed, you should see your tokens contract address.
 
-![Created token contract address](<../.gitbook/assets/image (6).png>)
+![Created token contract address](<../.gitbook/assets/image (6) (1).png>)
 
-&#x20;You can view your token on the chains block explorer:
+You can view your token on the chains block explorer:
 
 * BSC: [https://bscscan.com/](https://bscscan.com)
 * Moonriver: [https://moonriver.moonscan.io/](https://moonriver.moonscan.io)
