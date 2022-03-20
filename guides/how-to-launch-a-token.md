@@ -230,7 +230,7 @@ Protect your community!
 Make sure to protect your presale from whales. If someone with deep pockets buys large junks of your presale, they hold a large share of your token supply. After the launch succeeded, they can then dump on / rug your community.
 {% endhint %}
 
-The following is a bad example of allowing an unlimited amount of contributions. It is only chosen for this example to fill the presale for this the sake of this guide. DO NOT DO THIS.
+The following is a bad example of allowing an unlimited amount of contributions. It is only chosen for this example to fill the presale for the sake of this guide. DO NOT DO THIS.
 
 ![Set a maximum contribution per user.](<../.gitbook/assets/image (24).png>)
 
