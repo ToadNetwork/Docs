@@ -51,7 +51,7 @@
 ## Games
 
 * [🃏 Meme Guardians](games/meme-guardians.md)
-* [🎓 TOAD Academy](games/toad-academy.md)
+* [🕹 TOAD Academy](games/toad-academy.md)
 
 ## Technical Reference <a href="#reference" id="reference"></a>
 
@@ -61,3 +61,4 @@
 * [Audits](reference/audits.md)
 * [Admin Control](reference/control.md)
 * [Media Kit (Logos)](reference/logos.md)
+* [Flash Loans](reference/flash-loans.md)
