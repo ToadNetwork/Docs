@@ -10,4 +10,4 @@ A loan in the DeFi ecosystem is a financial mechanism that allows a user to take
 
 A Flash Loan is new type of loan that does not require the user to provide a collateral to cover the loan. This uncollateralised loan that a user takes has a different constraint, it has to be returned to the lender before the full transaction ends.
 
-Padswap Ecosystem does not implement any Flash Loan Mechanism hence these type of operations, flashloans, cannot be performed within the system.
+~~Padswap Ecosystem does not implement any Flash Loan Mechanism hence these type of operations, flashloans, cannot be performed within the system.~~
