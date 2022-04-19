@@ -13,6 +13,7 @@ coverY: 0
 * [Announcements on Telegram](https://t.me/TOADnPAD)
 * [GitHub](https://github.com/ToadNetwork) *(Most of the code is maintained in private repositories right now)*
 * [YouTube](https://www.youtube.com/channel/UCI\_vUc-HrJWtKXj-Re-hTSw)
+* [GIPHY](https://giphy.com/channel/ToadNetwork)
 * [Linktree](https://linktr.ee/TOAD.Network)
 * [Marketing Multisig Wallet](https://padswap.exchange/donate)
 
