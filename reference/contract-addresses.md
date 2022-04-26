@@ -249,3 +249,15 @@ Docs in progress
 {% endhint %}
 {% endtab %}
 {% endtabs %}
+
+## TOAD Church Contracts
+
+{% tabs %}
+{% tab title="BSC (BEP-20)" %}
+TOAD Praiser: 0xBa1CEd604cc1c99b1d30BCdB6941da2c23caFC86
+{% endtab %}
+
+{% tab title="Second Tab" %}
+
+{% endtab %}
+{% endtabs %}
