@@ -43,7 +43,3 @@ To interact with our products, please explore the links below:
 {% content-ref url="products/launchpad/" %}
 [launchpad](products/launchpad/)
 {% endcontent-ref %}
-
-{% content-ref url="products/auctions.md" %}
-[auctions.md](products/auctions.md)
-{% endcontent-ref %}

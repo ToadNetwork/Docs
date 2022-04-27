@@ -39,7 +39,7 @@ Of every presale investment, a 4% platform fee is deduced. The 1% referral rewar
 ## Launch your Project
 
 {% hint style="info" %}
-If your token is already tradeable on PADSwap, you can use our [auctions.md](../auctions.md "mention") instead.
+If your token is already tradeable on PADSwap, you can use our [auctions.md](auctions.md "mention") instead.
 {% endhint %}
 
 The following guide walks you through the process of launching a token presale on PADSwap:
@@ -88,5 +88,5 @@ In case of a canceled presale, users can visit the presale page and withdraw the
 If your presale failed or was cancelled, you can try again as many times as you want.
 
 {% hint style="info" %}
-If you've already had a successful presale and want to distribute the rest of the supply, our [auctions.md](../auctions.md "mention") are made just for that.
+If you've already had a successful presale and want to distribute the rest of the supply, our [auctions.md](auctions.md "mention") are made just for that.
 {% endhint %}

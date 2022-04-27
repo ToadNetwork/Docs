@@ -42,9 +42,9 @@
 * [🚀 LaunchPAD](products/launchpad/README.md)
   * [🏭 Token Factory](products/launchpad/token-factory.md)
   * [🗓 Token Presale](products/launchpad/token-presale.md)
+  * [🏷 Perpetual Auctions (soon)](products/launchpad/auctions.md)
 * [🌉 Bridge](products/toad-bridge/README.md)
   * [💧 Faucet](products/toad-bridge/faucet.md)
-* [🏷 Perpetual Auctions (soon)](products/auctions.md)
 * [🖼 TOAD NFT (soon)](products/toad-nft.md)
 * [💱 Fiat On-ramp](products/fiat-on-ramp.md)
 
