@@ -27,13 +27,15 @@ For all the details about $PADs tokenomics and how the minting / PAD drip works,
 
 ### How are rewards distributed?
 
-The PAD farm distributes 10% of the distribution pool per day to all PAD farms and their stakers relative to their pool share. The 10% per day is distributed in one second intervals.
+The PAD farm distributes 10% of the distribution pool per day to all PAD farms and their stakers relative to their pool share. The 10% per day is distributed in one second intervals. The PAD farms rewards are shown as "pool size" in PAD and as "pool value" in USD.
 
 The distribution between PAD farms is currently uniform (all PAD farms get the same share). The distribution between PAD farms is set by the team and adjusted when new farms are added.
 
 {% hint style="info" %}
-Rewards are not actively distributed and instead stay in the pool until they are claimed. The UI just calculates and shows your claimable rewards.
+Rewards are not actively distributed and instead stay in the pool until they are claimed. The UI just calculates and shows your claimable rewards. Also the farms PAD share from the distribution pool is not actively distributed but perform when ever someone stakes in / deposits to the farm, i.e. the pool size / pool value is only updated on these events.
 {% endhint %}
+
+When rewards are claimed by a staker, they are deduced from the pool size / pool value shown in the UI.
 
 ## Fees
 

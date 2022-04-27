@@ -148,7 +148,7 @@ Paste the URL to your Discord server into the presale form field.
 
 ### Step 4.4: Add Website Link
 
-Usually your project is about offering some service. To do so, you will need a website and/or dapp. If you already have one, you recommend you to enter the URL to it in the form field so that potential investors can look up more details about your project. If you do not yet have one, you could also share a link to your projects documentation or similar via this form field.
+Usually your project is about offering some service. To do so, you will need a website and/or dapp. If you already have one, we recommend you to enter the URL to it in the form field so that potential investors can look up more details about your project. If you do not yet have one, you could also share a link to your projects documentation or similar via this form field.
 
 For this guide we will enter the URL of the main landing page of the Toad.Network.
 
