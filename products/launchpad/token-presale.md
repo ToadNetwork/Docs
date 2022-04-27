@@ -16,10 +16,6 @@ Invest in a projects' presale on PADSwap
 Launch your own token on PADSwap via a presale.
 {% endembed %}
 
-{% hint style="warning" %}
-The following information is preliminary and subject to change!
-{% endhint %}
-
 ## Invest in a Project
 
 The following guide walks you through the process of buying a token in presale on PADSwap:

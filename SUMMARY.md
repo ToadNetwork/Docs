@@ -43,6 +43,7 @@
   * [🏭 Token Factory](products/launchpad/token-factory.md)
   * [🗓 Token Presale](products/launchpad/token-presale.md)
   * [🏷 Perpetual Auctions (soon)](products/launchpad/auctions.md)
+  * [🌾 Farm Factory (soon)](products/launchpad/farm-factory.md)
 * [🌉 Bridge](products/toad-bridge/README.md)
   * [💧 Faucet](products/toad-bridge/faucet.md)
 * [🖼 TOAD NFT (soon)](products/toad-nft.md)
