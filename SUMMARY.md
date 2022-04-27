@@ -39,7 +39,7 @@
   * [♾ DPLP Farms](products/farms/dplp-farms.md)
   * [🤝 Partner Farms](products/farms/partner-farms.md)
   * [🐸 TOAD Farms (old)](products/farms/toad-farms-old.md)
-  * [🌾 Farm Factory (soon)](products/farms/farm-factory.md)
+  * [🏭 Farm Factory (soon)](products/farms/farm-factory.md)
 * [🚀 LaunchPAD](products/launchpad/README.md)
   * [🏭 Token Factory](products/launchpad/token-factory.md)
   * [🗓 Token Presale](products/launchpad/token-presale.md)

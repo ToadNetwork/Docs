@@ -1,4 +1,4 @@
-# 🌾 Farm Factory (soon)
+# 🏭 Farm Factory (soon)
 
 {% hint style="success" %}
 Coming soon! TM
