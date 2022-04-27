@@ -1,5 +1,39 @@
 # Contract Addresses
 
+## $TOAD Contracts
+
+{% tabs %}
+{% tab title="BSC (BEP-20)" %}
+0x463e737d8f740395abf44f7aac2d9531d8d539e9 [(view explorer)](https://bscscan.com/token/0x463e737d8f740395abf44f7aac2d9531d8d539e9)
+{% endtab %}
+
+{% tab title="Moonriver" %}
+Wrapped TOAD on Moonriver (There is only ever 1 TOAD):\
+0x165dbb08de0476271714952c3c1f068693bd60d7 [(view explorer)](https://moonriver.moonscan.io/token/0x165dbb08de0476271714952c3c1f068693bd60d7)
+{% endtab %}
+
+{% tab title="Moonbeam" %}
+Wrapped TOAD on Moonbeam (There is only ever 1 TOAD):\
+0xF480f38C366dAaC4305dC484b2Ad7a496FF00CeA [(view explorer)](https://moonscan.io/address/0xF480f38C366dAaC4305dC484b2Ad7a496FF00CeA)
+{% endtab %}
+{% endtabs %}
+
+## $PAD Contracts
+
+{% tabs %}
+{% tab title="BSC (BEP-20)" %}
+0xc0888d80ee0abf84563168b3182650c0addeb6d5 [(view explorer)](https://bscscan.com/token/0xc0888d80ee0abf84563168b3182650c0addeb6d5)
+{% endtab %}
+
+{% tab title="Moonriver" %}
+0x45488c50184ce2092756ba7cdf85731fd17e6f3d [(view explorer)](https://moonriver.moonscan.io/token/0x45488c50184ce2092756ba7cdf85731fd17e6f3d)
+{% endtab %}
+
+{% tab title="Moonbeam" %}
+0x59193512877E2EC3bB27C178A8888Cfac62FB32D [(view explorer)](https://moonscan.io/address/0x59193512877E2EC3bB27C178A8888Cfac62FB32D)
+{% endtab %}
+{% endtabs %}
+
 ## PADSwap Router and Factory Contracts
 
 {% tabs %}
@@ -75,40 +109,6 @@ Docs in progress
 
 {% tab title="Moonbeam" %}
 0x6f4439eFF3f5872db1b5BFd41F75ca7574546097 [(view explorer)](https://moonscan.io/address/0x6f4439eFF3f5872db1b5BFd41F75ca7574546097)
-{% endtab %}
-{% endtabs %}
-
-## $TOAD Contracts
-
-{% tabs %}
-{% tab title="BSC (BEP-20)" %}
-0x463e737d8f740395abf44f7aac2d9531d8d539e9 [(view explorer)](https://bscscan.com/token/0x463e737d8f740395abf44f7aac2d9531d8d539e9)
-{% endtab %}
-
-{% tab title="Moonriver" %}
-Wrapped TOAD on Moonriver (There is only ever 1 TOAD):\
-0x165dbb08de0476271714952c3c1f068693bd60d7 [(view explorer)](https://moonriver.moonscan.io/token/0x165dbb08de0476271714952c3c1f068693bd60d7)
-{% endtab %}
-
-{% tab title="Moonbeam" %}
-Wrapped TOAD on Moonbeam (There is only ever 1 TOAD):\
-0xF480f38C366dAaC4305dC484b2Ad7a496FF00CeA [(view explorer)](https://moonscan.io/address/0xF480f38C366dAaC4305dC484b2Ad7a496FF00CeA)
-{% endtab %}
-{% endtabs %}
-
-## $PAD Contracts
-
-{% tabs %}
-{% tab title="BSC (BEP-20)" %}
-0xc0888d80ee0abf84563168b3182650c0addeb6d5 [(view explorer)](https://bscscan.com/token/0xc0888d80ee0abf84563168b3182650c0addeb6d5)
-{% endtab %}
-
-{% tab title="Moonriver" %}
-0x45488c50184ce2092756ba7cdf85731fd17e6f3d [(view explorer)](https://moonriver.moonscan.io/token/0x45488c50184ce2092756ba7cdf85731fd17e6f3d)
-{% endtab %}
-
-{% tab title="Moonbeam" %}
-0x59193512877E2EC3bB27C178A8888Cfac62FB32D [(view explorer)](https://moonscan.io/address/0x59193512877E2EC3bB27C178A8888Cfac62FB32D)
 {% endtab %}
 {% endtabs %}
 
