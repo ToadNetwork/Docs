@@ -107,3 +107,7 @@ For example, the token created in this guide: 0x0d1c2710647eca99bc0c68a39b0d0a1c
 {% hint style="success" %}
 Congrats! You have now created your own token. You can now launch a [presale on PADSwap](how-to-launch-a-token.md) so that your community can get your token and stake on your tokens [DPLP farm](../products/farms/dplp-farms.md).
 {% endhint %}
+
+{% hint style="info" %}
+If the same token configuration was verified previously, your token contract will also show up as verified. If your tokens contract does not show as verified in the block explorer, please contact a member of the [core team](../project/team.md).
+{% endhint %}
