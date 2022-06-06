@@ -31,7 +31,7 @@ All contracts are deployed by the same address 0xF4210B747e44592035da0126f70C48C
 
 The keys to this address are held by DEVS Team.
 
-None deployed contracts can be upgraded.\
+None of the deployed contracts can be upgraded.\
 OnlyOwner does not have the ability to change any aspects of the contracts.
 
 ### $PAD Minter
