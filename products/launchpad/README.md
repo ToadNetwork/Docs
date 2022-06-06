@@ -44,6 +44,21 @@ Paying out the project referral reward is a manual process and you need to claim
 
 If you refer someone to an on-going presale through your referral link, you will earn 1% of their presale investments. The 1% referral reward is cut from PADSwaps 4% platform fees and is not taken from the project or investor.
 
+## How does PADSwap's LaunchPAD compare to other launchpads?
+
+|                     | PADSwap                  | Pinksale                                  | Dxsale                                                                                                                   |
+| ------------------- | ------------------------ | ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| Flat Fee            | 1 Toad (\~$5) + 4%       | 1 BNB + 4%                                | 0.99 BNB + 4%                                                                                                            |
+| Liquidity Generator | Yes, inclusive           | Yes, 0.2 BNB                              | Yes, 0.2 BNB                                                                                                             |
+| Baby Token          | No, next roll-out        | Yes, 0.2 BNB                              | No                                                                                                                       |
+| Standard Token      | Yes, inclusive           | Yes, 0.2 BNB                              | Yes, 0.2 BNB                                                                                                             |
+| Liquidity Locker    | Yes, inclusive (DPLP)    | Yes, inclusive                            | Yes, inclusive                                                                                                           |
+| Anti-Bot            | No                       | Yes, 1 BNB                                | No                                                                                                                       |
+| Presale Referral    | Yes, 1% Referral         | No                                        | No                                                                                                                       |
+| Chain Availability  | BSC, Moonbeam, Moonriver | ETH, BSC, Polygon, AVAX, Fantom, Cronos,  | ETH, BSC, Polygon, AVAX, Fantom, Heco, OEC, KCC, Arbitrum, Gnosis, Harmony, Celo, Cronos, Moonriver, SmartBCH, Milkomeda |
+| Farm                | Yes                      | No                                        | No                                                                                                                       |
+| Liquidity Traversed | 83% DPLP, 17% Devs       | 51%-100% Liquidity, Remaining BNB to Dev  | 75% Liquidity, 25% Devs                                                                                                  |
+
 ## Future Development
 
 The docs show the current state of the launchpad. For example, but not limited to, the following features are planned in the future:

@@ -5,9 +5,10 @@ coverY: 0
 
 # 🐸 $TOAD
 
-| Name          | Toad Network                                    |
-| ------------- | ----------------------------------------------- |
-| Symbol/Ticker | ![](../../.gitbook/assets/TOAD.symbol.svg) TOAD |
+| Name             | Toad Network                                                                            |
+| ---------------- | --------------------------------------------------------------------------------------- |
+| Symbol/Ticker    | ![](../../.gitbook/assets/TOAD.symbol.svg) TOAD                                         |
+| Contract Address | [#usdtoad-contracts](../../reference/contract-addresses.md#usdtoad-contracts "mention") |
 
 ## Usage
 
