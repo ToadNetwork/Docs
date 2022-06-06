@@ -16,7 +16,7 @@ This page explains the concept of the Decentralized Perpetual Liquidity Protocol
 Read [liquidity-pools.md](../products/padswap/liquidity-pools.md "mention") to understand what a liquidity pool is and what providing liquidity means.
 {% endhint %}
 
-LP Token Farming is a new and experimental concept only on the TOAD.Network ecosystem. The goal of LP Token Farming is to decentralize the liquidity. In other projects, the team holds a large amount of liquidity and promise to lock it for a certain period. At TOAD.Network, we give all of our Team LP tokens to the community, allowing people to farm them. Besides providing more liquidity for users, this makes the project "rug-pull-proof". All the LP tokens from the team are donated to farming pools that drip slowly over time to those who stake their tokens in those farms, meaning devs have only as much access to these tokens as any other user.
+LP Token Farming is a new and experimental concept only on the TOAD.Network ecosystem. The goal of LP Token Farming is to decentralize the liquidity. In other projects, the team holds a large amount of liquidity and promises to lock it for a certain period. At TOAD.Network, we give all of our Team LP tokens to the community, allowing people to farm them. Besides providing more liquidity for users, this makes the project "rug-pull-proof". All the LP tokens from the team are donated to farming pools that drip slowly over time to those who stake their tokens in those farms, meaning devs have only as much access to these tokens as any other user.
 
 Here is a video that explains this concept:
 
@@ -26,7 +26,7 @@ Here is a video that explains this concept:
 
 First, we need to understand what a DEV Lock is. A DEV Lock is a mechanism by which projects compensate the developers of a project. In essence, when a project is created, usually part of the liquidity captured during the funding process (IFOs, ICOs, Launchpads…) is locked in a specific contract that is _only_ accessible to the developers' wallets and that can be claimed by them only after a specified amount of time has elapsed.
 
-How this usually plays out: Developers, after the time has elapsed and they are able to claim their tokens, start to dump them when price has high values. This drains the liquidity from the pool, diminishing the token value and damaging standard users' portfolios.
+What can happen is, that developers, after the time has elapsed and they are able to claim their tokens, start to dump them when price is high. This then drains the liquidity from the pool, diminishing the token value and damaging standard users' portfolios.
 
 With TOAD.Network's LPF, developers donate the liquidity collected and store it in a special smart contract that allows any user to connect to it. This contract behaves exactly as any other standard pool contract, with one important difference: the return of the investment is the same LP token that is provided to the farm, instead of the native token for the project.
 
@@ -34,7 +34,7 @@ This LP Farming is the basis of the [**Decentralized Perpetual Liquidity Protoco
 
 DPLP allows any user to constantly strengthen their position in the project simply by reinvesting their newly earned LP tokens- saving users time and transactions.
 
-The **DPLP** protocol aims to make DeFi ecosystem safer for all users by enabling a new mechanism to provide and maintain liquidity.
+The **DPLP** protocol aims to make the DeFi ecosystem safer for all users by enabling a new mechanism to provide and maintain liquidity.
 
 Designed to benefit long-term investors, **DPLP** requires a higher percent fee on both entrance and exit. This prevents the standard "whale behavior" of entering, earning quick gains, and leaving the farm with all liquidity drained.
 
