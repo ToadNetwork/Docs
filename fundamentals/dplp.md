@@ -28,7 +28,7 @@ First, we need to understand what a DEV Lock is. A DEV Lock is a mechanism by wh
 
 What can happen is, that developers, after the time has elapsed and they are able to claim their tokens, start to dump them when price is high. This then drains the liquidity from the pool, diminishing the token value and damaging standard users' portfolios.
 
-With TOAD.Network's LPF, developers donate the liquidity collected and store it in a special smart contract that allows any user to connect to it. This contract behaves exactly as any other standard pool contract, with one important difference: the return of the investment is the same LP token that is provided to the farm, instead of the native token for the project.
+With DPLP, developers donate the liquidity collected and store it in a special smart contract that allows any user to connect to it. This contract behaves exactly as any other standard pool contract, with one important difference: the return of the investment is the same LP token that is provided to the farm, instead of the native token for the project.
 
 This LP Farming is the basis of the [**Decentralized Perpetual Liquidity Protocol**](dplp.md) that TOAD has brought to the cryptoverse.
 
