@@ -60,6 +60,5 @@
 * [APIs](reference/apis.md)
 * [Software Architecture](reference/architecture.md)
 * [Audits](reference/audits.md)
-* [Admin Control](reference/control.md)
+* [Security](reference/control.md)
 * [Media Kit (Logos)](reference/logos.md)
-* [Flash Loans](reference/flash-loans.md)

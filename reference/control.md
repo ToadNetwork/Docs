@@ -1,10 +1,26 @@
-# Admin Control
+---
+description: >-
+  Details on security measures, access control, timelocks and flash loan
+  attacks.
+---
+
+# Security
+
+{% hint style="warning" %}
+There are no guarantees of security! The cryptospace and DeFi is still inherently vulnerable and volatile.
+{% endhint %}
+
+## Bug Bounty Program
+
+The DeFi space is constantly moving and new vulnerabilities are discovered and exploited by the minute.
+
+If you find any vulnerabilities in Toads/PADSwaps smart contracts, please privately contact [contact@toad.network](mailto:contact@toad.network) or [@toad\_guy](https://t.me/toad\_guy) to disclose the vulnerability.
+
+## Access Control
 
 {% hint style="info" %}
 This section is about the control on smart contracts. Governance of Toad.Network is done by the [toadao.md](../project/toadao.md "mention").
 {% endhint %}
-
-## Controls
 
 ### PADSwap Factory and Router
 
@@ -48,4 +64,12 @@ Marketing initiatives are partly financed through community contributions. These
 
 ## Timelock
 
-Toad.Network currently does not use timelocks for smart contract changes but considers them a good practice and will consider using them in the future.
+Toad.Network currently does not use [timelocks](../fundamentals/glossary.md#timelock) for smart contract changes but considers them a good practice and will consider using them in the future.
+
+## Pause
+
+Toad.Network's smart contracts do not provide any option to pause smart contracts. While a pause functionality can theoretically be used to prevent harm from smart contract users in case of an exploit, it can also be used in many ways contrary to user interests. In fact, we mainly see it used in the later way and are therefore against this practice.&#x20;
+
+## Flash Loan Attacks
+
+PADSwap itself does not offer any [flash loans](../fundamentals/glossary.md#flash-loan) and is therefore not vulnerable from the perspective of a flash loan provider. But [flash loan attacks](../fundamentals/glossary.md#flash-loan-attack) can be executed against any smart contract using the funds of a flash loan provided by a third party. Toad.Network's smart contracts do not have any explicit flash loan protection. If you see any flash loan attack vulnerability, please refer to our [#bug-bounty-program](control.md#bug-bounty-program "mention").

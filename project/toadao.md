@@ -13,7 +13,7 @@ The TG groups are only a temporary solution towards a strong governance structur
 
 ## Decentralized Autonomous Organization (DAO)
 
-Governance via the TOADao will be coordinated using NFTs that grant voting powers. These are granted to community members who show commitment and dedication in helping the Toad.Network to advance. The mentioned community members already hold a Toad artwork custom made by the talented [PIRAMYD](https://piramyd.me). These artworks will later be linked to DAO NFTs and handed out to the individual community members via [toad-nft.md](../products/toad-nft.md "mention"). Proposals will be voted on through the blockchain.
+Governance via the TOADao will be coordinated using NFTs that grant voting powers. These are granted to community members who show commitment and dedication in helping the Toad.Network to advance. The mentioned community members already hold a Toad artwork custom made by the talented [PIRAMYD](https://piramyd.me/). These artworks will later be linked to DAO NFTs and handed out to the individual community members via [toad-nft.md](../products/toad-nft.md "mention"). Proposals will be voted on through the blockchain.
 
 {% hint style="info" %}
 For information on admin control of smart contracts see: [control.md](../reference/control.md "mention")

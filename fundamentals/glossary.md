@@ -16,9 +16,11 @@ You will only receive the shown APY if you always reinvest. The APY does not tak
 
 ## Arbitrage
 
-{% hint style="info" %}
-Docs in progress
-{% endhint %}
+In its simplest form, an arbitrage opportunity is when two exchanges offer different prices for the same token. One can then buy them on the exchange with the cheaper price and sell them on the exchange with the higher price. The difference in this exchange are the gains. Arbitrage is also a market mechanism which ensures that prices across exchanges stay the same since performing the arbitrage will change the liquidity pool ratios in a way that after the arbitrage both exchanges have a similar price.
+
+Obviously the DeFi space is already overflown with arbitrage bots so competing in this market is hard. To effectively make gains via arbitrage, one usually makes use of flash loans.
+
+See also [#liquidity-pool](glossary.md#liquidity-pool "mention") and [#flash-loan](glossary.md#flash-loan "mention") to learn more.
 
 ## ATH / ATL
 
@@ -53,17 +55,15 @@ There are several reasons to burn tokens:
 
 ## Circulating Supply
 
-{% hint style="info" %}
-Docs in progress
-{% endhint %}
+Circulating supply refers to the number of tokens that are already in the hands of the public and does not include tokens that are locked up or being held in reserve.
+
+Circulating supply should not be confused with [#total-supply](glossary.md#total-supply "mention") and [#max-supply](glossary.md#max-supply "mention").
+
+See also [#minting](glossary.md#minting "mention"), [#burn](glossary.md#burn "mention") and [#vesting](glossary.md#vesting "mention") to learn more.
 
 ## Deflationary Token
 
 Token with decreasing circulating supply.
-
-{% hint style="info" %}
-Docs in progress
-{% endhint %}
 
 ## Decentralized Autonomous Organization (DAO)
 
@@ -101,6 +101,16 @@ Please read the linked page to understand what a Faucet is:
 [faucet.md](../products/toad-bridge/faucet.md)
 {% endcontent-ref %}
 
+## Flash Loan
+
+A loan in the DeFi ecosystem is a financial mechanism that allows a user to take a lend of an specific token by providing another one as a collateral. These have been implemented in several ways on different ecosystems, allowing the investors to put their investment into work without actually changing it.
+
+A Flash Loan is a new type of loan that does not require the user to provide a collateral to cover the loan. This uncollateralized loan that a user takes has a different constraint, it has to be returned to the lender before the full transaction ends. Lending and returning is done in a single transaction.
+
+## Flash Loan Attack
+
+A flash loan attack is not a single thing but can be a combination of multiple actions to exploit a system. While a flash loan attack can also be an attack against the flash loan provider itself, it usually just uses the capital of the flash loan to perform the attack on some other DeFi contract. One example could be a token price manipulation through messing with the liquidity pool to create arbitrage opportunities on other exchanges or protocols.
+
 ## Index
 
 Measures the combined value of a basket of assets.
@@ -112,10 +122,6 @@ Guarantee, that an asset can be exchanged with a fixed amount of other assets.
 ## Inflationary Token
 
 Token with increasing circulating supply without max supply.
-
-{% hint style="info" %}
-Docs in progress
-{% endhint %}
 
 ## KYC
 
@@ -131,21 +137,33 @@ Please read the linked page to understand what a liquidity pool is:
 
 ## Locking
 
-{% hint style="info" %}
-Docs in progress
-{% endhint %}
+When tokens are locked in some contract, meaning that the token owner wallet has not access to these tokens until they are unlocked.
+
+See also [#vesting](glossary.md#vesting "mention") to learn more.
 
 ## Market Cap
 
-{% hint style="info" %}
-Docs in progress
+Market cap is a way to measure the total market value of a token, and often used as an indicator of relative dominance and popularity.
+
+$$
+\text{Market Cap} = \text{Current Price} \times \text{Circulating Supply}
+$$
+
+{% hint style="danger" %}
+The market cap does not in any way reflect how much money was invested. A project can have a high market cap while there is close to zero actual investment in the project.
+
+Though this metric is widely used, more information before making trading decisions is recommended.
 {% endhint %}
+
+See also [#circulating-supply](glossary.md#circulating-supply "mention") to learn more.
 
 ## Max Supply
 
-{% hint style="info" %}
-Docs in progress
-{% endhint %}
+Max supply refers to the maximum number of tokens that will ever be created. This means that once the maximum supply is reached, there won’t be any new coins mined, minted or produced in any other way.
+
+Max supply should not be confused with [#total-supply](glossary.md#total-supply "mention") and [#circulating-supply](glossary.md#circulating-supply "mention").
+
+See also [#minting](glossary.md#minting "mention"), [#burn](glossary.md#burn "mention") and [#vesting](glossary.md#vesting "mention") to learn more.
 
 ## Minting
 
@@ -175,9 +193,7 @@ In an [#automated-market-maker-amm](../products/padswap/#automated-market-maker-
 
 ## Reflections
 
-{% hint style="info" %}
-Docs in progress
-{% endhint %}
+When a share of every transaction of a token is distributed to all other holders of this token, this is called reflection.
 
 ## Rug Pulling
 
@@ -218,9 +234,11 @@ Tokenomics is a wordplay on token and economics. It usually refers to different 
 
 ## Total Supply
 
-{% hint style="info" %}
-Docs in progress
-{% endhint %}
+Total supply refers to the number of tokens that currently exist and are either in circulation or locked somehow. It is the sum of tokens that were already mined/minted minus the total of tokens that were burned or destroyed.
+
+Total supply should not be confused with [#circulating-supply](glossary.md#circulating-supply "mention") and [#max-supply](glossary.md#max-supply "mention").
+
+See also [#minting](glossary.md#minting "mention"), [#burn](glossary.md#burn "mention") and [#vesting](glossary.md#vesting "mention") to learn more.
 
 ## Total Value Locked (TVL)
 
@@ -230,6 +248,4 @@ See also [#farming](glossary.md#farming "mention") and [#liquidity-pool](glossar
 
 ## Vesting
 
-{% hint style="info" %}
-Docs in progress
-{% endhint %}
+If tokens are locked in a contract until a predefined date or another condition is met, these tokens are vested. This is often done on token launches to prevent large sell offs of initial investors.

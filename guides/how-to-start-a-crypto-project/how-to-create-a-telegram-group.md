@@ -8,7 +8,7 @@ In this guide we will guide we will create a new Telegram group for your project
 
 ## Step 1: Install Telegram
 
-Go to the Telegram website and choose your preferred client: [https://telegram.org/](https://telegram.org)
+Go to the Telegram website and choose your preferred client: [https://telegram.org/](https://telegram.org/)
 
 Install it and explore the UI a bit. You can start by joining the Toad channel at [https://t.me/toadnetwork](https://t.me/toadnetwork) and learn how to use Telegram by interacting with our community.
 
